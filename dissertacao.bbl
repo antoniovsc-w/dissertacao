@@ -1,9 +1,304 @@
-\begin{thebibliography}{0}
+\begin{thebibliography}{32}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 \newcommand{\coppeenquote}[1]{``#1''}
+
+\bibitem[\MakeUppercase{Ibrahim}\emph{ et~al.}(2023)Ibrahim, Nawaz, Rout, Lim,
+  Mainali, e Shahid]{w15162980}
+\MakeUppercase{Ibrahim, M., Nawaz, M.~H., Rout, P.~R., \MakeLowercase{et~al.}}
+\newblock \coppeenquote{Advances in Produced Water Treatment Technologies: An
+  In-Depth Exploration with an Emphasis on Membrane-Based Systems and Future
+  Perspectives}, \emph{Water}, v.~15, n.~16, 2023.
+\newblock ISSN: 2073-4441.
+\newblock \doi{10.3390/w15162980}.
+\newblock Dispon{\' i}vel em:
+  \textless\url{https://www.mdpi.com/2073-4441/15/16/2980}\textgreater .
+
+\bibitem[\MakeUppercase{Al-Ghouti}\emph{ et~al.}(2024)Al-Ghouti, Al-Kaabi,
+  Ashfaq, e Da’na]{MembranePW_JSDEWES_2024}
+\MakeUppercase{Al-Ghouti, M.~A., Al-Kaabi, M.~A., Ashfaq, M.~Y.,
+  \MakeLowercase{et~al.}}
+\newblock \coppeenquote{Membrane-Based Technologies: A Comprehensive Review for
+  Efficient and Environmentally Friendly Treatment of Produced Water in Oil and
+  Gas Industries}, \emph{Journal of Sustainable Development of Energy, Water
+  and Environment Systems}, v.~12, n.~5, \penalty0 pp.~0527, 2024.
+\newblock \doi{10.13044/j.sdewes.d12.0527}.
+\newblock Dispon{\' i}vel em:
+  \textless\url{https://www.sdewes.org/jsdewes/pid12.0527}\textgreater .
+
+\bibitem[\MakeUppercase{Nath}\emph{ et~al.}(2023)Nath, Chowdhury, e
+  Rhaman]{w15234088}
+\MakeUppercase{Nath, F., Chowdhury, M. O.~S., Rhaman, M.~M.}
+\newblock \coppeenquote{Navigating Produced Water Sustainability in the Oil and
+  Gas Sector: A Critical Review of Reuse Challenges, Treatment Technologies,
+  and Prospects Ahead}, \emph{Water}, v.~15, n.~23, 2023.
+\newblock ISSN: 2073-4441.
+\newblock \doi{10.3390/w15234088}.
+\newblock Dispon{\' i}vel em:
+  \textless\url{https://www.mdpi.com/2073-4441/15/23/4088}\textgreater .
+
+\bibitem[\MakeUppercase{Al-Ghouti}\emph{ et~al.}(2019)Al-Ghouti, Al-Kaabi,
+  Ashfaq, e Da’na]{ALGHOUTI2019222}
+\MakeUppercase{Al-Ghouti, M.~A., Al-Kaabi, M.~A., Ashfaq, M.~Y.,
+  \MakeLowercase{et~al.}}
+\newblock \coppeenquote{Produced water characteristics, treatment and reuse: A
+  review}, \emph{Journal of Water Process Engineering}, v.~28, \penalty0
+  pp.~222--239, 2019.
+\newblock ISSN: 2214-7144.
+\newblock \doi{https://doi.org/10.1016/j.jwpe.2019.02.001}.
+\newblock Dispon{\' i}vel em:
+  \textless\url{https://www.sciencedirect.com/science/article/pii/S2214714418306858}\textgreater
+  .
+
+\bibitem[\MakeUppercase{Beyer}\emph{ et~al.}(2020)Beyer, Goksøyr, Øystein
+  Hjermann, e Klungsøyr]{BEYER2020105155}
+\MakeUppercase{Beyer, J., Goksøyr, A., Øystein Hjermann, D.,
+  \MakeLowercase{et~al.}}
+\newblock \coppeenquote{Environmental effects of offshore produced water
+  discharges: A review focused on the Norwegian continental shelf},
+  \emph{Marine Environmental Research}, v.~162, \penalty0 pp.~105155, 2020.
+\newblock ISSN: 0141-1136.
+\newblock \doi{https://doi.org/10.1016/j.marenvres.2020.105155}.
+\newblock Dispon{\' i}vel em:
+  \textless\url{https://www.sciencedirect.com/science/article/pii/S0141113620306164}\textgreater
+  .
+
+\bibitem[\MakeUppercase{Jiang}\emph{ et~al.}(2021)Jiang, Lin, Xu, Cheng, Zhang,
+  Hall, e Xu]{w13020183}
+\MakeUppercase{Jiang, W., Lin, L., Xu, X., \MakeLowercase{et~al.}}
+\newblock \coppeenquote{A Critical Review of Analytical Methods for
+  Comprehensive Characterization of Produced Water}, \emph{Water}, v.~13, n.~2,
+  2021.
+\newblock ISSN: 2073-4441.
+\newblock \doi{10.3390/w13020183}.
+\newblock Dispon{\' i}vel em:
+  \textless\url{https://www.mdpi.com/2073-4441/13/2/183}\textgreater .
+
+\bibitem[\MakeUppercase{Ozgun}\emph{ et~al.}(2013)Ozgun, Ersahin, Erdem, Atay,
+  Sayili, Eren, Hoshan, Atay, Altinbas, Kinaci, e Koyuncu]{Ozgun}
+\MakeUppercase{Ozgun, H., Ersahin, M.~E., Erdem, S., \MakeLowercase{et~al.}}
+\newblock \coppeenquote{Comparative Evaluation for Characterization of Produced
+  Water Generated from Oil, Gas, and Oil–Gas Production Fields}, \emph{CLEAN
+  – Soil, Air, Water}, v.~41, n.~12, \penalty0 pp.~1175--1182, 2013.
+\newblock \doi{https://doi.org/10.1002/clen.201200204}.
+\newblock Dispon{\' i}vel em:
+  \textless\url{https://onlinelibrary.wiley.com/doi/abs/10.1002/clen.201200204}\textgreater
+  .
+
+\bibitem[\MakeUppercase{Alley}\emph{ et~al.}(2011)Alley, Beebe, Rodgers, e
+  Castle]{ALLEY201174}
+\MakeUppercase{Alley, B., Beebe, A., Rodgers, J., \MakeLowercase{et~al.}}
+\newblock \coppeenquote{Chemical and physical characterization of produced
+  waters from conventional and unconventional fossil fuel resources},
+  \emph{Chemosphere}, v.~85, n.~1, \penalty0 pp.~74--82, 2011.
+\newblock ISSN: 0045-6535.
+\newblock \doi{https://doi.org/10.1016/j.chemosphere.2011.05.043}.
+\newblock Dispon{\' i}vel em:
+  \textless\url{https://www.sciencedirect.com/science/article/pii/S0045653511005960}\textgreater
+  .
+
+\bibitem[\MakeUppercase{{OSPAR Commission}}(2001){OSPAR Commission}]{OSPAR2001}
+\MakeUppercase{{OSPAR Commission}}.
+\newblock \coppeenquote{OSPAR Recommendation 2001/1 for the Management of
+  Produced Water from Offshore Installations (Consolidated text)}. 2001.
+\newblock Dispon{\' i}vel em:
+  \textless\url{https://www.ospar.org/documents?v=48861}\textgreater .
+\newblock As amended in 2006, 2011 and 2020.
+
+\bibitem[\MakeUppercase{{United States Environmental Protection
+  Agency}}(2026){United States Environmental Protection Agency}]{EPA435}
+\MakeUppercase{{United States Environmental Protection Agency}}.
+\newblock \coppeenquote{Effluent Limitations Guidelines and New Source
+  Performance Standards for the Oil and Gas Extraction Point Source Category --
+  Offshore Subcategory}. Code of Federal Regulations, Title 40, Part 435, 2026.
+\newblock Dispon{\' i}vel em:
+  \textless\url{https://www.ecfr.gov/current/title-40/chapter-I/subchapter-N/part-435}\textgreater
+  .
+
+\bibitem[\MakeUppercase{{Brasil. Conselho Nacional do Meio Ambiente
+  (CONAMA)}}(2007){Brasil. Conselho Nacional do Meio Ambiente
+  (CONAMA)}]{CONAMA3932007}
+\MakeUppercase{{Brasil. Conselho Nacional do Meio Ambiente (CONAMA)}}.
+\newblock \coppeenquote{Resolução nº 393, de 8 de agosto de 2007}. Diário
+  Oficial da União, Brasília, DF, 9 ago. 2007, 2007.
+\newblock Dispon{\' i}vel em:
+  \textless\url{https://www.mma.gov.br/port/conama/legiabre.cfm?codlegi=585}\textgreater
+  .
+\newblock Dispõe sobre o descarte contínuo de água de processo ou de
+  produção em plataformas marítimas de petróleo e gás natural.
+
+\bibitem[\MakeUppercase{Bader}(2007)Bader]{BADER2007159}
+\MakeUppercase{Bader, M.}
+\newblock \coppeenquote{Seawater versus produced water in oil-fields water
+  injection operations}, \emph{Desalination}, v.~208, n.~1, \penalty0
+  pp.~159--168, 2007.
+\newblock ISSN: 0011-9164.
+\newblock \doi{https://doi.org/10.1016/j.desal.2006.05.024}.
+\newblock Dispon{\' i}vel em:
+  \textless\url{https://www.sciencedirect.com/science/article/pii/S0011916407000689}\textgreater
+  .
+
+\bibitem[\MakeUppercase{Akstinat}(2019)Akstinat]{AKSTINAT2019124011}
+\MakeUppercase{Akstinat, M.}
+\newblock \coppeenquote{Chemical and physicochemical properties of formation
+  waters of the oil and gas industry}, \emph{Journal of Hydrology}, v.~578,
+  \penalty0 pp.~124011, 2019.
+\newblock ISSN: 0022-1694.
+\newblock \doi{https://doi.org/10.1016/j.jhydrol.2019.124011}.
+\newblock Dispon{\' i}vel em:
+  \textless\url{https://www.sciencedirect.com/science/article/pii/S0022169419307371}\textgreater
+  .
+
+\bibitem[\MakeUppercase{Amakiri}\emph{ et~al.}(2022)Amakiri, Ramirez~Canon,
+  Molinari, e Angelis-Dimakis]{Amakiri2022ProducedWaterReview}
+\MakeUppercase{Amakiri, K.~T., Ramirez~Canon, A., Molinari, M.,
+  \MakeLowercase{et~al.}}
+\newblock \coppeenquote{Review of oilfield produced water treatment
+  technologies}, \emph{Chemosphere}, v.~298, \penalty0 pp.~134064, 2022.
+
+\bibitem[\MakeUppercase{Adepitan}\emph{ et~al.}(2026)Adepitan, Alabi, Deigh, e
+  Gbadeiyan]{Adepitan2026HybridPW}
+\MakeUppercase{Adepitan, O.~L., Alabi, O.~O., Deigh, C.,
+  \MakeLowercase{et~al.}}
+\newblock \coppeenquote{Systems-Level Optimization of Hybrid Produced Water
+  Treatment Systems for Sustainable Oil and Gas Production: A Review of Current
+  Technologies}, \emph{Global Challenges}, 2026.
+\newblock Article in press / early view.
+
+\bibitem[\MakeUppercase{Rajbongshi} e \MakeUppercase{Gogoi}(2024)Rajbongshi e
+  Gogoi]{Rajbongshi2024ProducedWaterReview}
+\MakeUppercase{Rajbongshi, A., Gogoi, S.~B.}
+\newblock \coppeenquote{A review on oilfield produced water and its treatment
+  technologies}, \emph{Petroleum Research}, v.~9, \penalty0 pp.~640--656, 2024.
+
+\bibitem[\MakeUppercase{Ahmadun}\emph{ et~al.}(2009)Ahmadun, Pendashteh,
+  Abdullah, Biak, Madaeni, e Abidin]{Ahmadun2009PWTechnologies}
+\MakeUppercase{Ahmadun, F.-R., Pendashteh, A., Abdullah, L.~C.,
+  \MakeLowercase{et~al.}}
+\newblock \coppeenquote{Review of technologies for oil and gas produced water
+  treatment}, \emph{Journal of Hazardous Materials}, v.~170, \penalty0
+  pp.~530--551, 2009.
+
+\bibitem[\MakeUppercase{Olatunji} e \MakeUppercase{Camacho}(2018)Olatunji e
+  Camacho]{Olatunji2018MDModeling}
+\MakeUppercase{Olatunji, S.~O., Camacho, L.~M.}
+\newblock \coppeenquote{Heat and Mass Transport in Modeling Membrane
+  Distillation Configurations: A Review}, \emph{Frontiers in Energy Research},
+  v.~6, \penalty0 pp.~130, 2018.
+\newblock \doi{10.3389/fenrg.2018.00130}.
+
+\bibitem[\MakeUppercase{Yan}\emph{ et~al.}(2021)Yan, Jiang, Liu, Li, Chen, Xia,
+  Fan, e Ding]{Yan2021MDWastewater}
+\MakeUppercase{Yan, Z., Jiang, Y., Liu, L., \MakeLowercase{et~al.}}
+\newblock \coppeenquote{Membrane Distillation for Wastewater Treatment: A Mini
+  Review}, \emph{Water}, v.~13, n.~24, \penalty0 pp.~3480, 2021.
+\newblock \doi{10.3390/w13243480}.
+
+\bibitem[\MakeUppercase{Kaur}\emph{ et~al.}(2023)Kaur, Goyat, Singh, Umar,
+  Chaudhry, e Akbar]{Kaur2023MDOverview}
+\MakeUppercase{Kaur, R., Goyat, R., Singh, J., \MakeLowercase{et~al.}}
+\newblock \coppeenquote{An Overview of Membrane Distillation Technology: One of
+  the Perfect Fighters for Desalination}, \emph{Engineered Science}, v.~21,
+  \penalty0 pp.~771, 2023.
+\newblock \doi{10.30919/es8d771}.
+
+\bibitem[\MakeUppercase{Adewole}\emph{ et~al.}(2022)Adewole, Al~Maawali,
+  Jafary, Firouz, e Oladipo]{Adewole2022MDDesalination}
+\MakeUppercase{Adewole, J.~K., Al~Maawali, H.~M., Jafary, T.,
+  \MakeLowercase{et~al.}}
+\newblock \coppeenquote{A review of seawater desalination with membrane
+  distillation: material development and energy requirements}, \emph{Water
+  Supply}, v.~22, n.~12, \penalty0 pp.~8500, 2022.
+\newblock \doi{10.2166/ws.2022.337}.
+
+\bibitem[\MakeUppercase{SMITH}(2011)SMITH]{smith2011}
+\MakeUppercase{SMITH, D.~J.}
+\newblock \emph{Reliability, maintainability and risk: practical methods for
+  engineers}.
+\newblock  Oxford, Elsevier, 2011.
+
+\bibitem[\MakeUppercase{Yao}\emph{ et~al.}(2020)Yao, Tijing, Naidu, Kim,
+  Matsuyama, Fane, e Shon]{Yao2020WettabilityMD}
+\MakeUppercase{Yao, M., Tijing, L.~D., Naidu, G., \MakeLowercase{et~al.}}
+\newblock \coppeenquote{A review of membrane wettability for the treatment of
+  saline water deploying membrane distillation}, \emph{Desalination}, v.~479,
+  \penalty0 pp.~114312, 2020.
+\newblock \doi{10.1016/j.desal.2020.114312}.
+
+\bibitem[\MakeUppercase{Alkhatib}\emph{ et~al.}(2021)Alkhatib, Ayari, e
+  Hawari]{Alkhatib2021FoulingMD}
+\MakeUppercase{Alkhatib, A., Ayari, M.~A., Hawari, A.~H.}
+\newblock \coppeenquote{Fouling mitigation strategies for different foulants in
+  membrane distillation}, \emph{Chemical Engineering and Processing - Process
+  Intensification}, v.~167, \penalty0 pp.~108517, 2021.
+\newblock \doi{10.1016/j.cep.2021.108517}.
+
+\bibitem[\MakeUppercase{Macedonio}\emph{ et~al.}(2014)Macedonio, Ali, Poerio,
+  El-Sayed, Drioli, e Abdel-Jawad]{Macedonio2014_MD_ProducedWater}
+\MakeUppercase{Macedonio, F., Ali, A., Poerio, T., \MakeLowercase{et~al.}}
+\newblock \coppeenquote{Direct contact membrane distillation for treatment of
+  oilfield produced water}, \emph{Separation and Purification Technology},
+  v.~126, \penalty0 pp.~69--81, 2014.
+\newblock \doi{10.1016/j.seppur.2014.02.004}.
+
+\bibitem[\MakeUppercase{Gueccia}\emph{ et~al.}(2021)Gueccia, Winter, Randazzo,
+  Cipollina, Kabschikowski, e Micale]{Gueccia2021HClRecovery}
+\MakeUppercase{Gueccia, R., Winter, D., Randazzo, S., \MakeLowercase{et~al.}}
+\newblock \coppeenquote{An integrated approach for the HCl and metals recovery
+  from waste pickling solutions: pilot plant and design operations},
+  \emph{Chemical Engineering Research and Design}, v.~168, \penalty0
+  pp.~383--396, 2021.
+\newblock \doi{10.1016/j.cherd.2021.02.015}.
+
+\bibitem[\MakeUppercase{Kujawa}\emph{ et~al.}(NULL)Kujawa, Zi\k{e}ba,
+  Zi\k{e}ba, Al-Gharabli, Kujawski, e Teryk]{Kujawa_PVDF_SWCNH}
+\MakeUppercase{Kujawa, J., Zi\k{e}ba, M., Zi\k{e}ba, W.,
+  \MakeLowercase{et~al.}}
+\newblock \coppeenquote{Carbon nanohorn improved durable PVDF membranes - The
+  future of membrane distillation and desalination}, \emph{Chemical Engineering
+  Research and Design}, v.~NULL, \penalty0 pp.~NULL, NULL.
+\newblock \doi{NULL}.
+
+\bibitem[\MakeUppercase{Woo}\emph{ et~al.}(2021)Woo, Yao, Shim, Kim, Tijing,
+  Jung, Kim, e Shon]{Woo2021ElectrospunMD}
+\MakeUppercase{Woo, Y.~C., Yao, M., Shim, W.-G., \MakeLowercase{et~al.}}
+\newblock \coppeenquote{Co-axially electrospun superhydrophobic nanofiber
+  membranes with 3D-hierarchically structured surface for desalination by
+  long-term membrane distillation}, \emph{Journal of Membrane Science}, v.~623,
+  \penalty0 pp.~119028, 2021.
+
+\bibitem[\MakeUppercase{Suga}\emph{ et~al.}(2021)Suga, Takagi, e
+  Matsuyama]{Suga2021VMD}
+\MakeUppercase{Suga, Y., Takagi, R., Matsuyama, H.}
+\newblock \coppeenquote{Effect of the Characteristic Properties of Membrane on
+  Long-Term Stability in the Vacuum Membrane Distillation Process},
+  \emph{Membranes}, v.~11, \penalty0 pp.~252, 2021.
+\newblock \doi{10.3390/membranes11040252}.
+
+\bibitem[\MakeUppercase{Nguyen}\emph{ et~al.}(2025)Nguyen, Duong, Chen, Quang,
+  Ngo, Cong, Nguyen, Nguyen, e Huynh]{Nguyen2025MDStability}
+\MakeUppercase{Nguyen, H.~T., Duong, H.~C., Chen, S.-S.,
+  \MakeLowercase{et~al.}}
+\newblock \coppeenquote{Enhancing membrane distillation stability: Isoamyl
+  alcohol coagulation as a novel strategy to mitigate membrane swelling at
+  elevated temperatures}, \emph{Environmental Technology \& Innovation}, v.~37,
+  \penalty0 pp.~104029, 2025.
+\newblock \doi{10.1016/j.eti.2025.104029}.
+
+\bibitem[\MakeUppercase{Ruiz-Aguirre}\emph{ et~al.}(2019)Ruiz-Aguirre,
+  Andr{\'e}s-Ma{\~n}as, e Zaragoza]{RuizAguirre2019PermeateQuality}
+\MakeUppercase{Ruiz-Aguirre, A., Andr{\'e}s-Ma{\~n}as, J.~A., Zaragoza, G.}
+\newblock \coppeenquote{Evaluation of Permeate Quality in Pilot Scale Membrane
+  Distillation Systems}, \emph{Membranes}, 2019.
+
+\bibitem[\MakeUppercase{Hsieh}\emph{ et~al.}(2024)Hsieh, Lin, Matinpour, e
+  Malmali]{Hsieh2024ScalingWetting}
+\MakeUppercase{Hsieh, I.-M., Lin, B., Matinpour, H., \MakeLowercase{et~al.}}
+\newblock \coppeenquote{In-situ imaging to elucidate on scaling and wetting in
+  membrane distillation}, \emph{Desalination}, v.~577, \penalty0 pp.~117393,
+  2024.
 
 \end{thebibliography}

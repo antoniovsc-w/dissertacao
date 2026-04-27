@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.4.16)  16 APR 2026 16:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.4.16)  27 APR 2026 16:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -628,163 +628,38 @@ No file dissertacao.lab.
 
 ] (Chapters/001Introduction/Introduction.tex
 Cap\'{\i }tulo 1.
-
-Package natbib Warning: Citation `w15162980' on page 1 undefined on input line 
-5.
-
-
-Package natbib Warning: Citation `MembranePW_JSDEWES_2024' on page 1 undefined 
-on input line 5.
-
-
-Package natbib Warning: Citation `w15234088' on page 1 undefined on input line 
-5.
-
-
-Package natbib Warning: Citation `ALGHOUTI2019222' on page 1 undefined on input
- line 5.
-
-
-Package natbib Warning: Citation `BEYER2020105155' on page 1 undefined on input
- line 7.
-
-
-Package natbib Warning: Citation `ALGHOUTI2019222' on page 1 undefined on input
- line 7.
-
-
-Package natbib Warning: Citation `w13020183' on page 1 undefined on input line 
-7.
-
-
-Package natbib Warning: Citation `Ozgun' on page 1 undefined on input line 9.
-
-
-Package natbib Warning: Citation `ALLEY201174' on page 1 undefined on input lin
-e 9.
-
-
-Package natbib Warning: Citation `OSPAR2001' on page 1 undefined on input line 
-11.
-
-
-Package natbib Warning: Citation `EPA435' on page 1 undefined on input line 11.
-
-
-
-Package natbib Warning: Citation `CONAMA3932007' on page 1 undefined on input l
-ine 11.
-
-
-Package natbib Warning: Citation `BADER2007159' on page 1 undefined on input li
-ne 15.
-
-
-Package natbib Warning: Citation `AKSTINAT2019124011' on page 1 undefined on in
-put line 15.
-
 [1
 
 
-]
-
-Package natbib Warning: Citation `Amakiri2022ProducedWaterReview' on page 2 und
-efined on input line 17.
-
-
-Package natbib Warning: Citation `Adepitan2026HybridPW' on page 2 undefined on 
-input line 17.
-
-
-Package natbib Warning: Citation `Rajbongshi2024ProducedWaterReview' on page 2 
-undefined on input line 17.
-
-
-Package natbib Warning: Citation `Ahmadun2009PWTechnologies' on page 2 undefine
-d on input line 17.
-
-
-Package natbib Warning: Citation `Olatunji2018MDModeling' on page 2 undefined o
-n input line 19.
-
-
-Package natbib Warning: Citation `Yan2021MDWastewater' on page 2 undefined on i
-nput line 19.
-
-
-Package natbib Warning: Citation `Kaur2023MDOverview' on page 2 undefined on in
-put line 19.
-
-
-Package natbib Warning: Citation `Adewole2022MDDesalination' on page 2 undefine
-d on input line 19.
-
-
-Package natbib Warning: Citation `Olatunji2018MDModeling' on page 2 undefined o
-n input line 21.
-
-
-Package natbib Warning: Citation `Yan2021MDWastewater' on page 2 undefined on i
-nput line 21.
-
-
-Package natbib Warning: Citation `Kaur2023MDOverview' on page 2 undefined on in
-put line 21.
-
-
-Package natbib Warning: Citation `Adewole2022MDDesalination' on page 2 undefine
-d on input line 21.
-
-
-Package natbib Warning: Citation `smith2011' on page 2 undefined on input line 
-23.
-
-
-Package natbib Warning: Citation `Yao2020WettabilityMD' on page 2 undefined on 
-input line 27.
-
-[2]
-
-Package natbib Warning: Citation `Alkhatib2021FoulingMD' on page 3 undefined on
- input line 29.
-
-) (Chapters/002Revision/Revision.tex [3]
+] [2]) (Chapters/002Revision/Revision.tex [3]
 Cap\'{\i }tulo 2.
-
-Package natbib Warning: Citation `Macedonio2014_MD_ProducedWater' on page 4 und
-efined on input line 19.
-
 [4
 
 ]
+! Undefined control sequence.
+<recently read> \muS 
+                     
+l.27 ...inicial e condutividade inferior a 8 $\muS
+                                                  /cm$. O autor enfatiza o L...
 
-Package natbib Warning: Citation `AlSalmi2020_MD_ProducedWater' on page 5 undef
-ined on input line 21.
-
-) (Chapters/003Methodology/Methodology.tex [5]
+? 
+[5]) (Chapters/003Methodology/Methodology.tex [6]
 Cap\'{\i }tulo 3.
-) (Chapters/004Results/Results.tex [6
+) (Chapters/004Results/Results.tex [7
 
 ]
 Cap\'{\i }tulo 4.
-) (Chapters/005Conclusion/Conclusion.tex [7
+) (Chapters/005Conclusion/Conclusion.tex [8
 
 ]
 Cap\'{\i }tulo 5.
-) [8
+) [9
 
-] (dissertacao.bbl
-
-LaTeX Warning: Empty `thebibliography' environment on input line 9.
-
-)
-
-Package natbib Warning: There were undefined citations.
-
-[9
+] (dissertacao.bbl [10
 
 
-] 
+] [11] [12] [13]) [14]
+
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (dissertacao.aux (Chapters/000AcknowledgmentAndAbstract/00Acknowledgment.aux)
 (Chapters/000AcknowledgmentAndAbstract/01Abstract.aux))
@@ -796,25 +671,28 @@ Package rerunfilecheck Info: File `dissertacao.out' has not changed.
 (rerunfilecheck)             Checksum: 555CE6F6EDCFDE08595A90E28E1D25A7;1635.
  ) 
 Here is how much of TeX's memory you used:
- 13126 strings out of 467871
- 204699 string characters out of 5428419
- 646525 words of memory out of 5000000
- 41720 multiletter control sequences out of 15000+600000
- 638018 words of font info for 66 fonts, out of 8000000 for 9000
+ 13267 strings out of 467871
+ 208030 string characters out of 5428419
+ 652136 words of memory out of 5000000
+ 41823 multiletter control sequences out of 15000+600000
+ 638331 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,931b,497s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,1160b,656s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Administrador\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
-600\tcrm1200.pk> <C:\Users\Administrador\AppData\Local\MiKTeX\fonts/pk/ljfour/j
-knappen/ec/dpi600\ecbx1728.pk> <C:\Users\Administrador\AppData\Local\MiKTeX\fon
-ts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\Administrador\AppData\Lo
-cal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\Administra
-dor\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Us
-ers\Administrador\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1
-200.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/P
-rogram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on dissertacao.pdf (19 pages, 190595 bytes).
+600\ectt1200.pk> <C:\Users\Administrador\AppData\Local\MiKTeX\fonts/pk/ljfour/j
+knappen/ec/dpi600\tcrm1200.pk> <C:\Users\Administrador\AppData\Local\MiKTeX\fon
+ts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\Administrador\AppData\Lo
+cal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\Administra
+dor\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Us
+ers\Administrador\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1
+200.pk> <C:\Users\Administrador\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/e
+c/dpi600\ecrm1200.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+mi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/
+Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on dissertacao.pdf (24 pages, 266882 bytes).
 PDF statistics:
- 419 PDF objects out of 1000 (max. 8388607)
- 33 named destinations out of 1000 (max. 500000)
+ 625 PDF objects out of 1000 (max. 8388607)
+ 70 named destinations out of 1000 (max. 500000)
  94 words of extra memory for PDF output out of 10000 (max. 10000000)
 

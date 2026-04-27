@@ -8,77 +8,45 @@ A level-1 auxiliary file: Chapters/000AcknowledgmentAndAbstract/01Abstract.aux
 Reallocating 'name_of_file' (item size: 1) to 12 items.
 The style file: coppe-unsrt.bst
 Reallocating 'name_of_file' (item size: 1) to 24 items.
-I couldn't open database file Bibliography/references.bib
----line 49 of file dissertacao.aux
- : \bibdata{Bibliography/references
- :                                 }
-I'm skipping whatever remains of this command
-I found no database files---while reading file dissertacao.aux
-Warning--I didn't find a database entry for "w15162980"
-Warning--I didn't find a database entry for "MembranePW_JSDEWES_2024"
-Warning--I didn't find a database entry for "w15234088"
-Warning--I didn't find a database entry for "ALGHOUTI2019222"
-Warning--I didn't find a database entry for "BEYER2020105155"
-Warning--I didn't find a database entry for "w13020183"
-Warning--I didn't find a database entry for "Ozgun"
-Warning--I didn't find a database entry for "ALLEY201174"
-Warning--I didn't find a database entry for "OSPAR2001"
-Warning--I didn't find a database entry for "EPA435"
-Warning--I didn't find a database entry for "CONAMA3932007"
-Warning--I didn't find a database entry for "BADER2007159"
-Warning--I didn't find a database entry for "AKSTINAT2019124011"
-Warning--I didn't find a database entry for "Amakiri2022ProducedWaterReview"
-Warning--I didn't find a database entry for "Adepitan2026HybridPW"
-Warning--I didn't find a database entry for "Rajbongshi2024ProducedWaterReview"
-Warning--I didn't find a database entry for "Ahmadun2009PWTechnologies"
-Warning--I didn't find a database entry for "Olatunji2018MDModeling"
-Warning--I didn't find a database entry for "Yan2021MDWastewater"
-Warning--I didn't find a database entry for "Kaur2023MDOverview"
-Warning--I didn't find a database entry for "Adewole2022MDDesalination"
-Warning--I didn't find a database entry for "smith2011"
-Warning--I didn't find a database entry for "Yao2020WettabilityMD"
-Warning--I didn't find a database entry for "Alkhatib2021FoulingMD"
-Warning--I didn't find a database entry for "Macedonio2014_MD_ProducedWater"
-Warning--I didn't find a database entry for "AlSalmi2020_MD_ProducedWater"
-You've used 0 entries,
+Database file #1: Bibliography/references.bib
+You've used 32 entries,
             2630 wiz_defined-function locations,
-            595 strings with 4949 characters,
-and the built_in function-call counts, 36 in all, are:
-= -- 0
-> -- 0
-< -- 0
-+ -- 0
-- -- 0
-* -- 2
-:= -- 11
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
-chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 1
-format.name$ -- 0
-if$ -- 1
+            810 strings with 13804 characters,
+and the built_in function-call counts, 14074 in all, are:
+= -- 1138
+> -- 737
+< -- 17
++ -- 307
+- -- 243
+* -- 1432
+:= -- 2243
+add.period$ -- 141
+call.type$ -- 32
+change.case$ -- 32
+chr.to.int$ -- 32
+cite$ -- 32
+duplicate$ -- 749
+empty$ -- 1299
+format.name$ -- 279
+if$ -- 2913
 int.to.chr$ -- 1
-int.to.str$ -- 1
-missing$ -- 0
-newline$ -- 9
-num.names$ -- 0
-pop$ -- 0
+int.to.str$ -- 33
+missing$ -- 30
+newline$ -- 183
+num.names$ -- 96
+pop$ -- 228
 preamble$ -- 1
-purify$ -- 0
+purify$ -- 32
 quote$ -- 0
-skip$ -- 1
+skip$ -- 334
 stack$ -- 0
-substring$ -- 0
-swap$ -- 0
-text.length$ -- 0
+substring$ -- 492
+swap$ -- 220
+text.length$ -- 9
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 0
+type$ -- 221
 warning$ -- 0
-while$ -- 0
+while$ -- 91
 width$ -- 0
-write$ -- 8
-(There were 2 error messages)
+write$ -- 477
