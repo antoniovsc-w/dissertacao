@@ -8,7 +8,7 @@
 \contentsline {section}{\numberline {2.1}Caracteristicas de processo}{4}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Tratamento de água}{4}{section.2.2}%
 \contentsline {section}{\numberline {2.3}Tratamento de água de produção}{4}{section.2.3}%
-\contentsline {chapter}{\numberline {3}Metodologia}{7}{chapter.3}%
-\contentsline {chapter}{\numberline {4}Resultados e Discuss\~oes}{8}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Conclusões}{9}{chapter.5}%
-\contentsline {chapter}{Refer\^encias Bibliogr\'aficas}{10}{chapter*.5}%
+\contentsline {chapter}{\numberline {3}Metodologia}{9}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Resultados e Discuss\~oes}{10}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Conclusões}{11}{chapter.5}%
+\contentsline {chapter}{Refer\^encias Bibliogr\'aficas}{12}{chapter*.5}%

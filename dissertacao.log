@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.4.16)  27 APR 2026 16:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.4.16)  28 APR 2026 16:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -635,30 +635,22 @@ Cap\'{\i }tulo 1.
 Cap\'{\i }tulo 2.
 [4
 
-]
-! Undefined control sequence.
-<recently read> \muS 
-                     
-l.27 ...inicial e condutividade inferior a 8 $\muS
-                                                  /cm$. O autor enfatiza o L...
-
-? 
-[5]) (Chapters/003Methodology/Methodology.tex [6]
+] [5] [6] [7]) (Chapters/003Methodology/Methodology.tex [8]
 Cap\'{\i }tulo 3.
-) (Chapters/004Results/Results.tex [7
+) (Chapters/004Results/Results.tex [9
 
 ]
 Cap\'{\i }tulo 4.
-) (Chapters/005Conclusion/Conclusion.tex [8
+) (Chapters/005Conclusion/Conclusion.tex [10
 
 ]
 Cap\'{\i }tulo 5.
-) [9
+) [11
 
-] (dissertacao.bbl [10
+] (dissertacao.bbl [12
 
 
-] [11] [12] [13]) [14]
+] [13] [14] [15]) [16]
 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (dissertacao.aux (Chapters/000AcknowledgmentAndAbstract/00Acknowledgment.aux)
@@ -671,13 +663,13 @@ Package rerunfilecheck Info: File `dissertacao.out' has not changed.
 (rerunfilecheck)             Checksum: 555CE6F6EDCFDE08595A90E28E1D25A7;1635.
  ) 
 Here is how much of TeX's memory you used:
- 13267 strings out of 467871
- 208030 string characters out of 5428419
- 652136 words of memory out of 5000000
- 41823 multiletter control sequences out of 15000+600000
+ 13276 strings out of 467871
+ 208207 string characters out of 5428419
+ 652300 words of memory out of 5000000
+ 41828 multiletter control sequences out of 15000+600000
  638331 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,1160b,656s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,2578b,656s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Administrador\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
 600\ectt1200.pk> <C:\Users\Administrador\AppData\Local\MiKTeX\fonts/pk/ljfour/j
 knappen/ec/dpi600\tcrm1200.pk> <C:\Users\Administrador\AppData\Local\MiKTeX\fon
@@ -690,9 +682,9 @@ c/dpi600\ecrm1200.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cm
 mi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/
 Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/
 MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on dissertacao.pdf (24 pages, 266882 bytes).
+Output written on dissertacao.pdf (26 pages, 275128 bytes).
 PDF statistics:
- 625 PDF objects out of 1000 (max. 8388607)
- 70 named destinations out of 1000 (max. 500000)
+ 638 PDF objects out of 1000 (max. 8388607)
+ 74 named destinations out of 1000 (max. 500000)
  94 words of extra memory for PDF output out of 10000 (max. 10000000)
 

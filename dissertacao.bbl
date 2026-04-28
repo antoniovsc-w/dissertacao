@@ -1,4 +1,4 @@
-\begin{thebibliography}{32}
+\begin{thebibliography}{34}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -300,5 +300,22 @@
 \newblock \coppeenquote{In-situ imaging to elucidate on scaling and wetting in
   membrane distillation}, \emph{Desalination}, v.~577, \penalty0 pp.~117393,
   2024.
+
+\bibitem[\MakeUppercase{Nawaz}\emph{ et~al.}(2021)Nawaz, Son, Jin, Kim,
+  Soukane, Al-Hajji, Abu-Ghdaib, e Ghaffour]{Nawaz2021FO_MD}
+\MakeUppercase{Nawaz, M.~S., Son, H.~S., Jin, Y., \MakeLowercase{et~al.}}
+\newblock \coppeenquote{Investigation of flux stability and fouling mechanism
+  during simultaneous treatment of different produced water streams using
+  forward osmosis and membrane distillation}, \emph{Water Research}, v.~198,
+  \penalty0 pp.~117157, 2021.
+\newblock \doi{10.1016/j.watres.2021.117157}.
+
+\bibitem[\MakeUppercase{Pawar}\emph{ et~al.}(2022)Pawar, Zhang, e
+  Vidic]{Pawar2022AGMD}
+\MakeUppercase{Pawar, R., Zhang, Z., Vidic, R.~D.}
+\newblock \coppeenquote{Laboratory and pilot-scale studies of membrane
+  distillation for desalination of produced water from Permian Basin},
+  \emph{Desalination}, v.~537, \penalty0 pp.~115853, 2022.
+\newblock \doi{10.1016/j.desal.2022.115853}.
 
 \end{thebibliography}
