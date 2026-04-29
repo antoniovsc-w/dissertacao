@@ -1,4 +1,4 @@
-\begin{thebibliography}{34}
+\begin{thebibliography}{41}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -220,12 +220,12 @@
   engineers}.
 \newblock  Oxford, Elsevier, 2011.
 
-\bibitem[\MakeUppercase{Yao}\emph{ et~al.}(2020)Yao, Tijing, Naidu, Kim,
-  Matsuyama, Fane, e Shon]{Yao2020WettabilityMD}
+\bibitem[\MakeUppercase{Yao}\emph{ et~al.}(2020{\natexlab{a}})Yao, Tijing,
+  Naidu, Kim, Matsuyama, Fane, e Shon]{Yao2020WettabilityMD}
 \MakeUppercase{Yao, M., Tijing, L.~D., Naidu, G., \MakeLowercase{et~al.}}
 \newblock \coppeenquote{A review of membrane wettability for the treatment of
   saline water deploying membrane distillation}, \emph{Desalination}, v.~479,
-  \penalty0 pp.~114312, 2020.
+  \penalty0 pp.~114312, 2020{\natexlab{a}}.
 \newblock \doi{10.1016/j.desal.2020.114312}.
 
 \bibitem[\MakeUppercase{Alkhatib}\emph{ et~al.}(2021)Alkhatib, Ayari, e
@@ -317,5 +317,62 @@
   distillation for desalination of produced water from Permian Basin},
   \emph{Desalination}, v.~537, \penalty0 pp.~115853, 2022.
 \newblock \doi{10.1016/j.desal.2022.115853}.
+
+\bibitem[\MakeUppercase{Singh} e \MakeUppercase{Sirkar}(2011)Singh e
+  Sirkar]{Singh2011DCMD}
+\MakeUppercase{Singh, D., Sirkar, K.~K.}
+\newblock \coppeenquote{Desalination of brine and produced water by direct
+  contact membrane distillation at high temperatures and pressures},
+  \emph{Journal of Membrane Science}, v.~389-390, \penalty0 pp.~380--388, 2011.
+\newblock \doi{10.1016/j.memsci.2011.10.019}.
+
+\bibitem[\MakeUppercase{Abdelrazeq}\emph{ et~al.}(2022)Abdelrazeq, Khraisheh, e
+  Hassan]{Abdelrazeq2022DCMD}
+\MakeUppercase{Abdelrazeq, H., Khraisheh, M., Hassan, M.~K.}
+\newblock \coppeenquote{Long-Term Treatment of Highly Saline Brine in a Direct
+  Contact Membrane Distillation (DCMD) Pilot Unit Using Polyethylene
+  Membranes}, \emph{Membranes}, v.~12, n.~4, \penalty0 pp.~424, 2022.
+\newblock \doi{10.3390/membranes12040424}.
+
+\bibitem[\MakeUppercase{González}\emph{ et~al.}(2017)González, Amigo, e
+  Suárez]{Gonzalez2017}
+\MakeUppercase{González, D., Amigo, J., Suárez, F.}
+\newblock \coppeenquote{Membrane distillation: Perspectives for sustainable and
+  improved desalination}, \emph{Renewable and Sustainable Energy Reviews},
+  v.~80, \penalty0 pp.~238--259, 2017.
+\newblock \doi{10.1016/j.rser.2017.05.078}.
+
+\bibitem[\MakeUppercase{Yao}\emph{ et~al.}(2020{\natexlab{b}})Yao, Tijing,
+  Naidu, Kim, Matsuyama, Fane, e Shon]{Yao2020}
+\MakeUppercase{Yao, M., Tijing, L.~D., Naidu, G., \MakeLowercase{et~al.}}
+\newblock \coppeenquote{A review of membrane wettability for the treatment of
+  saline water deploying membrane distillation}, \emph{Desalination}, v.~479,
+  \penalty0 pp.~114312, 2020{\natexlab{b}}.
+\newblock \doi{10.1016/j.desal.2019.114312}.
+
+\bibitem[\MakeUppercase{Abdel-Karim}\emph{ et~al.}(2021)Abdel-Karim, Leaper,
+  Skuse, Zaragoza, Gryta, e Gorgojo]{AbdelKarim2021}
+\MakeUppercase{Abdel-Karim, A., Leaper, S., Skuse, C., \MakeLowercase{et~al.}}
+\newblock \coppeenquote{Membrane cleaning and pretreatments in membrane
+  distillation -- a review}, \emph{Chemical Engineering Journal}, v.~422,
+  \penalty0 pp.~129696, 2021.
+\newblock \doi{10.1016/j.cej.2021.129696}.
+
+\bibitem[\MakeUppercase{Eykens}\emph{ et~al.}(2016)Eykens, Hitsov, De~Sitter,
+  Dotremont, Pinoy, Nopens, e Van~der Bruggen]{Eykens2016}
+\MakeUppercase{Eykens, L., Hitsov, I., De~Sitter, K., \MakeLowercase{et~al.}}
+\newblock \coppeenquote{Influence of membrane thickness and process conditions
+  on direct contact membrane distillation at different salinities},
+  \emph{Journal of Membrane Science}, v.~498, \penalty0 pp.~353--364, 2016.
+\newblock \doi{10.1016/j.memsci.2015.09.058}.
+
+\bibitem[\MakeUppercase{Swaminathan}\emph{ et~al.}(2018)Swaminathan, Chung,
+  Warsinger, e Lienhard~V]{Swaminathan2018}
+\MakeUppercase{Swaminathan, J., Chung, H.~W., Warsinger, D.~M.,
+  \MakeLowercase{et~al.}}
+\newblock \coppeenquote{Energy efficiency of membrane distillation up to high
+  salinity: Evaluating critical system size and optimal membrane thickness},
+  \emph{Applied Energy}, v.~211, \penalty0 pp.~715--734, 2018.
+\newblock \doi{10.1016/j.apenergy.2017.11.043}.
 
 \end{thebibliography}

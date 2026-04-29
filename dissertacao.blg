@@ -9,44 +9,44 @@ Reallocating 'name_of_file' (item size: 1) to 12 items.
 The style file: coppe-unsrt.bst
 Reallocating 'name_of_file' (item size: 1) to 24 items.
 Database file #1: Bibliography/references.bib
-You've used 34 entries,
+You've used 41 entries,
             2630 wiz_defined-function locations,
-            825 strings with 14446 characters,
-and the built_in function-call counts, 15015 in all, are:
-= -- 1211
-> -- 791
-< -- 17
-+ -- 329
-- -- 261
-* -- 1532
-:= -- 2394
-add.period$ -- 149
-call.type$ -- 34
-change.case$ -- 34
-chr.to.int$ -- 34
-cite$ -- 34
-duplicate$ -- 797
-empty$ -- 1385
-format.name$ -- 299
-if$ -- 3106
-int.to.chr$ -- 1
-int.to.str$ -- 35
-missing$ -- 32
-newline$ -- 193
-num.names$ -- 102
-pop$ -- 242
+            874 strings with 16088 characters,
+and the built_in function-call counts, 18301 in all, are:
+= -- 1484
+> -- 960
+< -- 19
++ -- 400
+- -- 317
+* -- 1881
+:= -- 2907
+add.period$ -- 177
+call.type$ -- 41
+change.case$ -- 41
+chr.to.int$ -- 40
+cite$ -- 41
+duplicate$ -- 966
+empty$ -- 1688
+format.name$ -- 364
+if$ -- 3782
+int.to.chr$ -- 2
+int.to.str$ -- 42
+missing$ -- 39
+newline$ -- 228
+num.names$ -- 123
+pop$ -- 290
 preamble$ -- 1
-purify$ -- 34
+purify$ -- 41
 quote$ -- 0
-skip$ -- 354
+skip$ -- 422
 stack$ -- 0
-substring$ -- 534
-swap$ -- 234
-text.length$ -- 9
+substring$ -- 700
+swap$ -- 286
+text.length$ -- 10
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 235
+type$ -- 284
 warning$ -- 0
-while$ -- 97
+while$ -- 122
 width$ -- 0
-write$ -- 505
+write$ -- 603
