@@ -1,4 +1,4 @@
-\begin{thebibliography}{43}
+\begin{thebibliography}{37}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -236,63 +236,13 @@
   Intensification}, v.~167, \penalty0 pp.~108517, 2021.
 \newblock \doi{10.1016/j.cep.2021.108517}.
 
-\bibitem[\MakeUppercase{Macedonio}\emph{ et~al.}(2014)Macedonio, Ali, Poerio,
-  El-Sayed, Drioli, e Abdel-Jawad]{Macedonio2014_MD_ProducedWater}
-\MakeUppercase{Macedonio, F., Ali, A., Poerio, T., \MakeLowercase{et~al.}}
-\newblock \coppeenquote{Direct contact membrane distillation for treatment of
-  oilfield produced water}, \emph{Separation and Purification Technology},
-  v.~126, \penalty0 pp.~69--81, 2014.
-\newblock \doi{10.1016/j.seppur.2014.02.004}.
-
-\bibitem[\MakeUppercase{Gueccia}\emph{ et~al.}(2021)Gueccia, Winter, Randazzo,
-  Cipollina, Kabschikowski, e Micale]{Gueccia2021HClRecovery}
-\MakeUppercase{Gueccia, R., Winter, D., Randazzo, S., \MakeLowercase{et~al.}}
-\newblock \coppeenquote{An integrated approach for the HCl and metals recovery
-  from waste pickling solutions: pilot plant and design operations},
-  \emph{Chemical Engineering Research and Design}, v.~168, \penalty0
-  pp.~383--396, 2021.
-\newblock \doi{10.1016/j.cherd.2021.02.015}.
-
-\bibitem[\MakeUppercase{Kujawa}\emph{ et~al.}(NULL)Kujawa, Zi\k{e}ba,
-  Zi\k{e}ba, Al-Gharabli, Kujawski, e Teryk]{Kujawa_PVDF_SWCNH}
-\MakeUppercase{Kujawa, J., Zi\k{e}ba, M., Zi\k{e}ba, W.,
-  \MakeLowercase{et~al.}}
-\newblock \coppeenquote{Carbon nanohorn improved durable PVDF membranes - The
-  future of membrane distillation and desalination}, \emph{Chemical Engineering
-  Research and Design}, v.~NULL, \penalty0 pp.~NULL, NULL.
-\newblock \doi{NULL}.
-
-\bibitem[\MakeUppercase{Woo}\emph{ et~al.}(2021)Woo, Yao, Shim, Kim, Tijing,
-  Jung, Kim, e Shon]{Woo2021ElectrospunMD}
-\MakeUppercase{Woo, Y.~C., Yao, M., Shim, W.-G., \MakeLowercase{et~al.}}
-\newblock \coppeenquote{Co-axially electrospun superhydrophobic nanofiber
-  membranes with 3D-hierarchically structured surface for desalination by
-  long-term membrane distillation}, \emph{Journal of Membrane Science}, v.~623,
-  \penalty0 pp.~119028, 2021.
-
-\bibitem[\MakeUppercase{Suga}\emph{ et~al.}(2021)Suga, Takagi, e
-  Matsuyama]{Suga2021VMD}
-\MakeUppercase{Suga, Y., Takagi, R., Matsuyama, H.}
-\newblock \coppeenquote{Effect of the Characteristic Properties of Membrane on
-  Long-Term Stability in the Vacuum Membrane Distillation Process},
-  \emph{Membranes}, v.~11, \penalty0 pp.~252, 2021.
-\newblock \doi{10.3390/membranes11040252}.
-
-\bibitem[\MakeUppercase{Nguyen}\emph{ et~al.}(2025)Nguyen, Duong, Chen, Quang,
-  Ngo, Cong, Nguyen, Nguyen, e Huynh]{Nguyen2025MDStability}
-\MakeUppercase{Nguyen, H.~T., Duong, H.~C., Chen, S.-S.,
-  \MakeLowercase{et~al.}}
-\newblock \coppeenquote{Enhancing membrane distillation stability: Isoamyl
-  alcohol coagulation as a novel strategy to mitigate membrane swelling at
-  elevated temperatures}, \emph{Environmental Technology \& Innovation}, v.~37,
-  \penalty0 pp.~104029, 2025.
-\newblock \doi{10.1016/j.eti.2025.104029}.
-
-\bibitem[\MakeUppercase{Ruiz-Aguirre}\emph{ et~al.}(2019)Ruiz-Aguirre,
-  Andr{\'e}s-Ma{\~n}as, e Zaragoza]{RuizAguirre2019PermeateQuality}
-\MakeUppercase{Ruiz-Aguirre, A., Andr{\'e}s-Ma{\~n}as, J.~A., Zaragoza, G.}
-\newblock \coppeenquote{Evaluation of Permeate Quality in Pilot Scale Membrane
-  Distillation Systems}, \emph{Membranes}, 2019.
+\bibitem[\MakeUppercase{González}\emph{ et~al.}(2017)González, Amigo, e
+  Suárez]{Gonzalez2017}
+\MakeUppercase{González, D., Amigo, J., Suárez, F.}
+\newblock \coppeenquote{Membrane distillation: Perspectives for sustainable and
+  improved desalination}, \emph{Renewable and Sustainable Energy Reviews},
+  v.~80, \penalty0 pp.~238--259, 2017.
+\newblock \doi{10.1016/j.rser.2017.05.078}.
 
 \bibitem[\MakeUppercase{Hsieh}\emph{ et~al.}(2024)Hsieh, Lin, Matinpour, e
   Malmali]{Hsieh2024ScalingWetting}
@@ -300,6 +250,36 @@
 \newblock \coppeenquote{In-situ imaging to elucidate on scaling and wetting in
   membrane distillation}, \emph{Desalination}, v.~577, \penalty0 pp.~117393,
   2024.
+
+\bibitem[\MakeUppercase{Ruiz-Aguirre}\emph{ et~al.}(2019)Ruiz-Aguirre,
+  Andr{\'e}s-Ma{\~n}as, e Zaragoza]{RuizAguirre2019PermeateQuality}
+\MakeUppercase{Ruiz-Aguirre, A., Andr{\'e}s-Ma{\~n}as, J.~A., Zaragoza, G.}
+\newblock \coppeenquote{Evaluation of Permeate Quality in Pilot Scale Membrane
+  Distillation Systems}, \emph{Membranes}, 2019.
+
+\bibitem[\MakeUppercase{Abdelrazeq}\emph{ et~al.}(2022)Abdelrazeq, Khraisheh, e
+  Hassan]{Abdelrazeq2022DCMD}
+\MakeUppercase{Abdelrazeq, H., Khraisheh, M., Hassan, M.~K.}
+\newblock \coppeenquote{Long-Term Treatment of Highly Saline Brine in a Direct
+  Contact Membrane Distillation (DCMD) Pilot Unit Using Polyethylene
+  Membranes}, \emph{Membranes}, v.~12, n.~4, \penalty0 pp.~424, 2022.
+\newblock \doi{10.3390/membranes12040424}.
+
+\bibitem[\MakeUppercase{Singh} e \MakeUppercase{Sirkar}(2011)Singh e
+  Sirkar]{Singh2011DCMD}
+\MakeUppercase{Singh, D., Sirkar, K.~K.}
+\newblock \coppeenquote{Desalination of brine and produced water by direct
+  contact membrane distillation at high temperatures and pressures},
+  \emph{Journal of Membrane Science}, v.~389-390, \penalty0 pp.~380--388, 2011.
+\newblock \doi{10.1016/j.memsci.2011.10.019}.
+
+\bibitem[\MakeUppercase{Macedonio}\emph{ et~al.}(2014)Macedonio, Ali, Poerio,
+  El-Sayed, Drioli, e Abdel-Jawad]{Macedonio2014_MD_ProducedWater}
+\MakeUppercase{Macedonio, F., Ali, A., Poerio, T., \MakeLowercase{et~al.}}
+\newblock \coppeenquote{Direct contact membrane distillation for treatment of
+  oilfield produced water}, \emph{Separation and Purification Technology},
+  v.~126, \penalty0 pp.~69--81, 2014.
+\newblock \doi{10.1016/j.seppur.2014.02.004}.
 
 \bibitem[\MakeUppercase{Nawaz}\emph{ et~al.}(2021)Nawaz, Son, Jin, Kim,
   Soukane, Al-Hajji, Abu-Ghdaib, e Ghaffour]{Nawaz2021FO_MD}
@@ -317,30 +297,6 @@
   distillation for desalination of produced water from Permian Basin},
   \emph{Desalination}, v.~537, \penalty0 pp.~115853, 2022.
 \newblock \doi{10.1016/j.desal.2022.115853}.
-
-\bibitem[\MakeUppercase{Singh} e \MakeUppercase{Sirkar}(2011)Singh e
-  Sirkar]{Singh2011DCMD}
-\MakeUppercase{Singh, D., Sirkar, K.~K.}
-\newblock \coppeenquote{Desalination of brine and produced water by direct
-  contact membrane distillation at high temperatures and pressures},
-  \emph{Journal of Membrane Science}, v.~389-390, \penalty0 pp.~380--388, 2011.
-\newblock \doi{10.1016/j.memsci.2011.10.019}.
-
-\bibitem[\MakeUppercase{Abdelrazeq}\emph{ et~al.}(2022)Abdelrazeq, Khraisheh, e
-  Hassan]{Abdelrazeq2022DCMD}
-\MakeUppercase{Abdelrazeq, H., Khraisheh, M., Hassan, M.~K.}
-\newblock \coppeenquote{Long-Term Treatment of Highly Saline Brine in a Direct
-  Contact Membrane Distillation (DCMD) Pilot Unit Using Polyethylene
-  Membranes}, \emph{Membranes}, v.~12, n.~4, \penalty0 pp.~424, 2022.
-\newblock \doi{10.3390/membranes12040424}.
-
-\bibitem[\MakeUppercase{González}\emph{ et~al.}(2017)González, Amigo, e
-  Suárez]{Gonzalez2017}
-\MakeUppercase{González, D., Amigo, J., Suárez, F.}
-\newblock \coppeenquote{Membrane distillation: Perspectives for sustainable and
-  improved desalination}, \emph{Renewable and Sustainable Energy Reviews},
-  v.~80, \penalty0 pp.~238--259, 2017.
-\newblock \doi{10.1016/j.rser.2017.05.078}.
 
 \bibitem[\MakeUppercase{Abdel-Karim}\emph{ et~al.}(2021)Abdel-Karim, Leaper,
   Skuse, Zaragoza, Gryta, e Gorgojo]{AbdelKarim2021}
@@ -383,14 +339,5 @@
   desalination of high-salinity brines}, \emph{Applied Water Science}, v.~13,
   \penalty0 pp.~233, 2023.
 \newblock \doi{10.1007/s13201-023-02017-x}.
-
-\bibitem[\MakeUppercase{Guillen-Burrieza}\emph{ et~al.}(2023)Guillen-Burrieza,
-  Moritz, Hobisch, e Muster-Slawitsch]{GuillenBurrieza2023}
-\MakeUppercase{Guillen-Burrieza, E., Moritz, E., Hobisch, M.,
-  \MakeLowercase{et~al.}}
-\newblock \coppeenquote{Recovery of ammonia from centrate water in urban waste
-  water treatment plants via direct contact membrane distillation: Process
-  performance in long-term pilot-scale operation}, \emph{Journal of Membrane
-  Science}, v.~667, \penalty0 pp.~121161, 2023.
 
 \end{thebibliography}

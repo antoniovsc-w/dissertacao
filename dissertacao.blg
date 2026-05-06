@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99e
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: dissertacao.aux
+Reallocating 'name_of_file' (item size: 1) to 59 items.
+A level-1 auxiliary file: Chapters/000AcknowledgmentAndAbstract/00Acknowledgment.aux
+Reallocating 'name_of_file' (item size: 1) to 53 items.
+A level-1 auxiliary file: Chapters/000AcknowledgmentAndAbstract/01Abstract.aux
+Reallocating 'name_of_file' (item size: 1) to 12 items.
+The style file: coppe-unsrt.bst
+Reallocating 'name_of_file' (item size: 1) to 24 items.
+Database file #1: Bibliography/references.bib
+You've used 37 entries,
+            2630 wiz_defined-function locations,
+            851 strings with 14879 characters,
+and the built_in function-call counts, 16311 in all, are:
+= -- 1341
+> -- 822
+< -- 19
++ -- 345
+- -- 271
+* -- 1661
+:= -- 2578
+add.period$ -- 162
+call.type$ -- 37
+change.case$ -- 37
+chr.to.int$ -- 37
+cite$ -- 37
+duplicate$ -- 870
+empty$ -- 1518
+format.name$ -- 314
+if$ -- 3381
+int.to.chr$ -- 1
+int.to.str$ -- 38
+missing$ -- 35
+newline$ -- 209
+num.names$ -- 111
+pop$ -- 261
+preamble$ -- 1
+purify$ -- 37
+quote$ -- 0
+skip$ -- 385
+stack$ -- 0
+substring$ -- 622
+swap$ -- 256
+text.length$ -- 10
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 256
+warning$ -- 0
+while$ -- 110
+width$ -- 0
+write$ -- 549
