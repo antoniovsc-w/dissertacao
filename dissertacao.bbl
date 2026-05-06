@@ -236,6 +236,14 @@
   Intensification}, v.~167, \penalty0 pp.~108517, 2021.
 \newblock \doi{10.1016/j.cep.2021.108517}.
 
+\bibitem[\MakeUppercase{Eykens}\emph{ et~al.}(2016)Eykens, Hitsov, De~Sitter,
+  Dotremont, Pinoy, Nopens, e Van~der Bruggen]{Eykens2016}
+\MakeUppercase{Eykens, L., Hitsov, I., De~Sitter, K., \MakeLowercase{et~al.}}
+\newblock \coppeenquote{Influence of membrane thickness and process conditions
+  on direct contact membrane distillation at different salinities},
+  \emph{Journal of Membrane Science}, v.~498, \penalty0 pp.~353--364, 2016.
+\newblock \doi{10.1016/j.memsci.2015.09.058}.
+
 \bibitem[\MakeUppercase{González}\emph{ et~al.}(2017)González, Amigo, e
   Suárez]{Gonzalez2017}
 \MakeUppercase{González, D., Amigo, J., Suárez, F.}
@@ -244,12 +252,38 @@
   v.~80, \penalty0 pp.~238--259, 2017.
 \newblock \doi{10.1016/j.rser.2017.05.078}.
 
+\bibitem[\MakeUppercase{Swaminathan}\emph{ et~al.}(2018)Swaminathan, Chung,
+  Warsinger, e Lienhard~V]{Swaminathan2018}
+\MakeUppercase{Swaminathan, J., Chung, H.~W., Warsinger, D.~M.,
+  \MakeLowercase{et~al.}}
+\newblock \coppeenquote{Energy efficiency of membrane distillation up to high
+  salinity: Evaluating critical system size and optimal membrane thickness},
+  \emph{Applied Energy}, v.~211, \penalty0 pp.~715--734, 2018.
+\newblock \doi{10.1016/j.apenergy.2017.11.043}.
+
+\bibitem[\MakeUppercase{Abdel-Karim}\emph{ et~al.}(2021)Abdel-Karim, Leaper,
+  Skuse, Zaragoza, Gryta, e Gorgojo]{AbdelKarim2021}
+\MakeUppercase{Abdel-Karim, A., Leaper, S., Skuse, C., \MakeLowercase{et~al.}}
+\newblock \coppeenquote{Membrane cleaning and pretreatments in membrane
+  distillation -- a review}, \emph{Chemical Engineering Journal}, v.~422,
+  \penalty0 pp.~129696, 2021.
+\newblock \doi{10.1016/j.cej.2021.129696}.
+
 \bibitem[\MakeUppercase{Hsieh}\emph{ et~al.}(2024)Hsieh, Lin, Matinpour, e
   Malmali]{Hsieh2024ScalingWetting}
 \MakeUppercase{Hsieh, I.-M., Lin, B., Matinpour, H., \MakeLowercase{et~al.}}
 \newblock \coppeenquote{In-situ imaging to elucidate on scaling and wetting in
   membrane distillation}, \emph{Desalination}, v.~577, \penalty0 pp.~117393,
   2024.
+
+\bibitem[\MakeUppercase{Su}\emph{ et~al.}(2017)Su, Chang, Tang, Gao, Li, e
+  Cao]{Su2017}
+\MakeUppercase{Su, C., Chang, J., Tang, K., \MakeLowercase{et~al.}}
+\newblock \coppeenquote{Novel three-dimensional superhydrophobic and
+  strength-enhanced electrospun membranes for long-term membrane distillation},
+  \emph{Separation and Purification Technology}, v.~178, \penalty0
+  pp.~279--287, 2017.
+\newblock \doi{10.1016/j.seppur.2017.01.042}.
 
 \bibitem[\MakeUppercase{Ruiz-Aguirre}\emph{ et~al.}(2019)Ruiz-Aguirre,
   Andr{\'e}s-Ma{\~n}as, e Zaragoza]{RuizAguirre2019PermeateQuality}
@@ -297,40 +331,6 @@
   distillation for desalination of produced water from Permian Basin},
   \emph{Desalination}, v.~537, \penalty0 pp.~115853, 2022.
 \newblock \doi{10.1016/j.desal.2022.115853}.
-
-\bibitem[\MakeUppercase{Abdel-Karim}\emph{ et~al.}(2021)Abdel-Karim, Leaper,
-  Skuse, Zaragoza, Gryta, e Gorgojo]{AbdelKarim2021}
-\MakeUppercase{Abdel-Karim, A., Leaper, S., Skuse, C., \MakeLowercase{et~al.}}
-\newblock \coppeenquote{Membrane cleaning and pretreatments in membrane
-  distillation -- a review}, \emph{Chemical Engineering Journal}, v.~422,
-  \penalty0 pp.~129696, 2021.
-\newblock \doi{10.1016/j.cej.2021.129696}.
-
-\bibitem[\MakeUppercase{Eykens}\emph{ et~al.}(2016)Eykens, Hitsov, De~Sitter,
-  Dotremont, Pinoy, Nopens, e Van~der Bruggen]{Eykens2016}
-\MakeUppercase{Eykens, L., Hitsov, I., De~Sitter, K., \MakeLowercase{et~al.}}
-\newblock \coppeenquote{Influence of membrane thickness and process conditions
-  on direct contact membrane distillation at different salinities},
-  \emph{Journal of Membrane Science}, v.~498, \penalty0 pp.~353--364, 2016.
-\newblock \doi{10.1016/j.memsci.2015.09.058}.
-
-\bibitem[\MakeUppercase{Swaminathan}\emph{ et~al.}(2018)Swaminathan, Chung,
-  Warsinger, e Lienhard~V]{Swaminathan2018}
-\MakeUppercase{Swaminathan, J., Chung, H.~W., Warsinger, D.~M.,
-  \MakeLowercase{et~al.}}
-\newblock \coppeenquote{Energy efficiency of membrane distillation up to high
-  salinity: Evaluating critical system size and optimal membrane thickness},
-  \emph{Applied Energy}, v.~211, \penalty0 pp.~715--734, 2018.
-\newblock \doi{10.1016/j.apenergy.2017.11.043}.
-
-\bibitem[\MakeUppercase{Su}\emph{ et~al.}(2017)Su, Chang, Tang, Gao, Li, e
-  Cao]{Su2017}
-\MakeUppercase{Su, C., Chang, J., Tang, K., \MakeLowercase{et~al.}}
-\newblock \coppeenquote{Novel three-dimensional superhydrophobic and
-  strength-enhanced electrospun membranes for long-term membrane distillation},
-  \emph{Separation and Purification Technology}, v.~178, \penalty0
-  pp.~279--287, 2017.
-\newblock \doi{10.1016/j.seppur.2017.01.042}.
 
 \bibitem[\MakeUppercase{Adham}\emph{ et~al.}(2023)Adham, Minier-Matar, e
   Hussain]{Adham2023}
