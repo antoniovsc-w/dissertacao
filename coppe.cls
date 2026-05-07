@@ -754,7 +754,7 @@ T\kern-.1667em\lower.5ex\hbox{E}\kern-.125emX\spacefactor1000}
 \newcommand\local@statename{RJ}
 \newcommand\local@countryname{Brasil}
 \newcommand\frontcover@maintext{
-  \sloppy\nohyphens{\local@doctype\ de \@degreename\
+  \sloppy\nohyphens{Proposta de \local@doctype\ de \@degreename\
   \ifthenelse{\boolean{maledoc}}{apresentado}{apresentada}
   ao Programa de P{\' o}s-gradua{\c c}{\~ a}o em \local@deptname,
   COPPE, da \local@universityname, como parte dos requisitos
