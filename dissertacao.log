@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.4.16)  7 MAY 2026 00:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.4.16)  7 MAY 2026 22:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -553,7 +553,7 @@ Package hyperref Info: Link coloring OFF on input line 8.
 Package hyperref Info: Option `breaklinks' set `true' on input line 29.
 Package hyperref Info: Option `raiselinks' set `true' on input line 29.
 Package hyperref Info: Option `pageanchor' set `true' on input line 29.
-<coppe-logo.pdf, id=63, 177.463pt x 76.285pt>
+<coppe-logo.pdf, id=67, 177.463pt x 76.285pt>
 File: coppe-logo.pdf Graphic file (type pdf)
 <use coppe-logo.pdf>
 Package pdftex.def Info: coppe-logo.pdf  used on input line 29.
@@ -624,7 +624,7 @@ Cap\'{\i }tulo 1.
 
 ] [2]) (Chapters/002Revision/Revision.tex [3]
 Cap\'{\i }tulo 2.
-<graficopublicacoes.png, id=168, 491.436pt x 289.68225pt>
+<graficopublicacoes.png, id=173, 491.436pt x 289.68225pt>
 File: graficopublicacoes.png Graphic file (type png)
 <use graficopublicacoes.png>
 Package pdftex.def Info: graficopublicacoes.png  used on input line 9.
@@ -634,20 +634,20 @@ Package pdftex.def Info: graficopublicacoes.png  used on input line 9.
  <./graficopublicacoes.png>] [5] [6] [7] [8] [9] [10] [11] [12] [13])
 (Chapters/003Methodology/Methodology.tex [14]
 Cap\'{\i }tulo 3.
-) (Chapters/004Results/Results.tex [15
+[15
 
-]
+]) (Chapters/004Results/Results.tex [16]
 Cap\'{\i }tulo 4.
-) (Chapters/005Conclusion/Conclusion.tex [16
+) (Chapters/005Conclusion/Conclusion.tex [17
 
 ]
 Cap\'{\i }tulo 5.
-) [17
+) [18
 
-] (dissertacao.bbl [18
+] (dissertacao.bbl [19
 
 
-] [19] [20] [21] [22]) [23]
+] [20] [21] [22] [23]) [24]
 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (dissertacao.aux (Chapters/000AcknowledgmentAndAbstract/01Abstract.aux))
@@ -656,13 +656,13 @@ LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
 Package rerunfilecheck Info: File `dissertacao.out' has not changed.
-(rerunfilecheck)             Checksum: 47F065C85B0CBCD9DD5F9DE78D8AB37C;2398.
+(rerunfilecheck)             Checksum: 25CA07B124AD169B0F0D745342CBA082;2605.
  ) 
 Here is how much of TeX's memory you used:
- 13306 strings out of 467871
- 210709 string characters out of 5418376
+ 13309 strings out of 467871
+ 210740 string characters out of 5418376
  652625 words of memory out of 5000000
- 41850 multiletter control sequences out of 15000+600000
+ 41851 multiletter control sequences out of 15000+600000
  638331 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,9n,79p,1459b,682s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -680,9 +680,9 @@ pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/t
 onin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C
 :/Users/tonin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy
 8.pfb>
-Output written on dissertacao.pdf (29 pages, 318727 bytes).
+Output written on dissertacao.pdf (30 pages, 322698 bytes).
 PDF statistics:
- 697 PDF objects out of 1000 (max. 8388607)
- 89 named destinations out of 1000 (max. 500000)
- 131 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 708 PDF objects out of 1000 (max. 8388607)
+ 91 named destinations out of 1000 (max. 500000)
+ 139 words of extra memory for PDF output out of 10000 (max. 10000000)
 
