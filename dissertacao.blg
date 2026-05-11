@@ -9,45 +9,47 @@ Reallocating 'name_of_file' (item size: 1) to 24 items.
 Database file #1: Bibliography/references.bib
 Warning--entry type for "Aquastill2025" isn't style-file defined
 --line 1063 of file Bibliography/references.bib
-You've used 42 entries,
+Warning--entry type for "ASTM_F316_03" isn't style-file defined
+--line 1079 of file Bibliography/references.bib
+You've used 49 entries,
             2630 wiz_defined-function locations,
-            884 strings with 16272 characters,
-and the built_in function-call counts, 18448 in all, are:
-= -- 1501
-> -- 952
-< -- 20
-+ -- 398
-- -- 314
-* -- 1876
-:= -- 2924
-add.period$ -- 181
-call.type$ -- 42
-change.case$ -- 42
-chr.to.int$ -- 42
-cite$ -- 42
-duplicate$ -- 983
-empty$ -- 1714
-format.name$ -- 362
-if$ -- 3820
-int.to.chr$ -- 1
-int.to.str$ -- 43
-missing$ -- 39
-newline$ -- 233
-num.names$ -- 126
-pop$ -- 302
+            928 strings with 17451 characters,
+and the built_in function-call counts, 20729 in all, are:
+= -- 1703
+> -- 1018
+< -- 27
++ -- 433
+- -- 334
+* -- 2042
+:= -- 3255
+add.period$ -- 214
+call.type$ -- 49
+change.case$ -- 49
+chr.to.int$ -- 48
+cite$ -- 49
+duplicate$ -- 1116
+empty$ -- 1969
+format.name$ -- 389
+if$ -- 4321
+int.to.chr$ -- 2
+int.to.str$ -- 50
+missing$ -- 40
+newline$ -- 273
+num.names$ -- 147
+pop$ -- 381
 preamble$ -- 1
-purify$ -- 42
+purify$ -- 49
 quote$ -- 0
-skip$ -- 438
+skip$ -- 512
 stack$ -- 0
-substring$ -- 682
-swap$ -- 289
-text.length$ -- 10
+substring$ -- 728
+swap$ -- 329
+text.length$ -- 11
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 291
+type$ -- 340
 warning$ -- 0
-while$ -- 123
+while$ -- 139
 width$ -- 0
-write$ -- 615
-(There was 1 warning)
+write$ -- 711
+(There were 2 warnings)

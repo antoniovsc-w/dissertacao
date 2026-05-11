@@ -1,4 +1,4 @@
-\begin{thebibliography}{42}
+\begin{thebibliography}{49}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -380,5 +380,63 @@
 \newblock \coppeenquote{Aquastill - membrane distillation technology}. 2025.
 \newblock Dispon{\' i}vel em:
   \textless\url{https://www.aquastill.nl/}\textgreater .
+
+\bibitem[\MakeUppercase{{OMEGA Engineering}}(2025){OMEGA Engineering}]{Omega}
+\MakeUppercase{{OMEGA Engineering}}.
+\newblock \coppeenquote{Sensores pt-100}. 2025.
+\newblock Dispon{\' i}vel em:
+  \textless\url{https://br.omega.com/prodinfo/pt100.html}\textgreater .
+\newblock Acesso em: 09 abr. 2026.
+
+\bibitem[\MakeUppercase{{Digimed}}(2025){Digimed}]{Digimed}
+\MakeUppercase{{Digimed}}.
+\newblock \coppeenquote{Condutividade, resistividade e concentração --
+  catálogo de analisador de condutividade}. 2025.
+\newblock Dispon{\' i}vel em:
+  \textless\url{https://www.digimed.ind.br/assets/downloads/produtos/catalogos/digimed-catalogo-analisador-condutividade-resistividade-concentracao-tc-4004.pdf}\textgreater
+  .
+\newblock Acesso em: 09 abr. 2026.
+
+\bibitem[\MakeUppercase{{Bürkert Fluid Control
+  Systems}}(2025{\natexlab{a}}){Bürkert Fluid Control Systems}]{Burkert1}
+\MakeUppercase{{Bürkert Fluid Control Systems}}.
+\newblock \coppeenquote{Type 8323 -- pressure transmitter for general
+  applications}. 2025{\natexlab{a}}.
+\newblock Dispon{\' i}vel em:
+  \textless\url{https://www.burkert.com/en/type/8323}\textgreater .
+\newblock Acesso em: 09 abr. 2026.
+
+\bibitem[\MakeUppercase{{Bürkert Fluid Control
+  Systems}}(2025{\natexlab{b}}){Bürkert Fluid Control Systems}]{Burkert2}
+\MakeUppercase{{Bürkert Fluid Control Systems}}.
+\newblock \coppeenquote{Flow meter}. 2025{\natexlab{b}}.
+\newblock Dispon{\' i}vel em:
+  \textless\url{https://www.burkert.com/en/products/sensors-transmitters-and-controllers/flow}\textgreater
+  .
+\newblock Acesso em: 09 abr. 2026.
+
+\bibitem[\MakeUppercase{{Tisch Scientific}}(2026){Tisch
+  Scientific}]{TischScientific}
+\MakeUppercase{{Tisch Scientific}}.
+\newblock \coppeenquote{Tisch Scientific}. 2026.
+\newblock Dispon{\' i}vel em:
+  \textless\url{https://www.tischscientific.com/}\textgreater .
+\newblock Acesso em: 09 abr. 2026.
+
+\bibitem[\MakeUppercase{{ASTM International}}(2003){ASTM
+  International}]{ASTM_F316_03}
+\MakeUppercase{{ASTM International}}.
+\newblock \coppeenquote{Standard Test Methods for Pore Size Characteristics of
+  Membrane Filters by Bubble Point and Mean Flow Pore Test}. 2003.
+
+\bibitem[\MakeUppercase{Millero}\emph{ et~al.}(1980)Millero, Chen, Bradshaw, e
+  Schleicher]{Millero1980}
+\MakeUppercase{Millero, F.~J., Chen, C.-T., Bradshaw, A.,
+  \MakeLowercase{et~al.}}
+\newblock \coppeenquote{A new high pressure equation of state for seawater},
+  \emph{Deep-Sea Research}, v.~27A, n.~4, \penalty0 pp.~255--264, 1980.
+\newblock \doi{10.1016/0198-0149(80)90016-3}.
+\newblock Dispon{\' i}vel em:
+  \textless\url{https://doi.org/10.1016/0198-0149(80)90016-3}\textgreater .
 
 \end{thebibliography}
