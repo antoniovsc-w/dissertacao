@@ -6,6 +6,14 @@
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 \newcommand{\coppeenquote}[1]{``#1''}
 
+\bibitem[\MakeUppercase{Singh} e \MakeUppercase{Sirkar}(2011)Singh e
+  Sirkar]{Singh2011DCMD}
+\MakeUppercase{Singh, D., Sirkar, K.~K.}
+\newblock \coppeenquote{Desalination of brine and produced water by direct
+  contact membrane distillation at high temperatures and pressures},
+  \emph{Journal of Membrane Science}, v.~389-390, \penalty0 pp.~380--388, 2011.
+\newblock \doi{10.1016/j.memsci.2011.10.019}.
+
 \bibitem[\MakeUppercase{Ibrahim}\emph{ et~al.}(2023)Ibrahim, Nawaz, Rout, Lim,
   Mainali, e Shahid]{w15162980}
 \MakeUppercase{Ibrahim, M., Nawaz, M.~H., Rout, P.~R., \MakeLowercase{et~al.}}
@@ -341,14 +349,6 @@
   desalination of high-salinity brines}, \emph{Applied Water Science}, v.~13,
   \penalty0 pp.~233, 2023.
 \newblock \doi{10.1007/s13201-023-02017-x}.
-
-\bibitem[\MakeUppercase{Singh} e \MakeUppercase{Sirkar}(2011)Singh e
-  Sirkar]{Singh2011DCMD}
-\MakeUppercase{Singh, D., Sirkar, K.~K.}
-\newblock \coppeenquote{Desalination of brine and produced water by direct
-  contact membrane distillation at high temperatures and pressures},
-  \emph{Journal of Membrane Science}, v.~389-390, \penalty0 pp.~380--388, 2011.
-\newblock \doi{10.1016/j.memsci.2011.10.019}.
 
 \bibitem[\MakeUppercase{Macedonio}\emph{ et~al.}(2014)Macedonio, Ali, Poerio,
   El-Sayed, Drioli, e Abdel-Jawad]{Macedonio2014_MD_ProducedWater}
