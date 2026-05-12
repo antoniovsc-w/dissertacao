@@ -15,5 +15,4 @@
 \contentsline {section}{\numberline {3.4}Análise de dados}{23}{section.3.4}%
 \contentsline {chapter}{\numberline {4}Resultados Preliminares}{25}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Caracterização das membranas}{25}{section.4.1}%
-\contentsline {chapter}{\numberline {5}Considerações finais}{26}{chapter.5}%
-\contentsline {chapter}{Refer\^encias Bibliogr\'aficas}{27}{chapter*.4}%
+\contentsline {chapter}{\numberline {5}Considerações finais}{28}{chapter.5}%

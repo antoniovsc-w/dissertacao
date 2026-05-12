@@ -1,4 +1,4 @@
-\documentclass[msc,numbers]{coppe} %% Mestrado: "msc"; Doutorado: "dsc";
+\documentclass[msc,numbers,fleqn]{coppe} %% Mestrado: "msc"; Doutorado: "dsc";
 \usepackage{amsmath,amssymb}
 \usepackage[hidelinks]{hyperref}
 \usepackage{xcolor}
@@ -6,6 +6,10 @@
 \usepackage{indentfirst}
 \usepackage{tabularx}
 \usepackage{graphicx}
+
+
+\setlength{\mathindent}{0pt}
+
 \makelosymbols
 \makeloabbreviations
 
@@ -13,7 +17,7 @@
   \title{Análise de longo prazo de membranas comerciais no tratamento de água de produção via destilação por membranas}
   \foreigntitle{Temporal analysis of commercial membranes in the treatment of produced water via membrane distillation.}
   \author{Antonio Victor}{de Souza Correa}
-  \advisor{Prof.}{Carolina}{Naveira Cotta}{D.Sc.}
+  \advisor{Prof.}{Carolina}{Palma Naveira Cotta}{D.Sc.}
   %\advisor{Prof.}{Nome do Segundo Orientador}{Sobrenome}{Ph.D.}
   %\advisor{Prof.}{Nome do Terceiro Orientador}{Sobrenome}{D.Sc.}
 
@@ -56,7 +60,28 @@
   \input{Chapters/004Results/Results}
   \input{Chapters/005Conclusion/Conclusion}
   
-  \backmatter
+ \backmatter
+
+  \makeatletter
+  \renewenvironment{thebibliography}[1]
+     {\chapter*{\bibname}
+      \list{\@biblabel{\@arabic\c@enumiv}}
+           {
+            \settowidth\labelwidth{\@biblabel{#1}}
+            \leftmargin=\labelwidth
+            \advance\leftmargin\labelsep
+            \itemindent=0pt
+            \listparindent=0pt
+            \parsep=0pt
+            \itemsep=0.2cm
+            \usecounter{enumiv}
+            \let\p@enumiv\@empty
+            \renewcommand\theenumiv{\@arabic\c@enumiv}
+           }
+      \sloppy}
+     {\endlist}
+  \makeatother
+
   \bibliographystyle{coppe-unsrt}
   \bibliography{Bibliography/references}
 
