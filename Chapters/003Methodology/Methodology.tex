@@ -2,17 +2,19 @@
 
 \section{Bancada experimental}
 
-A bancada experimental consiste em uma unidade laboratorial de dessalinização, comercializada pela empresa Aquastil \cite{Aquastill2025}, adaptada para operar com o módulo fabicado no laboratório de nano e microfluidica e microssistemas (LabMEMS). A unidade possui três reservatórios d'água destinados a água de produção (quente), água para refrigeração (frio) e permeado. O aquecimento da água de produção é realizado por um sistema on/off através do controlador MT-516E da FULLGAUGE e uma resistência de 2~kW posicionada no interior do reservatório. O resfriamento da água de refrigeração é realizado através de um sistema HVAC (heating, ventilation and air contitioning). A figura \ref{fig:bancada} apresenta a bancada vista de frente.
+A bancada experimental consiste em uma unidade laboratorial de dessalinização, comercializada pela Aquastil \cite{Aquastill2025}, adaptada para operar com o módulo fabicado no laboratório de nano e microfluidica e microssistemas (LabMEMS). A unidade é composta por três reservatórios: um destinado à água de produção (lado quente), outro à água para refrigeração (lado frio) e um terceiro para o permeado. 
+
+O aquecimento da água de produção é realizado por um sistema on/off, controlado pelo equipamento MT-516E da Full Gauge Controls, em conjunto com uma resistência de 2~kW instalada no interior do reservatório. Já o resfriamento da água de refrigeração é promovido por um sistema HVAC (heating, ventilation and air contitioning). A figura \ref{fig:bancada} apresenta a bancada vista de frente.
 
 
-\begin{figure}[H]
+\begin{figure}
     \centering
-    \includegraphics[width=\textwidth, height=9cm, keepaspectratio]{bancada.jpeg}
+    \includegraphics[width=\textwidth, height=10cm, keepaspectratio]{bancada.jpeg}
     \caption{Bancada utilizada para a realização dos experimentos.}
     \label{fig:bancada}
 \end{figure}
 
-A bancada também possui três bombas, uma para cada reservatório, as quais fornecem a alimentação do módulo AGMD, e uma para retornar o permeado produzido de volta ao reservatório de água de produção. A bancada é equipada com sensores de temperatura e pressão nas entradas e saídas do módulo, assim como sensores de vazão após as bombas dos reservatórios quente e frio. Há também uma célula de condutividade posicionada na linha de entrada do tanque de permeado. A tabela \ref{tab:sensores} apresenta as caracteristicas dos sensores utilizados e a figura \ref{fig:diagramabancada} o diagrama da bancada.
+A bancada também é composta por três bombas, uma associada a cada reservatório, responsáveis por fornecer a alimentação do módulo AGMD, além de retornar o permeado produzido de volta ao reservatório de água de produção. A bancada é equipada com sensores de temperatura e pressão nas entradas e saídas do módulo, bem como sensores de vazão após as bombas dos reservatórios quente e frio. Há também uma célula de condutividade posicionada na linha de entrada do tanque de permeado. A tabela \ref{tab:sensores} apresenta as caracteristicas dos sensores utilizados e a figura \ref{fig:diagramabancada} o diagrama da bancada.
 
 \begin{table}[H]
 \centering
@@ -33,12 +35,12 @@ Medidor de vazão & Vazão & Burkert \cite{Burkert2} & 0,1--10~$Lmin^{-1}$ & $\p
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=\textwidth, height=12cm, keepaspectratio]{diagramabancada.png}
+    \includegraphics[width=\textwidth, height=10cm, keepaspectratio]{diagramabancada.png}
     \caption{Diagrama da bancada experimental de destilação por membranas com gap de ar (AGMD), contendo os tanques de alimentação, resfriamento e permeado, módulo de membrana, sistema HVAC, bombas de circulação e instrumentos de monitoramento de pressão, temperatura e condutividade.}
     \label{fig:diagramabancada}
 \end{figure}
 
-Os principais componentes do módulo AGMD são duas faces externas fabricadas em acrílico, uma folha de alumínio, um espaçador e a membrana a ser testada, a figura \ref{fig:vistaexplodida} apresenta uma vista expodida com estes componentes, enquanto a figura \ref{fig:modulomontado} apresenta o módulo montado.
+Os principais componentes do módulo AGMD incluem duas placas externas fabricadas em acrílico, uma folha de alumínio, um espaçador e a membrana a ser testada, a figura \ref{fig:vistaexplodida} apresenta uma vista expodida desses elementos, evidenciando sua disposição em função do conjunto, enquanto a figura \ref{fig:modulomontado} apresenta o módulo devidamente montado.
 
 
 
@@ -56,7 +58,12 @@ Os principais componentes do módulo AGMD são duas faces externas fabricadas em
     \label{fig:modulomontado}
 \end{figure}
 
-Os experimentos serão realizados adotando a temperatura do lado quente em 70~$^\circ$C e do lado frio em 25~$^\circ$C, com vazão de 150~$Lh^{-1}$ em ambos os escoamentos. As membranas a serem avaliadas foram adquiridas do fabricante Tish \cite{TischScientific} e são fabricadas em diferentes materiais e suportes, descritos na tabela \ref{tab:membranas}.
+Os experimentos serão conduzidos com a temperatura do lado quente fixada em 70~$^\circ$C e a do lado frio em 25~$^\circ$C, mantendo-se uma vazão de 150~$Lh^{-1}$ em ambos os circuitos. As temperaturas foram definidas de modo a manter uma margem de segurança de 10~$^\circ$C em relação à temperatura limite de operação do equipamento da Aquastil. 
+
+A vazão para os circuitos foi escolhida de modo a manter condições hidrodinâmicas equivalentes as observadas em experimentos de curto prazo realizados no LabMEMS. Estabeleceu-se que os experimentos terão duração de um mês, podendo ser interrompidos em função do aumento da condutividade do permeado ou redução significativa do fluxo, os quais são indicativos claros dos modos de falha em processos de destilação por membranas. 
+
+As membranas avaliadas foram adquiridas do fabricante Tish Scientific~\cite{TischScientific} e são produzidas com diferentes materiais e suportes, conforme descrito na tabela \ref{tab:membranas}.
+
 
 \begin{table}[H]
 \centering
@@ -90,11 +97,18 @@ M8 & politetrafluoretileno (PTFE) & Polipropileno (PP) \\
 
 \section{Caracterização das membranas} 
 
-Utilizou-se três equipamentos para o processo de caracterização das membranas: um porosimetro de fluxo capilar, Porolux, um microscópio digital, Hirox, e um goniômetro de ângulo de contato, Krüss. As análises de porosimetria e microscopia foram realizadas no LabMEMS, enquanto a medição de ângulo de contato foi realizada no LRAP.
+Foram utilizados três equipamentos para o processo de caracterização das membranas: um porosimetro de fluxo capilar da Porolux, um microscópio digital da Hirox, e um goniômetro de ângulo de contato da Krüss. As análises de porosimetria e microscopia foram realizadas no LabMEMS, enquanto a medição de ângulo de contato foram conduzidas no Laboratório de Recuperação Avançada do Petróleo, LRAP.
 
-A análise com o Porolux tem como objetivo determinar a distribuição de poros e a porosidade da membrana. Este ensaio tem início com a preparação da amostra da membrana a ser análisada. Tal preparação consiste em recortar um circúlo da membrana de acordo com o formato do suporte utilizado, com 25~mm de diâmetro no caso deste trabalho, e posteriormente encharcar a amostra com líquido de molhamento. 
+A análise com o Porolux tem como objetivo determinar a distribuição de tamanhos de poros e a porosidade da membrana. O ensaio inicia-se com a preparação da amostra, que consiste no recorte de um disco compatível com o suporte do equipamento, adotando-se neste trabalho um diâmetro de 25~mm. Em seguida, a amostra é completamnente impregnada com o líquido de molhamento. A figura \ref{fig:porolux} apresenta o porosimetro utilizado no processo de caracterização das membranas. 
 
-Uma vez que as membranas utilizadas no estudo são hidrofóbicas, é necessário utilizar um líquido com baixa tensão superficial. Deste modo, utilizou-se como líquido de molhamento o Porefil (tensão superficial de 16,07 $\pm$ 0,05 $mNm^{-1}$), comercializado pela mesma fabricante do porosimetro, a Porometer. Para garantir o completo molhamento da amostra, a mesma foi submersa por um minuto no Porefil.
+\begin{figure}
+    \centering
+    \includegraphics[width=\textwidth, height=11cm, keepaspectratio]{Porolux.jpeg}
+    \caption{Porosimetro utilizado no processo de caracterização das membranas.}
+    \label{fig:porolux}
+\end{figure}
+
+Como as membranas utilizadas no estudo são hidrofóbicas, torna-se necessário utilizar um líquido com baixa tensão superficial. Deste modo, utilizou-se como líquido de molhamento o Porefil (tensão superficial de 16,07 $\pm$ 0,05 $mNm^{-1}$), comercializado pela mesma fabricante do porosimetro, a Porometer. Para garantir o completo molhamento da amostra, a mesma foi submersa por um minuto no Porefil.
 
 Posteriormente a preparação, a amostra é posicionada no suporte e inicia-se o experimento, o qual consiste na aplicação de nitrogênio pressurizado na face hidrofóbica da membrana, de modo gradual, até que seja observada uma pequena queda de pressão, indicando a abertura do poro com maior diâmetro (bubble point), como estabelecido pela norma ASTM F316-3~\cite{ASTM_F316_03}. 
 
@@ -104,13 +118,15 @@ Para a determinação da curva seca da membrana, utilizou-se o método de cálcu
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=\textwidth, height=6cm, keepaspectratio]{exemplocurvasporometer.png}
+    \includegraphics[width=\textwidth, height=7cm, keepaspectratio]{exemplocurvasporometer.png}
     \caption{Exemplo das curvas seca e molhada gerada pelo Porometer.}
     \label{fig:exemplocurvas}
 \end{figure}
 
 
-A análise com o goniômetro utiliza o método da séssil, onde uma gota de água deionizada é colocada sobre a superfície da membrana e fotografado por um sistema de alta resolução, permitindo medir o ângulo de contato entre a superfície da membrana e a gota. Foram realizadas três medições para cada membrana. A análise com o microcópio digital permitiu visualizar a estrutura dos suportes empregados nas membranas. A figura \ref{fig:hirox} apresenta os equipamentos utilizados.
+A análise com o goniômetro utiliza o método da gota séssil, no qual uma gota de água deionizada é colocada sobre a superfície da membrana e registrada por um sistema de aquisição de imagens de alta resolução, permitindo a medição do ângulo de contato entre a superfície da membrana e a gota. 
+
+Para a determinação do ângulo de contato foram realizadas três medições para cada membrana. A análise com o microscópio digital permitiu visualizar a estrutura dos suportes empregados nas membranas. A figura \ref{fig:hirox} apresenta os equipamentos utilizados.
 
  \begin{figure}[H]
     \centering
@@ -253,4 +269,4 @@ SEC_{\mathrm{th}} =
     \label{eq:SEC}
 \end{equation}
 
-As incertezas associadas as variáveis primárias de medição, como temperatura, vazão, pressão e condutividade serão propagadas através aos indicadores de performance através da lei de propagação de variáveis.
+As incertezas associadas as variáveis primárias de medição, como temperatura, vazão, pressão e condutividade serão propagadas aos indicadores de performance através da lei de propagação de variáveis, seguindo o Guia para a expressão e incerteza de medição do Inmetro \cite{INMETRO_GUM2012}. Com base nos parâmetros de performance descritos anteriormente, será realizada a comparação entre os resultados obtidos para as diferentes membranas, possibilitando visualizar o impacto das diferentes morfologias. 

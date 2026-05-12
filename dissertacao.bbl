@@ -1,4 +1,4 @@
-\begin{thebibliography}{49}
+\begin{thebibliography}{50}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -438,5 +438,13 @@
 \newblock \doi{10.1016/0198-0149(80)90016-3}.
 \newblock Dispon{\' i}vel em:
   \textless\url{https://doi.org/10.1016/0198-0149(80)90016-3}\textgreater .
+
+\bibitem[\MakeUppercase{{INMETRO}}(2012){INMETRO}]{INMETRO_GUM2012}
+\MakeUppercase{{INMETRO}}.
+\newblock \emph{Avaliação de dados de medição -- Guia para a expressão de
+  incerteza de medição}.
+\newblock  Rio de Janeiro, Instituto Nacional de Metrologia, Qualidade e
+  Tecnologia (INMETRO), 2012.
+\newblock Tradução do documento JCGM 100:2008 (GUM).
 
 \end{thebibliography}
