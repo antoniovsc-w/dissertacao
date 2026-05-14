@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.12)  12 MAY 2026 12:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.12)  14 MAY 2026 14:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -625,7 +625,7 @@ Cap\'{\i }tulo 1.
 
 ] [2]) (Chapters/002Revision/Revision.tex [3]
 Cap\'{\i }tulo 2.
-<graficopublicacoes.png, id=216, 491.436pt x 289.68225pt>
+<graficopublicacoes.png, id=209, 491.436pt x 289.68225pt>
 File: graficopublicacoes.png Graphic file (type png)
 <use graficopublicacoes.png>
 Package pdftex.def Info: graficopublicacoes.png  used on input line 9.
@@ -638,32 +638,32 @@ has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.19 
-      <./graficopublicacoes.png>] [5] [6] [7] [8] [9] [10] [11]
-<moduloSingh2011DCMD.png, id=289, 513.117pt x 467.94826pt>
+      <./graficopublicacoes.png>] [5] [6] [7] [8] [9] [10]
+<moduloSingh2011DCMD.png, id=277, 513.117pt x 467.94826pt>
 File: moduloSingh2011DCMD.png Graphic file (type png)
 <use moduloSingh2011DCMD.png>
-Package pdftex.def Info: moduloSingh2011DCMD.png  used on input line 117.
+Package pdftex.def Info: moduloSingh2011DCMD.png  used on input line 113.
 (pdftex.def)             Requested size: 343.19156pt x 312.98103pt.
- [12
+ [11] [12
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.2}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.127 
-       <./moduloSingh2011DCMD.png>] [13] [14])
-(Chapters/003Methodology/Methodology.tex [15]
+l.129 
+       <./moduloSingh2011DCMD.png>] [13])
+(Chapters/003Methodology/Methodology.tex [14]
 Cap\'{\i }tulo 3.
-<bancada.jpeg, id=318, 1204.5pt x 1606.0pt>
+<bancada.jpeg, id=306, 1204.5pt x 1606.0pt>
 File: bancada.jpeg Graphic file (type jpg)
 <use bancada.jpeg>
 Package pdftex.def Info: bancada.jpeg  used on input line 12.
 (pdftex.def)             Requested size: 213.38211pt x 284.50949pt.
-<diagramabancada.png, id=325, 1310.8975pt x 1208.515pt>
+<diagramabancada.png, id=313, 1310.8975pt x 1208.515pt>
 File: diagramabancada.png Graphic file (type png)
 <use diagramabancada.png>
 Package pdftex.def Info: diagramabancada.png  used on input line 38.
 (pdftex.def)             Requested size: 308.62103pt x 284.5174pt.
-[16
+[15
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{table.3.1}) h
@@ -671,7 +671,7 @@ as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.42 
-     ] [17
+     ] [16
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -684,17 +684,17 @@ has been already used, duplicate ignored
                                                   \__shipout_drop_firstpage_...
 l.44 
       <./bancada.jpeg> <./diagramabancada.png (PNG copy)>]
-<vistaexplodida.png, id=341, 722.7pt x 522.45187pt>
+<vistaexplodida.png, id=329, 722.7pt x 522.45187pt>
 File: vistaexplodida.png Graphic file (type png)
 <use vistaexplodida.png>
 Package pdftex.def Info: vistaexplodida.png  used on input line 49.
-(pdftex.def)             Requested size: 275.51105pt x 199.17152pt.
-<modulomontado.jpeg, id=342, 960.58875pt x 720.44156pt>
+(pdftex.def)             Requested size: 236.1539pt x 170.71959pt.
+<modulomontado.jpeg, id=330, 960.58875pt x 720.44156pt>
 File: modulomontado.jpeg Graphic file (type jpg)
 <use modulomontado.jpeg>
 Package pdftex.def Info: modulomontado.jpeg  used on input line 56.
-(pdftex.def)             Requested size: 265.54784pt x 199.16087pt.
- [18
+(pdftex.def)             Requested size: 227.61453pt x 170.71089pt.
+ [17
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3.3}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -707,70 +707,43 @@ has been already used, duplicate ignored
                                                   \__shipout_drop_firstpage_...
 l.64 
       <./vistaexplodida.png> <./modulomontado.jpeg>]
-Overfull \hbox (4.11632pt too wide) in paragraph at lines 73--95
- [][] 
- []
-
-<Porolux.jpeg, id=351, 462.97969pt x 694.09312pt>
+<Porolux.jpeg, id=338, 462.97969pt x 694.09312pt>
 File: Porolux.jpeg Graphic file (type jpg)
 <use Porolux.jpeg>
 Package pdftex.def Info: Porolux.jpeg  used on input line 106.
-(pdftex.def)             Requested size: 208.76985pt x 312.98506pt.
-[19
-pdfTeX warning (ext4): destination with the same identifier (name{table.3.2}) h
-as been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.114 
-      ]
-<exemplocurvasporometer.png, id=360, 651.93562pt x 310.15875pt>
-File: exemplocurvasporometer.png Graphic file (type png)
-<use exemplocurvasporometer.png>
-Package pdftex.def Info: exemplocurvasporometer.png  used on input line 121.
-(pdftex.def)             Requested size: 418.64pt x 199.16821pt.
- [20
+(pdftex.def)             Requested size: 132.84776pt x 199.16365pt.
+ [18]
+<hirox.png, id=347, 455.45157pt x 190.46156pt>
+File: hirox.png Graphic file (type png)
+<use hirox.png>
+Package pdftex.def Info: hirox.png  used on input line 133.
+(pdftex.def)             Requested size: 340.20486pt x 142.26746pt.
+ [19
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3.5}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.125 
-       <./Porolux.jpeg>]
-<hirox.png, id=367, 455.45157pt x 190.46156pt>
-File: hirox.png Graphic file (type png)
-<use hirox.png>
-Package pdftex.def Info: hirox.png  used on input line 133.
-(pdftex.def)             Requested size: 426.79715pt x 178.47878pt.
- [21
+l.194 
+      
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3.6}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.141 
-      
-pdfTeX warning (ext4): destination with the same identifier (name{figure.3.7}) 
-has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.141 
-       <./exemplocurvasporometer.png> <./hirox.png>] [22
-pdfTeX warning (ext4): destination with the same identifier (name{table.3.3}) h
-as been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.191 \newpage
-              ] [23]) (Chapters/004Results/Results.tex [24]
+l.194 
+       <./Porolux.jpeg> <./hirox.png>] [20]) (Chapters/004Results/Results.tex
+[21]
 Cap\'{\i }tulo 4.
-<diametrodeporo.png, id=413, 1672.2475pt x 947.54pt>
+<diametrodeporo.png, id=389, 1672.2475pt x 947.54pt>
 File: diametrodeporo.png Graphic file (type png)
 <use diametrodeporo.png>
 Package pdftex.def Info: diametrodeporo.png  used on input line 9.
 (pdftex.def)             Requested size: 401.70483pt x 227.61665pt.
-<distporom5m8.png, id=414, 788.19469pt x 538.26094pt>
+<distporom5m8.png, id=390, 788.19469pt x 538.26094pt>
 File: distporom5m8.png Graphic file (type png)
 <use distporom5m8.png>
 Package pdftex.def Info: distporom5m8.png  used on input line 16.
 (pdftex.def)             Requested size: 426.7854pt x 291.45326pt.
-[25
+[22
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1}) 
@@ -779,12 +752,12 @@ has been already used, duplicate ignored
                                                   \__shipout_drop_firstpage_...
 l.20 
       <./diametrodeporo.png (PNG copy)>]
-<distporom1m4.png, id=420, 1000.48781pt x 549.55313pt>
+<distporom1m4.png, id=395, 1000.48781pt x 549.55313pt>
 File: distporom1m4.png Graphic file (type png)
 <use distporom1m4.png>
 Package pdftex.def Info: distporom1m4.png  used on input line 23.
 (pdftex.def)             Requested size: 426.79701pt x 234.43327pt.
- [26
+ [23
 pdfTeX warning (ext4): destination with the same identifier (name{figure.4.2}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -797,18 +770,18 @@ has been already used, duplicate ignored
                                                   \__shipout_drop_firstpage_...
 l.29 
       <./distporom5m8.png> <./distporom1m4.png>]
-<angulodecontato.png, id=428, 795.72281pt x 348.55219pt>
+<angulodecontato.png, id=403, 795.72281pt x 348.55219pt>
 File: angulodecontato.png Graphic file (type png)
 <use angulodecontato.png>
 Package pdftex.def Info: angulodecontato.png  used on input line 32.
 (pdftex.def)             Requested size: 426.78204pt x 186.94424pt.
-<LEP.png, id=430, 1628.0825pt x 973.6375pt>
+<LEP.png, id=405, 1628.0825pt x 973.6375pt>
 File: LEP.png Graphic file (type png)
 <use LEP.png>
 Package pdftex.def Info: LEP.png  used on input line 41.
 (pdftex.def)             Requested size: 426.79427pt x 255.23454pt.
 )
-(Chapters/005Conclusion/Conclusion.tex [27
+(Chapters/005Conclusion/Conclusion.tex [24
 pdfTeX warning (ext4): destination with the same identifier (name{figure.4.4}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -823,23 +796,23 @@ l.1 \chapter
             {Considera√ß√µes finais} <./angulodecontato.png> <./LEP.png (PNG co
 py)>]
 Cap\'{\i }tulo 5.
-<cronograma.png, id=437, 898.85812pt x 335.75438pt>
+<cronograma.png, id=412, 898.85812pt x 335.75438pt>
 File: cronograma.png Graphic file (type png)
 <use cronograma.png>
 Package pdftex.def Info: cronograma.png  used on input line 15.
 (pdftex.def)             Requested size: 898.85593pt x 335.75356pt.
-) [28
+) [25
 
-] [29
+] [26
 pdfTeX warning (ext4): destination with the same identifier (name{figure.5.1}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.63  \backmatter
-                  <./cronograma.png>] (dissertacao.bbl [30
+                  <./cronograma.png>] (dissertacao.bbl [27
 
 
-] [31] [32] [33]
+] [28] [29] [30]
 Underfull \hbox (badness 10000) in paragraph at lines 392--399
 []\T1/cmr/m/n/12 DIGIMED.  ``Con-du-ti-vi-dade, re-sis-ti-vi-dade e con-cen-tra
 -Á„o -- ca-t·-
@@ -874,7 +847,7 @@ Underfull \hbox (badness 4805) in paragraph at lines 411--417
 urkert . com / en / products /
  []
 
-[34]) [35] 
+[31]) [32] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (dissertacao.aux (Chapters/000AcknowledgmentAndAbstract/01Abstract.aux))
  ***********
@@ -889,10 +862,10 @@ Package rerunfilecheck Info: File `dissertacao.out' has not changed.
 (rerunfilecheck)             Checksum: 58C77D0767EB4762A5BD778BF42040C9;2474.
  ) 
 Here is how much of TeX's memory you used:
- 13594 strings out of 467871
- 212719 string characters out of 5428419
- 658901 words of memory out of 5000000
- 42084 multiletter control sequences out of 15000+600000
+ 13578 strings out of 467871
+ 212386 string characters out of 5428419
+ 658616 words of memory out of 5000000
+ 42074 multiletter control sequences out of 15000+600000
  638331 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,11n,79p,1907b,658s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -911,9 +884,9 @@ s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/font
 s/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public
 /amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm
 /cmsy8.pfb>
-Output written on dissertacao.pdf (41 pages, 7968167 bytes).
+Output written on dissertacao.pdf (38 pages, 7943498 bytes).
 PDF statistics:
- 929 PDF objects out of 1000 (max. 8388607)
- 136 named destinations out of 1000 (max. 500000)
- 201 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 885 PDF objects out of 1000 (max. 8388607)
+ 130 named destinations out of 1000 (max. 500000)
+ 196 words of extra memory for PDF output out of 10000 (max. 10000000)
 
