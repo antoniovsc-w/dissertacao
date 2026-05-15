@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.12)  14 MAY 2026 14:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.12)  15 MAY 2026 15:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -444,6 +444,9 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 (C:\Program Files\MiKTeX\tex/latex/tools\indentfirst.sty
 Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
 )
+(C:\Program Files\MiKTeX\tex/latex/gensymb\gensymb.sty
+Package: gensymb 2022/10/17 v1.0.2 (KJH)
+)
 \@losfile=\write3
 \openout3 = `dissertacao.syx'.
 
@@ -460,32 +463,29 @@ File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 (dissertacao.aux
 Package babel Info: 'brazil' activates 'portuges' shorthands.
 (babel)             Reported on input line 8.
- (Chapters/000AcknowledgmentAndAbstract/01Abstract.aux)
-
-LaTeX Warning: Label `fig:angulodecontato' multiply defined.
-
-)
+ (Chapters/000AcknowledgmentAndAbstract/01Abstract.aux))
 \openout1 = `dissertacao.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
- (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+
+(C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count321
 \scratchdimen=\dimen181
@@ -541,35 +541,47 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 16.
+Package hyperref Info: Link coloring OFF on input line 17.
 (dissertacao.out) (dissertacao.out)
 \@outlinefile=\write5
 \openout5 = `dissertacao.out'.
 
-Package hyperref Info: Option `breaklinks' set `true' on input line 37.
-Package hyperref Info: Option `raiselinks' set `true' on input line 37.
-Package hyperref Info: Option `pageanchor' set `true' on input line 37.
+LaTeX Info: Redefining \celsius on input line 17.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 17.
+
+
+
+Package gensymb Warning: Not defining \perthousand.
+
+LaTeX Info: Redefining \ohm on input line 17.
+Package gensymb Info: Using \Omega for \ohm on input line 17.
+
+Package gensymb Warning: Not defining \micro.
+
+Package hyperref Info: Option `breaklinks' set `true' on input line 38.
+Package hyperref Info: Option `raiselinks' set `true' on input line 38.
+Package hyperref Info: Option `pageanchor' set `true' on input line 38.
 <coppe-logo.pdf, id=63, 177.463pt x 76.285pt>
 File: coppe-logo.pdf Graphic file (type pdf)
 <use coppe-logo.pdf>
-Package pdftex.def Info: coppe-logo.pdf  used on input line 37.
+Package pdftex.def Info: coppe-logo.pdf  used on input line 38.
 (pdftex.def)             Requested size: 177.46255pt x 76.2848pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--37
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
 []\T1/cmr/m/n/12 Proposta de DissertaÁ„o de Mestrado
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--37
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
 \T1/cmr/m/n/12 em Engenharia Mec‚nica, COPPE, da
  []
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 37.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 38.
 
 (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 37.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 38.
 
 
 (C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd
@@ -625,7 +637,7 @@ Cap\'{\i }tulo 1.
 
 ] [2]) (Chapters/002Revision/Revision.tex [3]
 Cap\'{\i }tulo 2.
-<graficopublicacoes.png, id=209, 491.436pt x 289.68225pt>
+<graficopublicacoes.png, id=188, 491.436pt x 289.68225pt>
 File: graficopublicacoes.png Graphic file (type png)
 <use graficopublicacoes.png>
 Package pdftex.def Info: graficopublicacoes.png  used on input line 9.
@@ -638,32 +650,20 @@ has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.19 
-      <./graficopublicacoes.png>] [5] [6] [7] [8] [9] [10]
-<moduloSingh2011DCMD.png, id=277, 513.117pt x 467.94826pt>
-File: moduloSingh2011DCMD.png Graphic file (type png)
-<use moduloSingh2011DCMD.png>
-Package pdftex.def Info: moduloSingh2011DCMD.png  used on input line 113.
-(pdftex.def)             Requested size: 343.19156pt x 312.98103pt.
- [11] [12
-pdfTeX warning (ext4): destination with the same identifier (name{figure.2.2}) 
-has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.129 
-       <./moduloSingh2011DCMD.png>] [13])
-(Chapters/003Methodology/Methodology.tex [14]
+      <./graficopublicacoes.png>] [5] [6] [7] [8] [9])
+(Chapters/003Methodology/Methodology.tex [10]
 Cap\'{\i }tulo 3.
-<bancada.jpeg, id=306, 1204.5pt x 1606.0pt>
+<bancada.jpeg, id=252, 1204.5pt x 1606.0pt>
 File: bancada.jpeg Graphic file (type jpg)
 <use bancada.jpeg>
 Package pdftex.def Info: bancada.jpeg  used on input line 12.
 (pdftex.def)             Requested size: 213.38211pt x 284.50949pt.
-<diagramabancada.png, id=313, 1310.8975pt x 1208.515pt>
+<diagramabancada.png, id=259, 1310.8975pt x 1208.515pt>
 File: diagramabancada.png Graphic file (type png)
 <use diagramabancada.png>
 Package pdftex.def Info: diagramabancada.png  used on input line 38.
 (pdftex.def)             Requested size: 308.62103pt x 284.5174pt.
-[15
+[11
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{table.3.1}) h
@@ -671,7 +671,7 @@ as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.42 
-     ] [16
+     ] [12
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -684,17 +684,17 @@ has been already used, duplicate ignored
                                                   \__shipout_drop_firstpage_...
 l.44 
       <./bancada.jpeg> <./diagramabancada.png (PNG copy)>]
-<vistaexplodida.png, id=329, 722.7pt x 522.45187pt>
+<vistaexplodida.png, id=275, 722.7pt x 522.45187pt>
 File: vistaexplodida.png Graphic file (type png)
 <use vistaexplodida.png>
 Package pdftex.def Info: vistaexplodida.png  used on input line 49.
 (pdftex.def)             Requested size: 236.1539pt x 170.71959pt.
-<modulomontado.jpeg, id=330, 960.58875pt x 720.44156pt>
+<modulomontado.jpeg, id=276, 960.58875pt x 720.44156pt>
 File: modulomontado.jpeg Graphic file (type jpg)
 <use modulomontado.jpeg>
 Package pdftex.def Info: modulomontado.jpeg  used on input line 56.
 (pdftex.def)             Requested size: 227.61453pt x 170.71089pt.
- [17
+ [13
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3.3}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -706,169 +706,94 @@ has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.64 
-      <./vistaexplodida.png> <./modulomontado.jpeg>]
-<Porolux.jpeg, id=338, 462.97969pt x 694.09312pt>
-File: Porolux.jpeg Graphic file (type jpg)
-<use Porolux.jpeg>
-Package pdftex.def Info: Porolux.jpeg  used on input line 106.
-(pdftex.def)             Requested size: 132.84776pt x 199.16365pt.
- [18]
-<hirox.png, id=347, 455.45157pt x 190.46156pt>
-File: hirox.png Graphic file (type png)
-<use hirox.png>
-Package pdftex.def Info: hirox.png  used on input line 133.
-(pdftex.def)             Requested size: 340.20486pt x 142.26746pt.
- [19
-pdfTeX warning (ext4): destination with the same identifier (name{figure.3.5}) 
-has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.194 
-      
-pdfTeX warning (ext4): destination with the same identifier (name{figure.3.6}) 
-has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.194 
-       <./Porolux.jpeg> <./hirox.png>] [20]) (Chapters/004Results/Results.tex
-[21]
+      <./vistaexplodida.png> <./modulomontado.jpeg>] [14] [15])
+(Chapters/004Results/Results.tex [16]
 Cap\'{\i }tulo 4.
-<diametrodeporo.png, id=389, 1672.2475pt x 947.54pt>
-File: diametrodeporo.png Graphic file (type png)
-<use diametrodeporo.png>
-Package pdftex.def Info: diametrodeporo.png  used on input line 9.
-(pdftex.def)             Requested size: 401.70483pt x 227.61665pt.
-<distporom5m8.png, id=390, 788.19469pt x 538.26094pt>
-File: distporom5m8.png Graphic file (type png)
-<use distporom5m8.png>
-Package pdftex.def Info: distporom5m8.png  used on input line 16.
-(pdftex.def)             Requested size: 426.7854pt x 291.45326pt.
-[22
+[17
 
-
+]
+<fluxoeijr.png, id=329, 1000.48781pt x 371.88937pt>
+File: fluxoeijr.png Graphic file (type png)
+<use fluxoeijr.png>
+Package pdftex.def Info: fluxoeijr.png  used on input line 61.
+(pdftex.def)             Requested size: 426.79701pt x 158.64388pt.
+) (Chapters/005Conclusion/Conclusion.tex [18
 pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.20 
-      <./diametrodeporo.png (PNG copy)>]
-<distporom1m4.png, id=395, 1000.48781pt x 549.55313pt>
-File: distporom1m4.png Graphic file (type png)
-<use distporom1m4.png>
-Package pdftex.def Info: distporom1m4.png  used on input line 23.
-(pdftex.def)             Requested size: 426.79701pt x 234.43327pt.
- [23
-pdfTeX warning (ext4): destination with the same identifier (name{figure.4.2}) 
-has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.29 
-     
-pdfTeX warning (ext4): destination with the same identifier (name{figure.4.3}) 
-has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.29 
-      <./distporom5m8.png> <./distporom1m4.png>]
-<angulodecontato.png, id=403, 795.72281pt x 348.55219pt>
-File: angulodecontato.png Graphic file (type png)
-<use angulodecontato.png>
-Package pdftex.def Info: angulodecontato.png  used on input line 32.
-(pdftex.def)             Requested size: 426.78204pt x 186.94424pt.
-<LEP.png, id=405, 1628.0825pt x 973.6375pt>
-File: LEP.png Graphic file (type png)
-<use LEP.png>
-Package pdftex.def Info: LEP.png  used on input line 41.
-(pdftex.def)             Requested size: 426.79427pt x 255.23454pt.
-)
-(Chapters/005Conclusion/Conclusion.tex [24
-pdfTeX warning (ext4): destination with the same identifier (name{figure.4.4}) 
-has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
 l.1 \chapter
-            {Considera√ß√µes finais}
-pdfTeX warning (ext4): destination with the same identifier (name{figure.4.5}) 
-has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.1 \chapter
-            {Considera√ß√µes finais} <./angulodecontato.png> <./LEP.png (PNG co
-py)>]
+            {Considera√ß√µes finais} <./fluxoeijr.png>]
 Cap\'{\i }tulo 5.
-<cronograma.png, id=412, 898.85812pt x 335.75438pt>
+<cronograma.png, id=336, 898.85812pt x 335.75438pt>
 File: cronograma.png Graphic file (type png)
 <use cronograma.png>
 Package pdftex.def Info: cronograma.png  used on input line 15.
 (pdftex.def)             Requested size: 898.85593pt x 335.75356pt.
-) [25
+) [19
 
-] [26
+] [20
 pdfTeX warning (ext4): destination with the same identifier (name{figure.5.1}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.63  \backmatter
-                  <./cronograma.png>] (dissertacao.bbl [27
+l.64  \backmatter
+                  <./cronograma.png>] (dissertacao.bbl [21
 
 
-] [28] [29] [30]
-Underfull \hbox (badness 10000) in paragraph at lines 392--399
+] [22] [23] [24]
+Underfull \hbox (badness 10000) in paragraph at lines 345--352
 []\T1/cmr/m/n/12 DIGIMED.  ``Con-du-ti-vi-dade, re-sis-ti-vi-dade e con-cen-tra
 -Á„o -- ca-t·-
  []
 
 
-Underfull \hbox (badness 5490) in paragraph at lines 392--399
+Underfull \hbox (badness 5490) in paragraph at lines 345--352
 \T1/cmr/m/n/12 logo de ana-li-sa-dor de con-du-ti-vi-dade''. 2025.  Dis-po-nÌ-v
 el em:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 392--399
+Underfull \hbox (badness 10000) in paragraph at lines 345--352
 \T1/cmr/m/n/12 <[]$\T1/cmtt/m/n/12 https : / / www . digimed . ind . br / asset
 s / downloads / produtos / catalogos /
  []
 
 
-Overfull \hbox (76.21579pt too wide) in paragraph at lines 392--399
+Overfull \hbox (76.21579pt too wide) in paragraph at lines 345--352
 \T1/cmtt/m/n/12 digimed-[]catalogo-[]analisador-[]condutividade-[]resistividade
 -[]concentracao-[]tc-[]4004 .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 411--417
+Underfull \hbox (badness 10000) in paragraph at lines 364--370
 []\T1/cmr/m/n/12 B‹RKERT FLUID CON-TROL SYS-TEMS.  ``Flow me-ter''.
  []
 
 
-Underfull \hbox (badness 4805) in paragraph at lines 411--417
+Underfull \hbox (badness 4805) in paragraph at lines 364--370
 \T1/cmr/m/n/12 2025.  Dis-po-nÌ-vel em: <[]$\T1/cmtt/m/n/12 https : / / www . b
 urkert . com / en / products /
  []
 
-[31]) [32] 
+) [25] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (dissertacao.aux (Chapters/000AcknowledgmentAndAbstract/01Abstract.aux))
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
-
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package rerunfilecheck Info: File `dissertacao.out' has not changed.
 (rerunfilecheck)             Checksum: 58C77D0767EB4762A5BD778BF42040C9;2474.
  ) 
 Here is how much of TeX's memory you used:
- 13578 strings out of 467871
- 212386 string characters out of 5428419
- 658616 words of memory out of 5000000
- 42074 multiletter control sequences out of 15000+600000
+ 13547 strings out of 467871
+ 211492 string characters out of 5428419
+ 658843 words of memory out of 5000000
+ 42059 multiletter control sequences out of 15000+600000
  638331 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,1907b,658s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,1907b,636s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Administrador\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
 600\ectt1200.pk> <C:\Users\Administrador\AppData\Local\MiKTeX\fonts/pk/ljfour/j
 knappen/ec/dpi600\tcrm1200.pk> <C:\Users\Administrador\AppData\Local\MiKTeX\fon
@@ -884,9 +809,9 @@ s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/font
 s/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public
 /amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm
 /cmsy8.pfb>
-Output written on dissertacao.pdf (38 pages, 7943498 bytes).
+Output written on dissertacao.pdf (31 pages, 3022234 bytes).
 PDF statistics:
- 885 PDF objects out of 1000 (max. 8388607)
- 130 named destinations out of 1000 (max. 500000)
- 196 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 800 PDF objects out of 1000 (max. 8388607)
+ 110 named destinations out of 1000 (max. 500000)
+ 161 words of extra memory for PDF output out of 10000 (max. 10000000)
 

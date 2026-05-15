@@ -11,45 +11,45 @@ Warning--entry type for "Aquastill2025" isn't style-file defined
 --line 1063 of file Bibliography/references.bib
 Warning--entry type for "ASTM_F316_03" isn't style-file defined
 --line 1079 of file Bibliography/references.bib
-You've used 50 entries,
+You've used 44 entries,
             2630 wiz_defined-function locations,
-            936 strings with 17702 characters,
-and the built_in function-call counts, 21016 in all, are:
-= -- 1726
-> -- 1025
+            896 strings with 16075 characters,
+and the built_in function-call counts, 18453 in all, are:
+= -- 1529
+> -- 875
 < -- 28
-+ -- 437
-- -- 336
-* -- 2061
-:= -- 3300
-add.period$ -- 218
-call.type$ -- 50
-change.case$ -- 50
-chr.to.int$ -- 49
-cite$ -- 50
-duplicate$ -- 1137
-empty$ -- 2002
-format.name$ -- 392
-if$ -- 4383
++ -- 375
+- -- 286
+* -- 1798
+:= -- 2886
+add.period$ -- 196
+call.type$ -- 44
+change.case$ -- 44
+chr.to.int$ -- 43
+cite$ -- 44
+duplicate$ -- 995
+empty$ -- 1767
+format.name$ -- 336
+if$ -- 3859
 int.to.chr$ -- 2
-int.to.str$ -- 51
-missing$ -- 42
-newline$ -- 279
-num.names$ -- 150
-pop$ -- 390
+int.to.str$ -- 45
+missing$ -- 36
+newline$ -- 251
+num.names$ -- 132
+pop$ -- 344
 preamble$ -- 1
-purify$ -- 50
+purify$ -- 44
 quote$ -- 0
-skip$ -- 522
+skip$ -- 460
 stack$ -- 0
-substring$ -- 730
-swap$ -- 333
+substring$ -- 657
+swap$ -- 292
 text.length$ -- 11
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 344
+type$ -- 302
 warning$ -- 0
-while$ -- 141
+while$ -- 124
 width$ -- 0
-write$ -- 726
+write$ -- 647
 (There were 2 warnings)
