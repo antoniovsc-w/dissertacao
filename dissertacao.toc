@@ -11,4 +11,5 @@
 \contentsline {chapter}{\numberline {4}Resultados Preliminares}{12}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Caracterização das membranas}{12}{section.4.1}%
 \contentsline {section}{\numberline {4.2}Resultados de curto prazo}{13}{section.4.2}%
-\contentsline {chapter}{\numberline {5}Considerações finais}{15}{chapter.5}%
+\contentsline {section}{\numberline {4.3}Resultados de longo prazo}{14}{section.4.3}%
+\contentsline {chapter}{\numberline {5}Considerações finais}{16}{chapter.5}%
