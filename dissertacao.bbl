@@ -1,4 +1,4 @@
-\begin{thebibliography}{39}
+\begin{thebibliography}{54}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -162,11 +162,98 @@
   alcohol coagulation as a novel strategy to mitigate membrane swelling at
   elevated temperatures}, \doi{10.1016/j.eti.2025.104029}.
 
+\bibitem[\MakeUppercase{Laqbaqbi}\emph{ et~al.}(2017)Laqbaqbi, Sanmartino,
+  Khayet, García-Payo, e Chaouch]{Laqbaqbi2017}
+\MakeUppercase{Laqbaqbi, M., Sanmartino, J.~A., Khayet, M.,
+  \MakeLowercase{et~al.}}
+\newblock \coppeenquote{Fouling in Membrane Distillation, Osmotic Distillation
+  and Osmotic Membrane Distillation}, \emph{Applied Sciences}, v.~7, n.~4,
+  \penalty0 pp.~334, 2017.
+\newblock ISSN: 2076-3417.
+\newblock \doi{10.3390/app7040334}.
+
+\bibitem[\MakeUppercase{Yao}\emph{ et~al.}(2018)Yao, Woo, Tijing, Choi, e
+  Shon]{Yao2018}
+\MakeUppercase{Yao, M., Woo, Y.~C., Tijing, L.~D., \MakeLowercase{et~al.}}
+\newblock \coppeenquote{Effects of Volatile Organic Compounds on Water Recovery
+  from Produced Water via Vacuum Membrane Distillation}, \emph{Desalination},
+  v.~440, \penalty0 pp.~146--155, 2018.
+\newblock ISSN: 0011-9164.
+\newblock \doi{10.1016/j.desal.2017.11.012}.
+
+\bibitem[\MakeUppercase{Gong}\emph{ et~al.}(2019)Gong, Yang, Wu, Yan, Cen, Bo,
+  e Ostrikov]{Gong2019}
+\MakeUppercase{Gong, B., Yang, H., Wu, S., \MakeLowercase{et~al.}}
+\newblock \coppeenquote{Superstructure-Enabled Anti-Fouling Membrane for
+  Efficient Photothermal Distillation}, \emph{ACS Sustainable Chemistry \&
+  Engineering}, v.~7, n.~24, \penalty0 pp.~20151--20158, 2019.
+\newblock \doi{10.1021/acssuschemeng.9b06160}.
+
+\bibitem[\MakeUppercase{Du}\emph{ et~al.}(2023)Du, Zhao, Wang, He, e
+  Jiang]{Du2023Antifouling}
+\MakeUppercase{Du, S., Zhao, P., Wang, L., \MakeLowercase{et~al.}}
+\newblock \coppeenquote{Progresses of Advanced Anti-Fouling Membrane and
+  Membrane Processes for High Salinity Wastewater Treatment}, \emph{Results in
+  Engineering}, v.~17, \penalty0 pp.~100995, 2023.
+\newblock ISSN: 2590-1230.
+\newblock \doi{10.1016/j.rineng.2023.100995}.
+
+\bibitem[\MakeUppercase{Thakur}\emph{ et~al.}(2020)Thakur, Hsieh, Islam, Lin,
+  Chen, e Malmali]{Thakur2020SGMD}
+\MakeUppercase{Thakur, A.~K., Hsieh, I.-M., Islam, M.~R.,
+  \MakeLowercase{et~al.}}
+\newblock \coppeenquote{Performance of Sweeping Gas Membrane Distillation for
+  Treating Produced Water: Modeling and Experiments}, \emph{Desalination},
+  v.~492, \penalty0 pp.~114597, 2020.
+\newblock ISSN: 0011-9164.
+\newblock \doi{10.1016/j.desal.2020.114597}.
+
+\bibitem[\MakeUppercase{Gueccia}()Gueccia]{Gueccia2021HClRecovery}
+\MakeUppercase{Gueccia, Rosa, e.~a.}
+\newblock \coppeenquote{An integrated approach for the HCl and metals recovery
+  from waste pickling solutions: pilot plant and design operations},
+  \doi{10.1016/j.cherd.2021.02.015}.
+
+\bibitem[\MakeUppercase{Su}()Su]{Su2017}
+\MakeUppercase{Su, Chunlei, e.~a.}
+\newblock \coppeenquote{Novel three-dimensional superhydrophobic and
+  strength-enhanced electrospun membranes for long-term membrane distillation},
+  \doi{10.1016/j.seppur.2017.01.042}.
+
+\bibitem[\MakeUppercase{Ruiz-Aguirre}()Ruiz-Aguirre]{RuizAguirre2019PermeateQuality}
+\MakeUppercase{Ruiz-Aguirre, Alba, e.~a.}
+\newblock \coppeenquote{Evaluation of Permeate Quality in Pilot Scale Membrane
+  Distillation Systems}, \doi{10.3390/membranes9060069}.
+
+\bibitem[\MakeUppercase{Woo}()Woo]{Woo2021ElectrospunMD}
+\MakeUppercase{Woo, Yun~Chul, e.~a.}
+\newblock \coppeenquote{Co-axially electrospun superhydrophobic nanofiber
+  membranes with 3D-hierarchically structured surface for desalination by
+  long-term membrane distillation}, \doi{10.1016/j.memsci.2020.119028}.
+
+\bibitem[\MakeUppercase{Suga}()Suga]{Suga2021VMD}
+\MakeUppercase{Suga, Yuki, e.~a.}
+\newblock \coppeenquote{Effect of the Characteristic Properties of Membrane on
+  Long-Term Stability in the Vacuum Membrane Distillation Process},
+  \doi{10.3390/membranes11040252}.
+
+\bibitem[\MakeUppercase{Kujawa}()Kujawa]{Kujawa_PVDF_SWCNH}
+\MakeUppercase{Kujawa, Joanna, e.~a.}
+\newblock \coppeenquote{Carbon nanohorn improved durable PVDF membranes - The
+  future of membrane distillation and desalination},
+  \doi{10.1016/j.desal.2021.115117}.
+
 \bibitem[\MakeUppercase{Abdelrazeq}()Abdelrazeq]{Abdelrazeq2022DCMD}
 \MakeUppercase{Abdelrazeq, H. e.~a.}
 \newblock \coppeenquote{Long-Term Treatment of Highly Saline Brine in a Direct
   Contact Membrane Distillation (DCMD) Pilot Unit Using Polyethylene
   Membranes}, \doi{10.3390/membranes12040424}.
+
+\bibitem[\MakeUppercase{Adham}\emph{ et~al.}()Adham, Minier-Matar, e
+  Hussain]{Adham2023}
+\MakeUppercase{Adham, S., Minier-Matar, J., Hussain, A.}
+\newblock \coppeenquote{Pilot plant evaluation of membrane distillation for
+  desalination of high-salinity brines}, \doi{10.1007/s13201-023-02017-x}.
 
 \bibitem[\MakeUppercase{Singh} e \MakeUppercase{Sirkar}()Singh e
   Sirkar]{Singh2011DCMD}
@@ -187,6 +274,27 @@
 \newblock \coppeenquote{Laboratory and pilot-scale studies of membrane
   distillation for desalination of produced water from Permian Basin},
   \doi{10.1016/j.desal.2022.115853}.
+
+\bibitem[\MakeUppercase{Hsieh}\emph{ et~al.}(2021)Hsieh, Thakur, e
+  Malmali]{Hsieh2021Pretreatments}
+\MakeUppercase{Hsieh, I.-M., Thakur, A.~K., Malmali, M.}
+\newblock \coppeenquote{Comparative Analysis of Various Pretreatments to
+  Mitigate Fouling and Scaling in Membrane Distillation}, \emph{Desalination},
+  v.~506, \penalty0 pp.~114999, 2021.
+\newblock ISSN: 0011-9164.
+\newblock \doi{10.1016/j.desal.2021.114999}.
+
+\bibitem[\MakeUppercase{Macedonio}()Macedonio]{Macedonio2014_MD_ProducedWater}
+\MakeUppercase{Macedonio, Francesca, e.~a.}
+\newblock \coppeenquote{Direct contact membrane distillation for treatment of
+  oilfield produced water}, \doi{10.1016/j.seppur.2014.02.004}.
+
+\bibitem[\MakeUppercase{Guillen-Burrieza}()Guillen-Burrieza]{GuillenBurrieza2023}
+\MakeUppercase{Guillen-Burrieza, e.~a.}
+\newblock \coppeenquote{Recovery of ammonia from centrate water in urban waste
+  water treatment plants via direct contact membrane distillation: Process
+  performance in long-term pilot-scale operation},
+  \doi{10.1016/j.memsci.2022.121161}.
 
 \bibitem[\MakeUppercase{{Aquastill}}(2025){Aquastill}]{Aquastill2025}
 \MakeUppercase{{Aquastill}}.
