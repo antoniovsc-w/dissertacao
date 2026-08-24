@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.12)  29 JUL 2026 14:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.12)  20 AUG 2026 13:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -637,126 +637,32 @@ has been already used, duplicate ignored
                                                   \__shipout_drop_firstpage_...
 l.19 
       <./graficopublicacoes.png>] [4] [5] [6] [7] [8] [9] [10] [11] [12]
-! Missing $ inserted.
-<inserted text> 
-                $
-l.160 ...dutividade do permeado, menor que 500~\mu
-                                                   S/cm. Os teste com a PW d...
-
-? 
-
-LaTeX Warning: Command \' invalid in math mode on input line 160.
-
-
-LaTeX Warning: Command \c invalid in math mode on input line 160.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 160.
-
-
-LaTeX Warning: Command \^ invalid in math mode on input line 160.
-
-
-LaTeX Warning: Command \c invalid in math mode on input line 160.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 160.
-
-
-LaTeX Warning: Command \' invalid in math mode on input line 160.
-
-
-LaTeX Warning: Command \c invalid in math mode on input line 160.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 160.
-
-
-LaTeX Warning: Command \c invalid in math mode on input line 160.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 160.
-
-
-LaTeX Warning: Command \^ invalid in math mode on input line 160.
-
-
-LaTeX Warning: Command \^ invalid in math mode on input line 160.
-
-
-LaTeX Warning: Command \' invalid in math mode on input line 160.
-
-
-LaTeX Warning: Command \c invalid in math mode on input line 160.
-
-
-LaTeX Warning: Command \~ invalid in math mode on input line 160.
-
-
-LaTeX Warning: Command \' invalid in math mode on input line 160.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.161 
-      
-? 
-Missing character: There is no á in font cmr12!
-Missing character: There is no ç in font cmr12!
-Missing character: There is no ã in font cmr12!
-Missing character: There is no ê in font cmr12!
-Missing character: There is no ç in font cmr12!
-Missing character: There is no ã in font cmr12!
-Missing character: There is no é in font cmr12!
-Missing character: There is no ç in font cmr12!
-Missing character: There is no ã in font cmr12!
-Missing character: There is no ç in font cmr12!
-Missing character: There is no ã in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no ê in font cmr12!
-Missing character: There is no é in font cmr12!
-Missing character: There is no ç in font cmr12!
-Missing character: There is no ã in font cmr12!
-Missing character: There is no ó in font cmr12!
-
-Overfull \hbox (2160.6162pt too wide) in paragraph at lines 160--161
-\T1/cmr/m/n/12 500 $\OML/cmm/m/it/12 ^^VS=cm:OstestecomaPWdemaiorsalinidade\OT1
-/cmr/m/n/12 (\OML/cmm/m/it/12 T\OT1/cmr/m/n/12 2)\OML/cmm/m/it/12 apresentaramu
-mdecliniorpidodofluxodepermeadonasprimeiras\OT1/cmr/m/n/12 24\OML/cmm/m/it/12 h
-oras; finalizandooexperimentonosegundodiaemfunodaocorrnciademolhamento:Osautore
-sindicamqueaconcentraomaiordecalcioemagnsiodaPWT\OT1/cmr/m/n/12 2\OML/cmm/m/it/
-12 levouaacereleraodeencrustaodeinorgnicos; auxiliandonaocorrnciademolhamento:D
-entreosprtratamentosqueforamtestados; aultrafiltraofoiaqueapresentoumelhordesem
-penho; reduzindoaturbidez; osslidossuspensostotaiseoferro:$ 
- []
-
 [13]
 <moduloSingh2011DCMD.png, id=265, 513.117pt x 467.94826pt>
 File: moduloSingh2011DCMD.png Graphic file (type png)
 <use moduloSingh2011DCMD.png>
-Package pdftex.def Info: moduloSingh2011DCMD.png  used on input line 168.
+Package pdftex.def Info: moduloSingh2011DCMD.png  used on input line 167.
 (pdftex.def)             Requested size: 343.19156pt x 312.98103pt.
- [14
+ [14] [15
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.2}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.177 O
-        estudo \cite{Macedonio2014_MD_ProducedWater} (2014) investiga a apli...
- <./moduloSingh2011DCMD.png>] [15] [16])
-(Chapters/003Methodology/Methodology.tex [17]
+l.183 
+       <./moduloSingh2011DCMD.png>] [16])
+(Chapters/003Methodology/Methodology.tex [17] [18]
 Cap\'{\i }tulo 3.
-<bancadaevistaexplodida.png, id=295, 1149.29375pt x 605.26125pt>
+<bancadaevistaexplodida.png, id=301, 1149.29375pt x 605.26125pt>
 File: bancadaevistaexplodida.png Graphic file (type png)
 <use bancadaevistaexplodida.png>
 Package pdftex.def Info: bancadaevistaexplodida.png  used on input line 12.
 (pdftex.def)             Requested size: 426.7928pt x 224.7651pt.
-<diagramabancada.png, id=302, 1310.8975pt x 1208.515pt>
+<diagramabancada.png, id=308, 1310.8975pt x 1208.515pt>
 File: diagramabancada.png Graphic file (type png)
 <use diagramabancada.png>
 Package pdftex.def Info: diagramabancada.png  used on input line 38.
 (pdftex.def)             Requested size: 339.48514pt x 312.97098pt.
-[18
+[19
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{table.3.1}) h
@@ -764,7 +670,7 @@ as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.42 
-     ] [19
+     ] [20
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -781,43 +687,43 @@ Overfull \hbox (27.45367pt too wide) in paragraph at lines 102--124
  [][] 
  []
 
-[20
+[21
 pdfTeX warning (ext4): destination with the same identifier (name{table.3.2}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.137 
       ]
-<campodelapa.png, id=331, 1129.21875pt x 565.11125pt>
+<campodelapa.png, id=337, 1129.21875pt x 565.11125pt>
 File: campodelapa.png Graphic file (type png)
 <use campodelapa.png>
 Package pdftex.def Info: campodelapa.png  used on input line 170.
 (pdftex.def)             Requested size: 312.69855pt x 156.48824pt.
- [21
+ [22
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3.3}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.223 
-       <./campodelapa.png>] [22
+       <./campodelapa.png>] [23
 pdfTeX warning (ext4): destination with the same identifier (name{table.3.3}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.260 
-      ]) (Chapters/004Results/Results.tex [23]
+      ]) (Chapters/004Results/Results.tex [24]
 Cap\'{\i }tulo 4.
 
 Overfull \hbox (5.09482pt too wide) in paragraph at lines 56--83
  [][] 
  []
 
-<resultadohirox.png, id=374, 1450.41875pt x 1093.08376pt>
+<resultadohirox.png, id=380, 1450.41875pt x 1093.08376pt>
 File: resultadohirox.png Graphic file (type png)
 <use resultadohirox.png>
 Package pdftex.def Info: resultadohirox.png  used on input line 89.
 (pdftex.def)             Requested size: 426.78539pt x 246.28969pt.
-[24
+[25
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{table.4.1}) h
@@ -826,12 +732,12 @@ as been already used, duplicate ignored
                                                   \__shipout_drop_firstpage_...
 l.94 
      ]
-<fluxoeijr.png, id=382, 987.69pt x 345.54094pt>
+<fluxoeijr.png, id=388, 987.69pt x 345.54094pt>
 File: fluxoeijr.png Graphic file (type png)
 <use fluxoeijr.png>
 Package pdftex.def Info: fluxoeijr.png  used on input line 109.
 (pdftex.def)             Requested size: 426.77821pt x 137.01295pt.
- [25
+ [26
 pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -844,29 +750,29 @@ has been already used, duplicate ignored
                                                   \__shipout_drop_firstpage_...
 l.115 
        <./resultadohirox.png (PNG copy)> <./fluxoeijr.png>]
-<radares.png, id=393, 1408.26125pt x 746.79pt>
+<radares.png, id=399, 1408.26125pt x 746.79pt>
 File: radares.png Graphic file (type png)
 <use radares.png>
 Package pdftex.def Info: radares.png  used on input line 118.
 (pdftex.def)             Requested size: 426.7793pt x 226.31773pt.
- [26
+ [27
 pdfTeX warning (ext4): destination with the same identifier (name{figure.4.3}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.130 
        <./radares.png>]
-<fluxodepermeadoM2.png, id=401, 982.42032pt x 551.05875pt>
+<fluxodepermeadoM2.png, id=407, 982.42032pt x 551.05875pt>
 File: fluxodepermeadoM2.png Graphic file (type png)
 <use fluxodepermeadoM2.png>
 Package pdftex.def Info: fluxodepermeadoM2.png  used on input line 138.
 (pdftex.def)             Requested size: 426.79475pt x 239.39749pt.
-<condutividadeM2.png, id=402, 980.91469pt x 549.55313pt>
+<condutividadeM2.png, id=408, 980.91469pt x 549.55313pt>
 File: condutividadeM2.png Graphic file (type png)
 <use condutividadeM2.png>
 Package pdftex.def Info: condutividadeM2.png  used on input line 145.
 (pdftex.def)             Requested size: 426.78426pt x 239.10399pt.
-) (Chapters/005Conclusion/Conclusion.tex [27
+) (Chapters/005Conclusion/Conclusion.tex [28
 pdfTeX warning (ext4): destination with the same identifier (name{figure.4.4}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -875,58 +781,58 @@ l.1 \chapter
             {ConsideraÃ§Ãµes finais} <./fluxodepermeadoM2.png> <./condutividade
 M2.png>]
 Cap\'{\i }tulo 5.
-<cronograma.png, id=412, 1113.40968pt x 414.79968pt>
+<cronograma.png, id=419, 1113.40968pt x 414.79968pt>
 File: cronograma.png Graphic file (type png)
 <use cronograma.png>
 Package pdftex.def Info: cronograma.png  used on input line 25.
 (pdftex.def)             Requested size: 702.78308pt x 261.8252pt.
-) [28
+) [29
 
-] [29
+] [30
 pdfTeX warning (ext4): destination with the same identifier (name{figure.5.1}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.65  \backmatter
-                  <./cronograma.png>] (dissertacao.bbl [30
+                  <./cronograma.png>] (dissertacao.bbl [31
 
 
-] [31] [32] [33]
-Underfull \hbox (badness 10000) in paragraph at lines 313--320
+] [32] [33] [34]
+Underfull \hbox (badness 10000) in paragraph at lines 322--329
 []\T1/cmr/m/n/12 DIGIMED.  ``Con-du-ti-vi-dade, re-sis-ti-vi-dade e con-cen-tra
 -ção -- ca-tá-
  []
 
 
-Underfull \hbox (badness 5490) in paragraph at lines 313--320
+Underfull \hbox (badness 5490) in paragraph at lines 322--329
 \T1/cmr/m/n/12 logo de ana-li-sa-dor de con-du-ti-vi-dade''. 2025.  Dis-po-ní-v
 el em:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 313--320
+Underfull \hbox (badness 10000) in paragraph at lines 322--329
 \T1/cmr/m/n/12 <[]$\T1/cmtt/m/n/12 https : / / www . digimed . ind . br / asset
 s / downloads / produtos / catalogos /
  []
 
 
-Overfull \hbox (76.21579pt too wide) in paragraph at lines 313--320
+Overfull \hbox (76.21579pt too wide) in paragraph at lines 322--329
 \T1/cmtt/m/n/12 digimed-[]catalogo-[]analisador-[]condutividade-[]resistividade
 -[]concentracao-[]tc-[]4004 .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 332--338
+Underfull \hbox (badness 10000) in paragraph at lines 341--347
 []\T1/cmr/m/n/12 BÜRKERT FLUID CON-TROL SYS-TEMS.  ``Flow me-ter''.
  []
 
 
-Underfull \hbox (badness 4805) in paragraph at lines 332--338
+Underfull \hbox (badness 4805) in paragraph at lines 341--347
 \T1/cmr/m/n/12 2025.  Dis-po-ní-vel em: <[]$\T1/cmtt/m/n/12 https : / / www . b
 urkert . com / en / products /
  []
 
-) [34] 
+) [35] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (dissertacao.aux (Chapters/000AcknowledgmentAndAbstract/01Abstract.aux))
  ***********
@@ -937,13 +843,13 @@ Package rerunfilecheck Info: File `dissertacao.out' has not changed.
 (rerunfilecheck)             Checksum: 1137006C9475B93C3BFE0EC13A26B1D1;2590.
  ) 
 Here is how much of TeX's memory you used:
- 13686 strings out of 467871
- 214314 string characters out of 5428419
- 658969 words of memory out of 5000000
- 42178 multiletter control sequences out of 15000+600000
+ 13691 strings out of 467871
+ 214386 string characters out of 5428419
+ 659058 words of memory out of 5000000
+ 42181 multiletter control sequences out of 15000+600000
  639100 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,2141b,658s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,2143b,658s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Administrador\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
 600\ectt1200.pk> <C:\Users\Administrador\AppData\Local\MiKTeX\fonts/pk/ljfour/j
 knappen/ec/dpi600\ecrm1095.pk> <C:\Users\Administrador\AppData\Local\MiKTeX\fon
@@ -960,9 +866,9 @@ cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C
 es/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/font
 s/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/publ
 ic/amsfonts/cm/cmsy8.pfb>
-Output written on dissertacao.pdf (37 pages, 8390347 bytes).
+Output written on dissertacao.pdf (38 pages, 8392345 bytes).
 PDF statistics:
- 849 PDF objects out of 1000 (max. 8388607)
- 132 named destinations out of 1000 (max. 500000)
+ 860 PDF objects out of 1000 (max. 8388607)
+ 134 named destinations out of 1000 (max. 500000)
  187 words of extra memory for PDF output out of 10000 (max. 10000000)
 

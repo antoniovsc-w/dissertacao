@@ -1,4 +1,4 @@
-\begin{thebibliography}{54}
+\begin{thebibliography}{55}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -288,6 +288,15 @@
 \MakeUppercase{Macedonio, Francesca, e.~a.}
 \newblock \coppeenquote{Direct contact membrane distillation for treatment of
   oilfield produced water}, \doi{10.1016/j.seppur.2014.02.004}.
+
+\bibitem[\MakeUppercase{Pawar}\emph{ et~al.}(2022)Pawar, Zhang, Hanson~Rhoades,
+  Blotevogel, e Vidic]{Pawar2022}
+\MakeUppercase{Pawar, R., Zhang, Z., Hanson~Rhoades, A.,
+  \MakeLowercase{et~al.}}
+\newblock \coppeenquote{Impact of Organic and Volatile Compounds in Produced
+  Water from Unconventional Reservoirs on Direct Contact Membrane Distillation
+  Permeate Quality}, \emph{ACS ES\&T Water}, v.~2, \penalty0 pp.~1003--1012,
+  2022.
 
 \bibitem[\MakeUppercase{Guillen-Burrieza}()Guillen-Burrieza]{GuillenBurrieza2023}
 \MakeUppercase{Guillen-Burrieza, e.~a.}
