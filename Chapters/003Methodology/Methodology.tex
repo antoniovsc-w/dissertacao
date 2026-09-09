@@ -315,3 +315,46 @@ SEC_{\mathrm{th}} =
 \vspace{-0.8cm}
 
 As incertezas associadas as variáveis primárias de medição, como temperatura, vazão, pressão e condutividade serão propagadas aos indicadores de performance através da lei de propagação de variáveis, seguindo o Guia para a expressão e incerteza de medição do Inmetro \cite{INMETRO_GUM2012}. Com base nos parâmetros de performance descritos anteriormente, será realizada a comparação entre os resultados obtidos para as diferentes membranas, possibilitando visualizar o impacto das diferentes morfologias no tratamento da água de produção a longo prazo. 
+
+% Analisando incerteza utilizando o método de zhang. Descartado!
+%A análise de incerteza dos valores obtidos para o fluxo de permeado nos experimentos de longo prazo teve como ponto de partida a observação do gráfico do fluxo de permeado ao longo do tempo, o que permitiu de maneira visual observar a distinção entre duas fases do experimento, uma fase inicial denominada transiente e uma fase subsequente denominada pós-transiente.  Para determinar de maneira quantitativa o ponto de transição entre as fases, dividiu-se os dados em janelas de seis horas, onde foram calculados a média do fluxo de permeado e o desvio padrão em cada janela. Com base nos valores calculados, definiu-se que a fase pós-transiente tem inicio a partir do momento onde os valores de desvio padrão observados passaram a apresentar um patamar aproximadamente constante, a qual foi constatada através da análise de regressão linear, onde utilizou-se como resposta o desvio padrão e como preditor contínuo o número da janela. 
+
+%Uma vez que os dados foram separados em transiente e pós-transiente, verificou-se a utilização de janelas de 24 horas, no intuito de possibilitar a visualização de valores diários ao longo do experimento. Para a definição da janela de 24 horas, verificou-se a ocorrência de um efeito sistemático da posição de sub-janelas de seis horas sobre o fluxo médio. Para isso, realizou-se uma análise de variância (ANOVA) com dois fatores, onde a posição da sub-janela de seis horas dentro da janela de vinte e quatro horas foi considerado como fator de interesse, enquanto a respectiva janela de vinte e quatro horas foi utilizada como fator de controle.
+
+%Como avaliação adicional, calculou-se a diferença relativa absoluta entre a média de cada sub-janela de seis horas e a média da janela de vinte e quatro horas, através da fórmula \ref{eq.: diferenca relativa abs}. A janela foi considerada representativa quando o erro relativo máximo e o percentil 95 dos erros permaneceram inferiores a 5~\%.
+
+%\begin{equation}
+ %   \epsilon_{i,j} = |\frac{(J_{6h,ij} - J_{24h,i})}{J_{24h,i}}| \times 100
+ %   \label{eq.: diferenca relativa abs}
+%\end{equation}
+
+%A partir da constatação de que as janelas de vinte e quatro horas proporcionam a agregação dos dados sem perda significativa de resolução em comparação com as janelas de seis horas, verificou-se a dependência temporal das medições através da função de autocorrelação (ACF), de modo a indentificar se as medições poderiam ou não ser consideradas estatisticamente independentes.
+
+%Uma vez identificado que as medições são autocorrelacionadas, a avaliação da incerteza do tipo A por meio da metodologia estabelecida no Guia para a expressão e incerteza de medição do Inmetro \cite{INMETRO_GUM2012} pode não ser apropriada, come mencionado no própio guia: 
+%"Se as variações aleatórias nas observações de uma grandeza de entrada são correlacionadas, 
+%por exemplo, na grandeza tempo, a média e o desvio-padrão experimental da média, tais como dados 
+%em 4.2.1 e 4.2.3, podem ser estimadores (C.2.25) não apropriados da estatística (C.2.23) desejada. 
+%Em tais casos, as observações devem ser analisadas por métodos estatísticos especialmente criados 
+%para tratar uma série de medições correlacionadas que variam aleatoriamente."
+
+%Com base nessas informações, buscou-se na literatura um método para a definição da incerteza do Tipo A para dados autocorrelacionados, resultando no procedimento proposto por \cite{Zhang2006}. Para a aplicação do método proposto, é necessário que o processo seja aproximadamente estacionário. Deste modo, avaliou-se a estacionariedade de cada janela de vinte e quatro horas com base na estabilidade da média, do desvio padrão, do comportamento das funções de autocorrelação e o teste de Dickey-Fuller aumentado (ADF). A estabilidade da média e do desvio padrão ja haviam sido avaliados, uma vez que não há variação sistemática da posição temporal da média dentro da janela de vinte e quatro horas e não foi identificada variação temporal significativa no desvio padrão. Aplicou-se o teste de Dickey-Fuller aumentado para verificar a pesença de raiz unitária, onde considerou-se a rejeição da hipótese nula como favorável a considerar a série temporal dentro da janela de vinte e quatro horas como estacionária.
+
+%Com a definição da estacionariedade local, aplicou-se o procedimento proposto por \cite{Zhang2006}, iniciando com o cálculo da função de autocorrelação para cada janela de vinte e quatro horas, adotando como limite máximo para a análise de defasagens um quarto do número de lags da janela. Em seguida armazenou-se o coeficiente de autocorrelação $\hat{\rho}(i)$ referente a cada lag i.
+
+%Em seguida, calculou-se o quadrado de cada coeficiente e a soma acumulada dos quadrados das autocorrelações anteriores, de modo a calcular o erro-padrão de $\hat{\rho}(i)$, através da equação \cite{eq.: erro padrao coeficiente autocorrelacao}.
+
+%\begin{equation}
+%\hat{\sigma}_{\hat{\rho}(i)}
+%=
+%\sqrt{
+%\frac{
+%1 + 2\sum_{k=1}^{i-1}\hat{\rho}^{2}(k)
+%}{
+n
+%}
+%},
+%\qquad
+%\text{for } i = 2,3,\ldots
+%\label{eq.: erro padrao coeficiente autocorrelacao}
+%\end{equation}
+

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.12)  20 AUG 2026 13:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.5.12)  9 SEP 2026 16:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -641,14 +641,14 @@ l.19
 <moduloSingh2011DCMD.png, id=265, 513.117pt x 467.94826pt>
 File: moduloSingh2011DCMD.png Graphic file (type png)
 <use moduloSingh2011DCMD.png>
-Package pdftex.def Info: moduloSingh2011DCMD.png  used on input line 167.
+Package pdftex.def Info: moduloSingh2011DCMD.png  used on input line 165.
 (pdftex.def)             Requested size: 343.19156pt x 312.98103pt.
  [14] [15
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.2}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.183 
+l.181 
        <./moduloSingh2011DCMD.png>] [16])
 (Chapters/003Methodology/Methodology.tex [17] [18]
 Cap\'{\i }tulo 3.
@@ -866,7 +866,7 @@ cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C
 es/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/font
 s/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/publ
 ic/amsfonts/cm/cmsy8.pfb>
-Output written on dissertacao.pdf (38 pages, 8392345 bytes).
+Output written on dissertacao.pdf (38 pages, 8392085 bytes).
 PDF statistics:
  860 PDF objects out of 1000 (max. 8388607)
  134 named destinations out of 1000 (max. 500000)
