@@ -1,4 +1,4 @@
-\begin{thebibliography}{55}
+\begin{thebibliography}{54}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -123,12 +123,6 @@
   distillation: material development and energy requirements},
   \doi{10.2166/ws.2022.337}.
 
-\bibitem[\MakeUppercase{Eykens}()Eykens]{Eykens2016}
-\MakeUppercase{Eykens, L., e.~a.}
-\newblock \coppeenquote{Influence of membrane thickness and process conditions
-  on direct contact membrane distillation at different salinities},
-  \doi{10.1016/j.memsci.2015.09.058}.
-
 \bibitem[\MakeUppercase{González}()González]{Gonzalez2017}
 \MakeUppercase{González, Daniel, e.~a.}
 \newblock \coppeenquote{Membrane distillation: Perspectives for sustainable and
@@ -139,6 +133,12 @@
 \newblock \coppeenquote{Energy efficiency of membrane distillation up to high
   salinity: Evaluating critical system size and optimal membrane thickness},
   \doi{10.1016/j.apenergy.2017.11.043}.
+
+\bibitem[\MakeUppercase{Eykens}()Eykens]{Eykens2016}
+\MakeUppercase{Eykens, L., e.~a.}
+\newblock \coppeenquote{Influence of membrane thickness and process conditions
+  on direct contact membrane distillation at different salinities},
+  \doi{10.1016/j.memsci.2015.09.058}.
 
 \bibitem[\MakeUppercase{Yao}()Yao]{Yao2020WettabilityMD}
 \MakeUppercase{Yao, Minwei, e.~a.}
@@ -156,12 +156,6 @@
 \newblock \coppeenquote{In-situ imaging to elucidate on scaling and wetting in
   membrane distillation}, \doi{10.1016/j.desal.2024.117393}.
 
-\bibitem[\MakeUppercase{Nguyen}()Nguyen]{Nguyen2025MDStability}
-\MakeUppercase{Nguyen, Hau~Thi, e.~a.}
-\newblock \coppeenquote{Enhancing membrane distillation stability: Isoamyl
-  alcohol coagulation as a novel strategy to mitigate membrane swelling at
-  elevated temperatures}, \doi{10.1016/j.eti.2025.104029}.
-
 \bibitem[\MakeUppercase{Laqbaqbi}\emph{ et~al.}(2017)Laqbaqbi, Sanmartino,
   Khayet, García-Payo, e Chaouch]{Laqbaqbi2017}
 \MakeUppercase{Laqbaqbi, M., Sanmartino, J.~A., Khayet, M.,
@@ -171,15 +165,6 @@
   \penalty0 pp.~334, 2017.
 \newblock ISSN: 2076-3417.
 \newblock \doi{10.3390/app7040334}.
-
-\bibitem[\MakeUppercase{Yao}\emph{ et~al.}(2018)Yao, Woo, Tijing, Choi, e
-  Shon]{Yao2018}
-\MakeUppercase{Yao, M., Woo, Y.~C., Tijing, L.~D., \MakeLowercase{et~al.}}
-\newblock \coppeenquote{Effects of Volatile Organic Compounds on Water Recovery
-  from Produced Water via Vacuum Membrane Distillation}, \emph{Desalination},
-  v.~440, \penalty0 pp.~146--155, 2018.
-\newblock ISSN: 0011-9164.
-\newblock \doi{10.1016/j.desal.2017.11.012}.
 
 \bibitem[\MakeUppercase{Gong}\emph{ et~al.}(2019)Gong, Yang, Wu, Yan, Cen, Bo,
   e Ostrikov]{Gong2019}
@@ -198,15 +183,14 @@
 \newblock ISSN: 2590-1230.
 \newblock \doi{10.1016/j.rineng.2023.100995}.
 
-\bibitem[\MakeUppercase{Thakur}\emph{ et~al.}(2020)Thakur, Hsieh, Islam, Lin,
-  Chen, e Malmali]{Thakur2020SGMD}
-\MakeUppercase{Thakur, A.~K., Hsieh, I.-M., Islam, M.~R.,
-  \MakeLowercase{et~al.}}
-\newblock \coppeenquote{Performance of Sweeping Gas Membrane Distillation for
-  Treating Produced Water: Modeling and Experiments}, \emph{Desalination},
-  v.~492, \penalty0 pp.~114597, 2020.
+\bibitem[\MakeUppercase{Yao}\emph{ et~al.}(2018)Yao, Woo, Tijing, Choi, e
+  Shon]{Yao2018}
+\MakeUppercase{Yao, M., Woo, Y.~C., Tijing, L.~D., \MakeLowercase{et~al.}}
+\newblock \coppeenquote{Effects of Volatile Organic Compounds on Water Recovery
+  from Produced Water via Vacuum Membrane Distillation}, \emph{Desalination},
+  v.~440, \penalty0 pp.~146--155, 2018.
 \newblock ISSN: 0011-9164.
-\newblock \doi{10.1016/j.desal.2020.114597}.
+\newblock \doi{10.1016/j.desal.2017.11.012}.
 
 \bibitem[\MakeUppercase{Gueccia}()Gueccia]{Gueccia2021HClRecovery}
 \MakeUppercase{Gueccia, Rosa, e.~a.}
@@ -297,6 +281,16 @@
   Water from Unconventional Reservoirs on Direct Contact Membrane Distillation
   Permeate Quality}, \emph{ACS ES\&T Water}, v.~2, \penalty0 pp.~1003--1012,
   2022.
+
+\bibitem[\MakeUppercase{Thakur}\emph{ et~al.}(2020)Thakur, Hsieh, Islam, Lin,
+  Chen, e Malmali]{Thakur2020SGMD}
+\MakeUppercase{Thakur, A.~K., Hsieh, I.-M., Islam, M.~R.,
+  \MakeLowercase{et~al.}}
+\newblock \coppeenquote{Performance of Sweeping Gas Membrane Distillation for
+  Treating Produced Water: Modeling and Experiments}, \emph{Desalination},
+  v.~492, \penalty0 pp.~114597, 2020.
+\newblock ISSN: 0011-9164.
+\newblock \doi{10.1016/j.desal.2020.114597}.
 
 \bibitem[\MakeUppercase{Guillen-Burrieza}()Guillen-Burrieza]{GuillenBurrieza2023}
 \MakeUppercase{Guillen-Burrieza, e.~a.}
