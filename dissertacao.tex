@@ -1,5 +1,25 @@
 \documentclass[msc,numbers,fleqn]{coppe} %% Mestrado: "msc"; Doutorado: "dsc";
-\usepackage{amsmath,amssymb}
+
+% ============================================================
+% FONTE TIMES
+% ============================================================
+% Compilação com pdfLaTeX
+% newtxtext: fonte Times para o texto
+% newtxmath: fonte Times para as equações
+\usepackage[T1]{fontenc}
+\usepackage{newtxtext}
+
+% ============================================================
+% MATEMÁTICA
+% ============================================================
+\usepackage{amsmath}
+
+% Carregar newtxmath após amsmath
+\usepackage{newtxmath}
+
+% ============================================================
+% DEMAIS PACOTES
+% ============================================================
 \usepackage[hidelinks]{hyperref}
 \usepackage{xcolor}
 \usepackage{float}
@@ -9,18 +29,22 @@
 \usepackage{gensymb}
 \usepackage{rotating}
 
-
 \setlength{\mathindent}{0pt}
 
 \makelosymbols
 \makeloabbreviations
 
 \begin{document}
+
   \title{Análise experimental da destilação por membranas aplicada ao tratamento de águas produzidas reais.}
+
   \foreigntitle{Experimental investigation membrane distillation for the treatment of real produced water.}
+
   \author{Antonio Victor}{de Souza Correa}
+
   \advisor{Prof.}{Carolina}{Palma Naveira Cotta}{D.Sc.}
   \advisor{}{Ramon}{de Paoli Mendes}{Ph.D.}
+
   %\advisor{Prof.}{Nome do Terceiro Orientador}{Sobrenome}{D.Sc.}
 
   %\examiner{Prof.}{Nome do Primeiro Examinador Sobrenome}{D.Sc.}
@@ -28,6 +52,7 @@
   %\examiner{Prof.}{Nome do Terceiro Examinador Sobrenome}{D.Sc.}
   %\examiner{Prof.}{Nome do Quarto Examinador Sobrenome}{Ph.D.}
   %\examiner{Prof.}{Nome do Quinto Examinador Sobrenome}{Ph.D.}
+
   \department{PEM} %% Mudar para sigla do seu departamento
   \date{05}{2026}
 
@@ -38,17 +63,21 @@
   \maketitle
 
   \renewcommand{\makecatalog}{}
+
   \makeatletter
   \renewcommand{\makefrontpage}{}
   \renewcommand{\makecatalog}{}
   \makeatother
+
   \frontmatter
+
   %\dedication{A algu\'em cujo valor \'e digno desta dedicat\'oria.}
 
   %\include{Chapters/000AcknowledgmentAndAbstract/00Acknowledgment}
   \include{Chapters/000AcknowledgmentAndAbstract/01Abstract}
-  
+
   \tableofcontents
+
   %\listoffigures
   %\listoftables
   %\printlosymbols
@@ -61,10 +90,15 @@
   \input{Chapters/003Methodology/Methodology}
   \input{Chapters/004Results/Results}
   \input{Chapters/005Conclusion/Conclusion}
-  
- \backmatter
+
+  \backmatter
+
+  % ============================================================
+  % BIBLIOGRAFIA
+  % ============================================================
 
   \makeatletter
+
   \renewenvironment{thebibliography}[1]
      {\chapter*{\bibname}
       \list{\@biblabel{\@arabic\c@enumiv}}
@@ -82,13 +116,12 @@
            }
       \sloppy}
      {\endlist}
+
   \makeatother
 
   \bibliographystyle{coppe-unsrt}
   \bibliography{Bibliography/references}
 
   \appendix
+
 \end{document}
-%% 
-%%
-%% End of file `example.tex'.
