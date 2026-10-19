@@ -1,6 +1,8 @@
 This is BibTeX, Version 0.99e
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: dissertacao.aux
+Reallocating 'name_of_file' (item size: 1) to 59 items.
+A level-1 auxiliary file: Chapters/000AcknowledgmentAndAbstract/00Acknowledgment.aux
 Reallocating 'name_of_file' (item size: 1) to 53 items.
 A level-1 auxiliary file: Chapters/000AcknowledgmentAndAbstract/01Abstract.aux
 Reallocating 'name_of_file' (item size: 1) to 12 items.
@@ -104,15 +106,15 @@ Warning--empty year in Adham2023
 Warning--empty journal in Singh2011DCMD
 Warning--empty year in Singh2011DCMD
 Warning--empty year in Singh2011DCMD
+Warning--empty journal in Macedonio2014_MD_ProducedWater
+Warning--empty year in Macedonio2014_MD_ProducedWater
+Warning--empty year in Macedonio2014_MD_ProducedWater
 Warning--empty journal in Nawaz2021FO_MD
 Warning--empty year in Nawaz2021FO_MD
 Warning--empty year in Nawaz2021FO_MD
 Warning--empty journal in Pawar2022AGMD
 Warning--empty year in Pawar2022AGMD
 Warning--empty year in Pawar2022AGMD
-Warning--empty journal in Macedonio2014_MD_ProducedWater
-Warning--empty year in Macedonio2014_MD_ProducedWater
-Warning--empty year in Macedonio2014_MD_ProducedWater
 Warning--empty journal in GuillenBurrieza2023
 Warning--empty year in GuillenBurrieza2023
 Warning--empty year in GuillenBurrieza2023
@@ -120,7 +122,7 @@ Warning--empty year in ASTM_F316_03
 Warning--empty journal in Millero1980
 You've used 54 entries,
             2630 wiz_defined-function locations,
-            855 strings with 14816 characters,
+            856 strings with 14874 characters,
 and the built_in function-call counts, 17652 in all, are:
 = -- 1411
 > -- 547

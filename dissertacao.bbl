@@ -246,6 +246,30 @@
   contact membrane distillation at high temperatures and pressures},
   \doi{10.1016/j.memsci.2011.10.019}.
 
+\bibitem[\MakeUppercase{Macedonio}()Macedonio]{Macedonio2014_MD_ProducedWater}
+\MakeUppercase{Macedonio, Francesca, e.~a.}
+\newblock \coppeenquote{Direct contact membrane distillation for treatment of
+  oilfield produced water}, \doi{10.1016/j.seppur.2014.02.004}.
+
+\bibitem[\MakeUppercase{Thakur}\emph{ et~al.}(2020)Thakur, Hsieh, Islam, Lin,
+  Chen, e Malmali]{Thakur2020SGMD}
+\MakeUppercase{Thakur, A.~K., Hsieh, I.-M., Islam, M.~R.,
+  \MakeLowercase{et~al.}}
+\newblock \coppeenquote{Performance of Sweeping Gas Membrane Distillation for
+  Treating Produced Water: Modeling and Experiments}, \emph{Desalination},
+  v.~492, \penalty0 pp.~114597, 2020.
+\newblock ISSN: 0011-9164.
+\newblock \doi{10.1016/j.desal.2020.114597}.
+
+\bibitem[\MakeUppercase{Hsieh}\emph{ et~al.}(2021)Hsieh, Thakur, e
+  Malmali]{Hsieh2021Pretreatments}
+\MakeUppercase{Hsieh, I.-M., Thakur, A.~K., Malmali, M.}
+\newblock \coppeenquote{Comparative Analysis of Various Pretreatments to
+  Mitigate Fouling and Scaling in Membrane Distillation}, \emph{Desalination},
+  v.~506, \penalty0 pp.~114999, 2021.
+\newblock ISSN: 0011-9164.
+\newblock \doi{10.1016/j.desal.2021.114999}.
+
 \bibitem[\MakeUppercase{Nawaz}()Nawaz]{Nawaz2021FO_MD}
 \MakeUppercase{Nawaz, Muhammad~Saqib, e.~a.}
 \newblock \coppeenquote{Investigation of flux stability and fouling mechanism
@@ -259,20 +283,6 @@
   distillation for desalination of produced water from Permian Basin},
   \doi{10.1016/j.desal.2022.115853}.
 
-\bibitem[\MakeUppercase{Hsieh}\emph{ et~al.}(2021)Hsieh, Thakur, e
-  Malmali]{Hsieh2021Pretreatments}
-\MakeUppercase{Hsieh, I.-M., Thakur, A.~K., Malmali, M.}
-\newblock \coppeenquote{Comparative Analysis of Various Pretreatments to
-  Mitigate Fouling and Scaling in Membrane Distillation}, \emph{Desalination},
-  v.~506, \penalty0 pp.~114999, 2021.
-\newblock ISSN: 0011-9164.
-\newblock \doi{10.1016/j.desal.2021.114999}.
-
-\bibitem[\MakeUppercase{Macedonio}()Macedonio]{Macedonio2014_MD_ProducedWater}
-\MakeUppercase{Macedonio, Francesca, e.~a.}
-\newblock \coppeenquote{Direct contact membrane distillation for treatment of
-  oilfield produced water}, \doi{10.1016/j.seppur.2014.02.004}.
-
 \bibitem[\MakeUppercase{Pawar}\emph{ et~al.}(2022)Pawar, Zhang, Hanson~Rhoades,
   Blotevogel, e Vidic]{Pawar2022}
 \MakeUppercase{Pawar, R., Zhang, Z., Hanson~Rhoades, A.,
@@ -281,16 +291,6 @@
   Water from Unconventional Reservoirs on Direct Contact Membrane Distillation
   Permeate Quality}, \emph{ACS ES\&T Water}, v.~2, \penalty0 pp.~1003--1012,
   2022.
-
-\bibitem[\MakeUppercase{Thakur}\emph{ et~al.}(2020)Thakur, Hsieh, Islam, Lin,
-  Chen, e Malmali]{Thakur2020SGMD}
-\MakeUppercase{Thakur, A.~K., Hsieh, I.-M., Islam, M.~R.,
-  \MakeLowercase{et~al.}}
-\newblock \coppeenquote{Performance of Sweeping Gas Membrane Distillation for
-  Treating Produced Water: Modeling and Experiments}, \emph{Desalination},
-  v.~492, \penalty0 pp.~114597, 2020.
-\newblock ISSN: 0011-9164.
-\newblock \doi{10.1016/j.desal.2020.114597}.
 
 \bibitem[\MakeUppercase{Guillen-Burrieza}()Guillen-Burrieza]{GuillenBurrieza2023}
 \MakeUppercase{Guillen-Burrieza, e.~a.}

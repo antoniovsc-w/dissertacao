@@ -134,7 +134,7 @@ T\kern-.1667em\lower.5ex\hbox{E}\kern-.125emX\spacefactor1000}
     {\global\def\local@deptname{Engenharia El{\' e}trica}
      \global\def\foreign@deptname{Electrical Engineering}}{}
   \ifthenelse{\equal{#1}{PEM}}
-    {\global\def\local@deptname{Engenharia Mec{\^ a}nica}
+    {\global\def\local@deptname{Pós Gradua{\c c}{\~ a}o em Engenharia Mec{\^ a}nica}
      \global\def\foreign@deptname{Mechanical Engineering}}{}
   \ifthenelse{\equal{#1}{PEMM}}
     {\global\def\local@deptname{Engenharia Metal{\' u}rgica e de Materiais}
