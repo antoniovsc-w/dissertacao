@@ -13,6 +13,9 @@ Warning--entry type for "Aquastill2025" isn't style-file defined
 --line 581 of file Bibliography/references.bib
 Warning--entry type for "ASTM_F316_03" isn't style-file defined
 --line 597 of file Bibliography/references.bib
+Warning--empty journal in Singh2011DCMD
+Warning--empty year in Singh2011DCMD
+Warning--empty year in Singh2011DCMD
 Warning--empty journal in w15162980
 Warning--empty year in w15162980
 Warning--empty year in w15162980
@@ -103,9 +106,6 @@ Warning--empty year in Abdelrazeq2022DCMD
 Warning--empty journal in Adham2023
 Warning--empty year in Adham2023
 Warning--empty year in Adham2023
-Warning--empty journal in Singh2011DCMD
-Warning--empty year in Singh2011DCMD
-Warning--empty year in Singh2011DCMD
 Warning--empty journal in Macedonio2014_MD_ProducedWater
 Warning--empty year in Macedonio2014_MD_ProducedWater
 Warning--empty year in Macedonio2014_MD_ProducedWater

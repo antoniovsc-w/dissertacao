@@ -1,6 +1,8 @@
 \babel@toc {brazil}{}\relax 
 \babel@toc {english}{}\relax 
 \babel@toc {brazil}{}\relax 
+\contentsline {chapter}{Lista de Figuras}{viii}{chapter*.3}%
+\contentsline {chapter}{Lista de Tabelas}{ix}{chapter*.4}%
 \contentsline {chapter}{\numberline {1}INTRODUÇÃO}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Contextualização e motivação}{1}{section.1.1}%
 \contentsline {section}{\numberline {1.2}Objetivos gerais}{1}{section.1.2}%

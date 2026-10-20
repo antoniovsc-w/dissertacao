@@ -6,6 +6,13 @@
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 \newcommand{\coppeenquote}[1]{``#1''}
 
+\bibitem[\MakeUppercase{Singh} e \MakeUppercase{Sirkar}()Singh e
+  Sirkar]{Singh2011DCMD}
+\MakeUppercase{Singh, D., Sirkar, K.~K.}
+\newblock \coppeenquote{Desalination of brine and produced water by direct
+  contact membrane distillation at high temperatures and pressures},
+  \doi{10.1016/j.memsci.2011.10.019}.
+
 \bibitem[\MakeUppercase{Ibrahim}()Ibrahim]{w15162980}
 \MakeUppercase{Ibrahim, Muhammad, e.~a.}
 \newblock \coppeenquote{Advances in Produced Water Treatment Technologies: An
@@ -238,13 +245,6 @@
 \MakeUppercase{Adham, S., Minier-Matar, J., Hussain, A.}
 \newblock \coppeenquote{Pilot plant evaluation of membrane distillation for
   desalination of high-salinity brines}, \doi{10.1007/s13201-023-02017-x}.
-
-\bibitem[\MakeUppercase{Singh} e \MakeUppercase{Sirkar}()Singh e
-  Sirkar]{Singh2011DCMD}
-\MakeUppercase{Singh, D., Sirkar, K.~K.}
-\newblock \coppeenquote{Desalination of brine and produced water by direct
-  contact membrane distillation at high temperatures and pressures},
-  \doi{10.1016/j.memsci.2011.10.019}.
 
 \bibitem[\MakeUppercase{Macedonio}()Macedonio]{Macedonio2014_MD_ProducedWater}
 \MakeUppercase{Macedonio, Francesca, e.~a.}

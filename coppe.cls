@@ -135,7 +135,7 @@ T\kern-.1667em\lower.5ex\hbox{E}\kern-.125emX\spacefactor1000}
      \global\def\foreign@deptname{Electrical Engineering}}{}
   \ifthenelse{\equal{#1}{PEM}}
     {\global\def\local@deptname{Pós Gradua{\c c}{\~ a}o em Engenharia Mec{\^ a}nica}
-     \global\def\foreign@deptname{Mechanical Engineering}}{}
+     \global\def\foreign@deptname{Postgraduate Program in Mechanical Engineering}}{}
   \ifthenelse{\equal{#1}{PEMM}}
     {\global\def\local@deptname{Engenharia Metal{\' u}rgica e de Materiais}
 \global\def\foreign@deptname{Metallurgical and Materials Engineering}}{}
@@ -756,10 +756,10 @@ T\kern-.1667em\lower.5ex\hbox{E}\kern-.125emX\spacefactor1000}
 \newcommand\frontcover@maintext{
   \sloppy\nohyphens{Proposta de \local@doctype\ de \@degreename\
   \ifthenelse{\boolean{maledoc}}{apresentado}{apresentada}
-  ao Programa de P{\' o}s-gradua{\c c}{\~ a}o em \local@deptname,
+  ao Programa de  \local@deptname,
   COPPE, da \local@universityname, como parte dos requisitos
   necess{\' a}rios {\` a} obten{\c c}{\~ a}o do t{\' i}tulo de
-  \local@degname\ em \local@deptname.}
+  \local@degname\ em Engenharia Mecânica.}
 }
 \newcommand\frontpage@maintext{
   \noindent {\MakeUppercase\local@doctype}
