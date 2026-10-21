@@ -1,4 +1,4 @@
-\begin{thebibliography}{61}
+\begin{thebibliography}{63}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -56,6 +56,11 @@
   membrane-based technologies for the treatment of oilfield produced water},
   2022.
 \newblock Available online 22 December 2022.
+
+\bibitem[\MakeUppercase{Ahmadun}()Ahmadun]{Ahmadun2009PWTechnologies}
+\MakeUppercase{Ahmadun, Fakhrul-Razi, e.~a.}
+\newblock \coppeenquote{Review of technologies for oil and gas produced water
+  treatment}, \doi{10.1016/j.jhazmat.2009.05.044}.
 
 \bibitem[\MakeUppercase{Liang}\emph{ et~al.}(2018)Liang, Ning, Liao, e
   Yuan]{Liang2018ProducedWater}
@@ -134,10 +139,15 @@
   Treatment Systems for Sustainable Oil and Gas Production: A Review of Current
   Technologies}, \doi{10.1002/gch2.202500575}.
 
-\bibitem[\MakeUppercase{Ahmadun}()Ahmadun]{Ahmadun2009PWTechnologies}
-\MakeUppercase{Ahmadun, Fakhrul-Razi, e.~a.}
-\newblock \coppeenquote{Review of technologies for oil and gas produced water
-  treatment}, \doi{10.1016/j.jhazmat.2009.05.044}.
+\bibitem[\MakeUppercase{Ghaffour}\emph{ et~al.}(2019)Ghaffour, Soukane, Lee,
+  Kim, e Alpatova]{Ghaffour2019}
+\MakeUppercase{Ghaffour, N., Soukane, S., Lee, J.-G., \MakeLowercase{et~al.}}
+\newblock \coppeenquote{Membrane distillation hybrids for water production and
+  energy efficiency enhancement: A critical review}, \emph{Applied Energy},
+  2019.
+\newblock \doi{10.1016/j.apenergy.2019.113698}.
+\newblock Dispon{\' i}vel em:
+  \textless\url{https://doi.org/10.1016/j.apenergy.2019.113698}\textgreater .
 
 \bibitem[\MakeUppercase{Olatunji} e \MakeUppercase{Camacho}()Olatunji e
   Camacho]{Olatunji2018MDModeling}
@@ -167,16 +177,25 @@
   engineers}.
 \newblock  Oxford, Elsevier, 2011.
 
+\bibitem[\MakeUppercase{Alkhatib}()Alkhatib]{Alkhatib2021FoulingMD}
+\MakeUppercase{Alkhatib, Amira, e.~a.}
+\newblock \coppeenquote{Fouling mitigation strategies for different foulants in
+  membrane distillation}, \doi{10.1016/j.cep.2021.108517}.
+
 \bibitem[\MakeUppercase{Yao}()Yao]{Yao2020WettabilityMD}
 \MakeUppercase{Yao, Minwei, e.~a.}
 \newblock \coppeenquote{A review of membrane wettability for the treatment of
   saline water deploying membrane distillation},
   \doi{10.1016/j.desal.2020.114312}.
 
-\bibitem[\MakeUppercase{Alkhatib}()Alkhatib]{Alkhatib2021FoulingMD}
-\MakeUppercase{Alkhatib, Amira, e.~a.}
-\newblock \coppeenquote{Fouling mitigation strategies for different foulants in
-  membrane distillation}, \doi{10.1016/j.cep.2021.108517}.
+\bibitem[\MakeUppercase{Yan}\emph{ et~al.}(2021)Yan, Jiang, Liu, Li, Chen, Xia,
+  Fan, e Ding]{Yan2021}
+\MakeUppercase{Yan, Z., Jiang, Y., Liu, L., \MakeLowercase{et~al.}}
+\newblock \coppeenquote{Membrane Distillation for Wastewater Treatment: A Mini
+  Review}, \emph{Water}, v.~13, n.~24, \penalty0 pp.~3480, 2021.
+\newblock \doi{10.3390/w13243480}.
+\newblock Dispon{\' i}vel em:
+  \textless\url{https://doi.org/10.3390/w13243480}\textgreater .
 
 \bibitem[\MakeUppercase{Tomczak} e \MakeUppercase{Gryta}(2021)Tomczak e
   Gryta]{Tomczak2021OilSurfactants}
