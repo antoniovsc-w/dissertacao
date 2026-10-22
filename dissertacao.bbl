@@ -1,4 +1,4 @@
-\begin{thebibliography}{63}
+\begin{thebibliography}{64}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -554,17 +554,27 @@
 \newblock Dispon{\' i}vel em:
   \textless\url{https://doi.org/10.1021/acsestwater.1c00496}\textgreater .
 
-\bibitem[\MakeUppercase{Guillen-Burrieza}\emph{ et~al.}(2023)Guillen-Burrieza,
-  Moritz, Hobisch, e Muster-Slawitsch]{GuillenBurrieza2023}
-\MakeUppercase{Guillen-Burrieza, E., Moritz, E., Hobisch, M.,
+\bibitem[\MakeUppercase{Regmi}\emph{ et~al.}(2023)Regmi, Thamaraiselvan, Jebur,
+  Qian, e Wickramasinghe]{Regmi2023ProducedWater}
+\MakeUppercase{Regmi, C., Thamaraiselvan, C., Jebur, M.,
   \MakeLowercase{et~al.}}
-\newblock \coppeenquote{Recovery of ammonia from centrate water in urban waste
-  water treatment plants via direct contact membrane distillation: Process
-  performance in long-term pilot-scale operation}, \emph{Journal of Membrane
-  Science}, v.~667, \penalty0 pp.~121161, 2023.
-\newblock \doi{10.1016/j.memsci.2022.121161}.
+\newblock \coppeenquote{Advancing Produced Water Treatment: Scaling Up
+  {EC-MF-MDC} Technology from Lab to Pilot Scale}, \emph{Chemical Engineering
+  Journal}, 2023.
+\newblock \doi{10.1016/j.cej.2023.146877}.
 \newblock Dispon{\' i}vel em:
-  \textless\url{https://doi.org/10.1016/j.memsci.2022.121161}\textgreater .
+  \textless\url{https://doi.org/10.1016/j.cej.2023.146877}\textgreater .
+\newblock Available online 22 November 2023.
+
+\bibitem[\MakeUppercase{Gryta}(2023)Gryta]{Gryta2023}
+\MakeUppercase{Gryta, M.}
+\newblock \coppeenquote{Membrane Distillation Crystallizer Applied for
+  Separation of {NaCl} Solutions Contaminated with Oil}, \emph{Membranes},
+  v.~13, n.~1, \penalty0 pp.~35, 2023.
+\newblock ISSN: 2077-0375.
+\newblock \doi{10.3390/membranes13010035}.
+\newblock Dispon{\' i}vel em:
+  \textless\url{https://doi.org/10.3390/membranes13010035}\textgreater .
 
 \bibitem[\MakeUppercase{{Aquastill}}(2025){Aquastill}]{Aquastill2025}
 \MakeUppercase{{Aquastill}}.

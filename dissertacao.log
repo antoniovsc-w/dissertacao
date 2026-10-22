@@ -1,112 +1,110 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.9.29)  21 OCT 2026 22:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.10.19)  22 OCT 2026 16:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **./dissertacao.tex
 (dissertacao.tex
-LaTeX2e <2025-11-01>
-L3 programming layer <2025-12-24>
+LaTeX2e <2026-06-01>
+L3 programming layer <2026-09-09>
 (coppe.cls
 Document Class: coppe 2022/03/07\ v3.1\ COPPE Dissertations and Thesis
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
+(C:\Program Files\MiKTeX\tex/latex/base\book.cls
 Document Class: book 2025/01/22 v1.4n Standard LaTeX document class
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/base\bk12.clo
+(C:\Program Files\MiKTeX\tex/latex/base\bk12.clo
 File: bk12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count275
-\c@chapter=\count276
-\c@section=\count277
-\c@subsection=\count278
-\c@subsubsection=\count279
-\c@paragraph=\count280
-\c@subparagraph=\count281
-\c@figure=\count282
-\c@table=\count283
+\c@part=\count276
+\c@chapter=\count277
+\c@section=\count278
+\c@subsection=\count279
+\c@subsubsection=\count280
+\c@paragraph=\count281
+\c@subparagraph=\count282
+\c@figure=\count283
+\c@table=\count284
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
-\bibindent=\dimen148
+\bibindent=\dimen150
 )
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
+(C:\Program Files\MiKTeX\tex/latex/natbib\natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip51
 \bibsep=\skip52
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count284
+\c@NAT@ctr=\count285
 )
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/hyphenat\hyphenat.sty
+(C:\Program Files\MiKTeX\tex/latex/hyphenat\hyphenat.sty
 Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
 \langwohyphens=\language79
 LaTeX Info: Redefining \_ on input line 43.
 )
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage.sty
+(C:\Program Files\MiKTeX\tex/latex/lastpage\lastpage.sty
 Package: lastpage 2025/08/14 v2.1h lastpage: 2.09 or 2e? (HMM)
 
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpage2e.sty
+(C:\Program Files\MiKTeX\tex/latex/lastpage\lastpage2e.sty
 Package: lastpage2e 2025/08/14 v2.1h Decide which 2e lastpage version to use (H
 MM)
 
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/lastpage\lastpagemodern
-.sty
+(C:\Program Files\MiKTeX\tex/latex/lastpage\lastpagemodern.sty
 Package: lastpagemodern 2025-08-14 v2.1h Refers to last page's name (HMM; JPG)
-\c@lastpagecount=\count285
+\c@lastpagecount=\count286
 ) 
-)) (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+)) (C:\Program Files\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 )
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
-Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2026-05-17 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
-Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+(C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2026-05-17 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
 )
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
-Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2026-05-17 v1.4h Standard LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+(C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
 )
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
-fg
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 106.
 
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+(C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen149
-\Gin@req@width=\dimen150
+\Gin@req@height=\dimen151
+\Gin@req@width=\dimen152
 )
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+(C:\Program Files\MiKTeX\tex/latex/setspace\setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
 )
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+(C:\Program Files\MiKTeX\tex/latex/tools\tabularx.sty
 Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
 
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
-Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
-\col@sep=\dimen151
+(C:\Program Files\MiKTeX\tex/latex/tools\array.sty
+Package: array 2026/02/24 v2.7b Tabular extension package (FMi)
+\col@sep=\dimen153
 \ar@mcellbox=\box53
-\extrarowheight=\dimen152
+\extrarowheight=\dimen154
 \NC@list=\toks18
 \extratabsurround=\skip53
 \backup@length=\skip54
 \ar@cellbox=\box54
 )
-\TX@col@width=\dimen153
-\TX@old@table=\dimen154
-\TX@old@col=\dimen155
-\TX@target=\dimen156
-\TX@delta=\dimen157
-\TX@cols=\count286
+\TX@col@width=\dimen155
+\TX@old@table=\dimen156
+\TX@old@col=\dimen157
+\TX@target=\dimen158
+\TX@delta=\dimen159
+\TX@cols=\count287
 \TX@ftn=\toks19
 )
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+(C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count287
+\etb@tempcnta=\count288
 )
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/eqparbox\eqparbox.sty
+(C:\Program Files\MiKTeX\tex/latex/eqparbox\eqparbox.sty
 Package: eqparbox 2017/09/03 v4.1 Create equal-widthed boxes
 \eqp@tempdima=\skip55
 \eqp@tempdimb=\skip56
@@ -114,88 +112,84 @@ Package: eqparbox 2017/09/03 v4.1 Create equal-widthed boxes
 \eqp@list@box=\box56
 \eqp@list@indent=\skip57
 
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/environ\environ.sty
+(C:\Program Files\MiKTeX\tex/latex/environ\environ.sty
 Package: environ 2014/05/04 v0.3 A new way to define environments
 
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimspaces.s
-ty
+(C:\Program Files\MiKTeX\tex/latex/trimspaces\trimspaces.sty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 )
 \@envbody=\toks20
 ))
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+(C:\Program Files\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 )
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+(C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
 )
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+(C:\Program Files\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2026/03/07 v6.0 Page Geometry
 
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+(C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+(C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
 ))
-\Gm@cnth=\count288
-\Gm@cntv=\count289
-\c@Gm@tempcnt=\count290
-\Gm@bindingoffset=\dimen158
-\Gm@wd@mp=\dimen159
-\Gm@odd@mp=\dimen160
-\Gm@even@mp=\dimen161
-\Gm@layoutwidth=\dimen162
-\Gm@layoutheight=\dimen163
-\Gm@layouthoffset=\dimen164
-\Gm@layoutvoffset=\dimen165
+\Gm@cnth=\count289
+\Gm@cntv=\count290
+\c@Gm@tempcnt=\count291
+\Gm@bindingoffset=\dimen160
+\Gm@wd@mp=\dimen161
+\Gm@odd@mp=\dimen162
+\Gm@even@mp=\dimen163
+\Gm@layoutwidth=\dimen164
+\Gm@layoutheight=\dimen165
+\Gm@layouthoffset=\dimen166
+\Gm@layoutvoffset=\dimen167
 \Gm@dimlist=\toks21
 
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2025/12/11 v25.17 The multilingual framework for LuaLaTeX, pdfLa
+(C:\Program Files\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Program Files\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2026/10/15 v26.14 The multilingual framework for LuaLaTeX, pdfLa
 TeX and XeLaTeX
-\babel@savecnt=\count291
+\babel@savecnt=\count292
 LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input li
-ne 2068.
+ne 2118.
 LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input li
-ne 2070.
+ne 2120.
 LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input lin
-e 2072.
+e 2122.
 LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input lin
-e 2073.
+e 2123.
 LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) 
-on input line 2074.
+on input line 2124.
 LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) 
-on input line 2076.
+on input line 2126.
 LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) 
-on input line 2101.
-\U@D=\dimen166
+on input line 2151.
+\U@D=\dimen168
 \l@unhyphenated=\language80
 
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+(C:\Program Files\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
-\bbl@dirlevel=\count292
+\bbl@dirlevel=\count293
 Package babel Info: Configuration files are deprecated, as
 (babel)             they can break document portability.
-(babel)             Reported on input line 4196.
+(babel)             Reported on input line 4366.
 
 *************************************
 * Local config file bblopts.cfg used
 *
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+(C:\Program Files\MiKTeX\tex/latex/arabi\bblopts.cfg
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel
--english.tex)
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/invalid\
-babel-brazil.tex)
-Package babel Info: Importing font and identification data for english
-(babel)             from babel-en.ini. Reported on input line 4320.
+(C:\Program Files\MiKTeX\tex/generic/babel/locale/en\babel-english.tex)
+(C:\Program Files\MiKTeX\tex/generic/babel/locale/invalid\babel-brazil.tex)
+Package babel Info: Importing font and identification data for 'english'
+(babel)             from babel-en.ini. Reported on input line 4494.
 
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.l
-df
+(C:\Program Files\MiKTeX\tex/latex/babel-english\english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
 (babel)             (\language0). Reported on input line 102.
@@ -207,56 +201,53 @@ Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
 
 Package babel Warning: Name 'brazil' is deprecated.
 (babel)                Use 'brazilian' instead.
-(babel)                Reported on input line 4320.
+(babel)                Reported on input line 4494.
 
-Package babel Info: Importing font and identification data for brazil
-(babel)             from babel-pt-BR.ini. Reported on input line 4320.
-
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/babel-portuges\brazilia
-n.ldf
+Package babel Info: Importing font and identification data for 'brazil'
+(babel)             from babel-pt-BR.ini. Reported on input line 4494.
+(C:\Program Files\MiKTeX\tex/latex/babel-portuges\brazilian.ldf
 Language: portuges 2026/01/24 v1.2u Portuguese support from the babel system
 Package babel Info: Hyphen rules for 'brazil' set to \l@portuguese
 (babel)             (\language56). Reported on input line 100.
 Package babel Info: Making " an active character on input line 132.
 ))
-\@advisor=\count293
-\@examiner=\count294
-\c@keywords=\count295
-\bibindent=\dimen167
+\@advisor=\count294
+\@examiner=\count295
+\c@keywords=\count296
+\bibindent=\dimen169
 \recuolongquote=\skip58
 )
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+(C:\Program Files\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
 )
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/newtx\newtxtext.sty
+(C:\Program Files\MiKTeX\tex/latex/newtx\newtxtext.sty
 Package: newtxtext 2024/04/01 v1.744(Michael Sharpe) latex and unicode latex su
 pport for TeXGyreTermesX
 
 `newtxtext' v1.744, 2024/04/01 Text macros taking advantage of TeXGyre Termes a
 nd its extensions (msharpe)
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/xpatch\xpatch.sty
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2025-12-24 L3 programming layer (loader) 
+(C:\Program Files\MiKTeX\tex/latex/xpatch\xpatch.sty
+(C:\Program Files\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2026-09-09 L3 programming layer (loader) 
 
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
-tex.def
-File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count296
+(C:\Program Files\MiKTeX\tex/latex/l3kernel\l3backend-pdftex.def
+File: l3backend-pdftex.def 2026-09-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count297
 ))
 Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
 
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
-e.sty
+(C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
 Package: xparse 2025-10-09 L3 Experimental document command parser
 ))
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+(C:\Program Files\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
 
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 274.
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
 Package xcolor Info: Model `RGB' extended on input line 1365.
@@ -266,89 +257,91 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
-) (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+)
+(C:\Program Files\MiKTeX\tex/latex/xkeyval\xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+(C:\Program Files\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Program Files\MiKTeX\tex/generic/xkeyval\xkvutils.tex
 \XKV@toks=\toks22
 \XKV@tempa@toks=\toks23
 )
-\XKV@depth=\count297
+\XKV@depth=\count298
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-)) (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+))
+(C:\Program Files\MiKTeX\tex/latex/base\textcomp.sty
 Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
 )
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/xstring\xstring.sty
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/xstring\xstring.tex
-\xs_counta=\count298
-\xs_countb=\count299
+(C:\Program Files\MiKTeX\tex/latex/xstring\xstring.sty
+(C:\Program Files\MiKTeX\tex/generic/xstring\xstring.tex
+\xs_counta=\count299
+\xs_countb=\count300
 )
 Package: xstring 2023/08/22 v1.86 String manipulations (CT)
-) (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scalefnt.sty
 )
+(C:\Program Files\MiKTeX\tex/latex/carlisle\scalefnt.sty)
 LaTeX Font Info:    Setting ntxLF sub-encoding to TS1/0 on input line 24.
 LaTeX Font Info:    Setting ntxTLF sub-encoding to TS1/0 on input line 24.
 LaTeX Font Info:    Setting ntxOsF sub-encoding to TS1/0 on input line 24.
 LaTeX Font Info:    Setting ntxTOsF sub-encoding to TS1/0 on input line 24.
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/binhex\binhex.tex)
-\ntx@tmpcnta=\count300
-\ntx@cnt=\count301
 
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/fontaxes\fontaxes.sty
+(C:\Program Files\MiKTeX\tex/generic/binhex\binhex.tex)
+\ntx@tmpcnta=\count301
+\ntx@cnt=\count302
+
+(C:\Program Files\MiKTeX\tex/latex/fontaxes\fontaxes.sty
 Package: fontaxes 2026-01-02 v2.0.2 Font selection axes (deprecated)
 Applying: [2024-11-01] Use figureversions if present on input line 74.
 
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/figureversions\figureve
-rsions.sty
+(C:\Program Files\MiKTeX\tex/latex/figureversions\figureversions.sty
 Package: figureversions 2025-04-29 v1.0.1 Figure versions
 )
 Already applied: [0000-00-00] Fall back to v1 on input line 76.
 )
-\tx@sixem=\dimen168
-\tx@y=\dimen169
-\tx@x=\dimen170
-\tx@tmpdima=\dimen171
-\tx@tmpdimb=\dimen172
-\tx@tmpdimc=\dimen173
-\tx@tmpdimd=\dimen174
-\tx@tmpdime=\dimen175
-\tx@tmpdimf=\dimen176
-\tx@dimA=\dimen177
-\tx@dimAA=\dimen178
-\tx@dimB=\dimen179
-\tx@dimBB=\dimen180
-\tx@dimC=\dimen181
+\tx@sixem=\dimen170
+\tx@y=\dimen171
+\tx@x=\dimen172
+\tx@tmpdima=\dimen173
+\tx@tmpdimb=\dimen174
+\tx@tmpdimc=\dimen175
+\tx@tmpdimd=\dimen176
+\tx@tmpdime=\dimen177
+\tx@tmpdimf=\dimen178
+\tx@dimA=\dimen179
+\tx@dimAA=\dimen180
+\tx@dimB=\dimen181
+\tx@dimBB=\dimen182
+\tx@dimC=\dimen183
 LaTeX Info: Redefining \oldstylenums on input line 902.
 )
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
-Package: amsmath 2025/07/09 v2.17z AMS math features
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2026/05/19 v2.18d AMS math features
 \@mathmargin=\skip59
 
 For additional information on amsmath, use the `?' option.
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amstext.sty
 Package: amstext 2024/11/17 v2.01 AMS text
 
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks24
-\ex@=\dimen182
+\ex@=\dimen184
 ))
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen183
+\pmbraise@=\dimen185
 )
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+(C:\Program Files\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count302
+\inf@bad=\count303
 LaTeX Info: Redefining \frac on input line 233.
-\uproot@=\count303
-\leftroot@=\count304
+\uproot@=\count304
+\leftroot@=\count305
 LaTeX Info: Redefining \overline on input line 398.
 LaTeX Info: Redefining \colon on input line 409.
-\classnum@=\count305
-\DOTSCASE@=\count306
+\classnum@=\count306
+\DOTSCASE@=\count307
 LaTeX Info: Redefining \ldots on input line 495.
 LaTeX Info: Redefining \dots on input line 498.
 LaTeX Info: Redefining \cdots on input line 619.
@@ -358,49 +351,49 @@ LaTeX Info: Redefining \big on input line 721.
 LaTeX Info: Redefining \Big on input line 722.
 LaTeX Info: Redefining \bigg on input line 723.
 LaTeX Info: Redefining \Bigg on input line 724.
-\big@size=\dimen184
+\big@size=\dimen186
 LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
-\macc@depth=\count307
+\macc@depth=\count308
 LaTeX Info: Redefining \bmod on input line 904.
 LaTeX Info: Redefining \pmod on input line 909.
 LaTeX Info: Redefining \smash on input line 939.
 LaTeX Info: Redefining \relbar on input line 969.
 LaTeX Info: Redefining \Relbar on input line 970.
-\c@MaxMatrixCols=\count308
+\c@MaxMatrixCols=\count309
 \dotsspace@=\muskip17
-\c@parentequation=\count309
-\dspbrk@lvl=\count310
+\c@parentequation=\count310
+\dspbrk@lvl=\count311
 \tag@help=\toks25
-\row@=\count311
-\column@=\count312
-\maxfields@=\count313
+\row@=\count312
+\column@=\count313
+\maxfields@=\count314
 \andhelp@=\toks26
-\eqnshift@=\dimen185
-\alignsep@=\dimen186
-\tagshift@=\dimen187
-\tagwidth@=\dimen188
-\totwidth@=\dimen189
-\lineht@=\dimen190
+\eqnshift@=\dimen187
+\alignsep@=\dimen188
+\tagshift@=\dimen189
+\tagwidth@=\dimen190
+\totwidth@=\dimen191
+\lineht@=\dimen192
 \@envbody=\toks27
 \multlinegap=\skip60
 \multlinetaggap=\skip61
 \mathdisplay@stack=\toks28
-LaTeX Info: Redefining \[ on input line 2950.
-LaTeX Info: Redefining \] on input line 2951.
+LaTeX Info: Redefining \[ on input line 2965.
+LaTeX Info: Redefining \] on input line 2966.
 )
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/newtx\newtxmath.sty
+(C:\Program Files\MiKTeX\tex/latex/newtx\newtxmath.sty
 Package: newtxmath 2024/09/22 v1.754
 
 `newtxmath' v1.754, 2024/09/22 Math macros based originally on txfonts (msharpe
-)
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/oberdiek\centernot.sty
+) (C:\Program Files\MiKTeX\tex/latex/oberdiek\centernot.sty
 Package: centernot 2016/05/16 v1.4 Centers the not symbol horizontally (HO)
 )
-\tx@cntz=\count314
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/binhex\binhex.tex)
-\tx@Isdigit=\count315
-\tx@IsAlNum=\count316
+\tx@cntz=\count315
+
+(C:\Program Files\MiKTeX\tex/generic/binhex\binhex.tex)
+\tx@Isdigit=\count316
+\tx@IsAlNum=\count317
 \tx@tA=\toks29
 \tx@tB=\toks30
 \tx@su=\read3
@@ -504,123 +497,117 @@ LaTeX Font Info:    Redeclaring math accent \ddot on input line 992.
 LaTeX Font Info:    Redeclaring math accent \vec on input line 2057.
 LaTeX Info: Redefining \Bbbk on input line 2847.
 LaTeX Info: Redefining \not on input line 2995.
-) (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
-Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
+) (C:\Program Files\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2026-10-09 v7.01s Hypertext links for LaTeX
 
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+(C:\Program Files\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
-keys.sty
+(C:\Program Files\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
-ty
+(C:\Program Files\MiKTeX\tex/generic/pdfescape\pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
 
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
-.sty
+(C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
-ty
+(C:\Program Files\MiKTeX\tex/generic/infwarerr\infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 ))
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+(C:\Program Files\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
-Package: nameref 2025-06-21 v2.57 Cross-referencing by name of section
+(C:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2026-01-29 v2.58 Cross-referencing by name of section
 
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+(C:\Program Files\MiKTeX\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
-lestring.sty
+(C:\Program Files\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+(C:\Program Files\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count317
+\c@section@level=\count318
 )
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.s
-ty
+(C:\Program Files\MiKTeX\tex/generic/stringenc\stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
-\@linkdim=\dimen191
-\Hy@linkcounter=\count318
-\Hy@pagecounter=\count319
- (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
-File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
+\@linkdim=\dimen193
+\Hy@linkcounter=\count319
+\Hy@pagecounter=\count320
+
+(C:\Program Files\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2026-10-09 v7.01s Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-) (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+)
+(C:\Program Files\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count320
- (C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
-File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
+\Hy@SavedSpaceFactor=\count321
+
+(C:\Program Files\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2026-10-09 v7.01s Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Hyper figures OFF on input line 4195.
-Package hyperref Info: Link nesting OFF on input line 4200.
-Package hyperref Info: Hyper index ON on input line 4203.
-Package hyperref Info: Plain pages OFF on input line 4210.
-Package hyperref Info: Backreferencing OFF on input line 4215.
+Package hyperref Info: Hyper figures OFF on input line 4199.
+Package hyperref Info: Link nesting OFF on input line 4204.
+Package hyperref Info: Hyper index ON on input line 4207.
+Package hyperref Info: Plain pages OFF on input line 4214.
+Package hyperref Info: Backreferencing OFF on input line 4219.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4462.
-\c@Hy@tempcnt=\count321
+Package hyperref Info: Bookmarks ON on input line 4466.
+\c@Hy@tempcnt=\count322
 
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+(C:\Program Files\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip18
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4801.
-\XeTeXLinkMargin=\dimen192
+LaTeX Info: Redefining \url on input line 4805.
+\XeTeXLinkMargin=\dimen194
 
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+(C:\Program Files\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
-.sty
+(C:\Program Files\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count322
-\Field@Width=\dimen193
-\Fld@charsize=\dimen194
-Package hyperref Info: Hyper figures OFF on input line 6078.
-Package hyperref Info: Link nesting OFF on input line 6083.
-Package hyperref Info: Hyper index ON on input line 6086.
-Package hyperref Info: backreferencing OFF on input line 6093.
-Package hyperref Info: Link coloring OFF on input line 6098.
-Package hyperref Info: Link coloring with OCG OFF on input line 6103.
-Package hyperref Info: PDF/A mode OFF on input line 6108.
-\Hy@abspage=\count323
-\c@Item=\count324
-\c@Hfootnote=\count325
+\Fld@menulength=\count323
+\Field@Width=\dimen195
+\Fld@charsize=\dimen196
+Package hyperref Info: Hyper figures OFF on input line 6091.
+Package hyperref Info: Link nesting OFF on input line 6096.
+Package hyperref Info: Hyper index ON on input line 6099.
+Package hyperref Info: backreferencing OFF on input line 6106.
+Package hyperref Info: Link coloring OFF on input line 6111.
+Package hyperref Info: Link coloring with OCG OFF on input line 6116.
+Package hyperref Info: PDF/A mode OFF on input line 6121.
+\Hy@abspage=\count324
+\c@Item=\count325
+\c@Hfootnote=\count326
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
-File: hpdftex.def 2025-07-12 v7.01o Hyperref driver for pdfTeX
-\Fld@listcount=\count326
-\c@bookmark@seq@number=\count327
+(C:\Program Files\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2026-10-09 v7.01s Hyperref driver for pdfTeX
+\Fld@listcount=\count327
+\c@bookmark@seq@number=\count328
 
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
-echeck.sty
+(C:\Program Files\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
 Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
 
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
-ounter.sty
+(C:\Program Files\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
@@ -628,23 +615,23 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip62
 )
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+(C:\Program Files\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count328
+\c@float@type=\count329
 \float@exts=\toks32
 \float@box=\box59
 \@float@everytoks=\toks33
 \@floatcapt=\box60
 )
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirst.sty
+(C:\Program Files\MiKTeX\tex/latex/tools\indentfirst.sty
 Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
 )
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/gensymb\gensymb.sty
+(C:\Program Files\MiKTeX\tex/latex/gensymb\gensymb.sty
 Package: gensymb 2022/10/17 v1.0.2 (KJH)
 )
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\rotating.sty
-Package: rotating 2025/01/14 v2.16e rotated objects in LaTeX
-\c@r@tfl@t=\count329
+(C:\Program Files\MiKTeX\tex/latex/graphics\rotating.sty
+Package: rotating 2026-05-17 v2.16e rotated objects in LaTeX
+\c@r@tfl@t=\count330
 \rotFPtop=\skip63
 \rotFPbot=\skip64
 \rot@float@box=\box61
@@ -661,16 +648,16 @@ Writing index of symbols file dissertacao.syx
 Writing index of abbreviations file dissertacao.abx
 LaTeX Font Info:    Trying to load font information for T1+ntxtlf on input line
  37.
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/newtx\t1ntxtlf.fd
+(C:\Program Files\MiKTeX\tex/latex/newtx\t1ntxtlf.fd
 File: t1ntxtlf.fd 2021/05/24 v1.1 font definition file for T1/ntx/tlf
 )
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 12.0pt on input line 37.
-
-(dissertacao.aux
+ (dissertacao.aux
 Package babel Info: 'brazil' activates 'portuges' shorthands.
 (babel)             Reported on input line 8.
- (Chapters/000AcknowledgmentAndAbstract/00Acknowledgment.aux)
+
+(Chapters/000AcknowledgmentAndAbstract/00Acknowledgment.aux)
 (Chapters/000AcknowledgmentAndAbstract/01Abstract.aux))
 \openout1 = `dissertacao.aux'.
 
@@ -678,7 +665,7 @@ LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 37.
 LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line
  37.
 
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/newtx\omlntxmi.fd
+(C:\Program Files\MiKTeX\tex/latex/newtx\omlntxmi.fd
 File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
 )
 LaTeX Font Info:    ... okay on input line 37.
@@ -696,7 +683,7 @@ LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 37.
 LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 
 37.
 
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxexa.fd
+(C:\Program Files\MiKTeX\tex/latex/newtx\untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
 LaTeX Font Info:    ... okay on input line 37.
@@ -704,7 +691,7 @@ LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 37.
 LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line
  37.
 
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmsntxsy.fd
+(C:\Program Files\MiKTeX\tex/latex/newtx\lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
 LaTeX Font Info:    ... okay on input line 37.
@@ -712,7 +699,7 @@ LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 37.
 LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input lin
 e 37.
 
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/newtx\lmxntxexx.fd
+(C:\Program Files\MiKTeX\tex/latex/newtx\lmxntxexx.fd
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
 LaTeX Font Info:    ... okay on input line 37.
@@ -721,29 +708,25 @@ LaTeX Font Info:    ... okay on input line 37.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 37.
 LaTeX Font Info:    ... okay on input line 37.
 
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
-ii
+(C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count330
-\scratchdimen=\dimen195
+\scratchcounter=\count331
+\scratchdimen=\dimen197
 \scratchbox=\box62
-\nofMPsegments=\count331
-\nofMParguments=\count332
+\nofMPsegments=\count332
+\nofMParguments=\count333
 \everyMPshowfont=\toks35
-\MPscratchCnt=\count333
-\MPscratchDim=\dimen196
-\MPnumerator=\count334
-\makeMPintoPDFobject=\count335
+\MPscratchCnt=\count334
+\MPscratchDim=\dimen198
+\MPnumerator=\count335
+\makeMPintoPDFobject=\count336
 \everyMPtoPDFconversion=\toks36
-)
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
-ase.sty
+) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
-fg
+(C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 *geometry* driver: auto-detecting
@@ -781,8 +764,8 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@mv@tabular=\count336
-\c@mv@boldtabular=\count337
+\c@mv@tabular=\count337
+\c@mv@boldtabular=\count338
 LaTeX Info: Command `\dddot' is already robust on input line 37.
 LaTeX Info: Command `\ddddot' is already robust on input line 37.
 Package hyperref Info: Link coloring OFF on input line 37.
@@ -801,10 +784,11 @@ erthousand on input line 37.
 LaTeX Info: Redefining \ohm on input line 37.
 Package gensymb Info: Using \textohm for \ohm on input line 37.
 Package gensymb Info: Using \textmu for \micro on input line 37.
+Package babel Info: Main language set to 'brazil'.
 Package hyperref Info: Option `breaklinks' set `true' on input line 64.
 Package hyperref Info: Option `raiselinks' set `true' on input line 64.
 Package hyperref Info: Option `pageanchor' set `true' on input line 64.
-<coppe-logo.pdf, id=211, 177.463pt x 76.285pt>
+<coppe-logo.pdf, id=215, 177.463pt x 76.285pt>
 File: coppe-logo.pdf Graphic file (type pdf)
 <use coppe-logo.pdf>
 Package pdftex.def Info: coppe-logo.pdf  used on input line 64.
@@ -816,7 +800,7 @@ Underfull \hbox (badness 2126) in paragraph at lines 64--64
 
 LaTeX Font Info:    Trying to load font information for OT1+minntx on input lin
 e 64.
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ot1minntx.fd
+(C:\Program Files\MiKTeX\tex/latex/newtx\ot1minntx.fd
 File: ot1minntx.fd 2023/09/09 v1.1 font definition file for OT1/minntx
 )
 LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
@@ -846,7 +830,7 @@ LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
 LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 
 64.
 
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxmia.fd
+(C:\Program Files\MiKTeX\tex/latex/newtx\untxmia.fd
 File: untxmia.fd 2024/04/09 Fontinst v1.933 font definitions for U/ntxmia.
 )
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
@@ -858,7 +842,7 @@ LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
 LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 
 64.
 
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsym.fd
+(C:\Program Files\MiKTeX\tex/latex/newtx\untxsym.fd
 File: untxsym.fd 2023/08/16 Fontinst v1.933 font definitions for U/ntxsym.
 )
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
@@ -870,7 +854,7 @@ LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
 LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 
 64.
 
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/newtx\untxsyc.fd
+(C:\Program Files\MiKTeX\tex/latex/newtx\untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
@@ -888,7 +872,7 @@ LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
 LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input lin
 e 64.
 
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/newtx\ts1ntxtlf.fd
+(C:\Program Files\MiKTeX\tex/latex/newtx\ts1ntxtlf.fd
 File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
 )
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
@@ -897,13 +881,11 @@ LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
 (Font)              scaled to size 8.8pt on input line 64.
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
 (Font)              scaled to size 6.6pt on input line 64.
+ [1
 
-[1
 
-
-{C:/Users/tonin/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/toni
-n/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf.enc} <./coppe-
-logo.pdf>]
+{C:/Users/Administrador/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Pr
+ogram Files/MiKTeX/fonts/enc/dvips/newtx/ntx-ec-tlf.enc} <./coppe-logo.pdf>]
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
 (Font)              scaled to size 12.0pt on input line 74.
  [2
@@ -913,30 +895,30 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
 ]
 \openout2 = `Chapters/000AcknowledgmentAndAbstract/00Acknowledgment.aux'.
 
- (Chapters/000AcknowledgmentAndAbstract/00Acknowledgment.tex
+
+(Chapters/000AcknowledgmentAndAbstract/00Acknowledgment.tex
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 24.88pt on input line 1.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 (Font)              scaled to size 24.88pt on input line 1.
-)
-[3
+) [3
 
 
 ]
 \openout2 = `Chapters/000AcknowledgmentAndAbstract/01Abstract.aux'.
 
- (Chapters/000AcknowledgmentAndAbstract/01Abstract.tex [4
+
+(Chapters/000AcknowledgmentAndAbstract/01Abstract.tex [4
 
 
 
 
 ]) [5
 
-]
-(dissertacao.toc
+] (dissertacao.toc
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 (Font)              scaled to size 12.0pt on input line 4.
- [6
+[6
 
 
 
@@ -954,10 +936,10 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 \tf@lot=\write8
 \openout8 = `dissertacao.lot'.
 
+ (dissertacao.los)
+(dissertacao.lab [9
 
-No file dissertacao.los.
-No file dissertacao.lab.
-[9
+]) [10
 
 ] (Chapters/001Introduction/Introduction.tex
 Cap\'{\i }tulo 1.
@@ -968,87 +950,52 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 [1
 
 
-] [2] [3{C:/Users/tonin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/
-q-ts1.enc}]) (Chapters/002Revision/Revision.tex [4]
+] [2] [3{C:/Program Files/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.enc}])
+(Chapters/002Revision/Revision.tex [4]
 Cap\'{\i }tulo 2.
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 14.4pt on input line 8.
-LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 14.4pt on input line 8.
-[5
-
-]
-Overfull \vbox (33.08084pt too high) has occurred while \output is active []
-
-
-[6]
 <graficopublicacoes.png, id=438, 491.436pt x 289.68225pt>
 File: graficopublicacoes.png Graphic file (type png)
 <use graficopublicacoes.png>
-Package pdftex.def Info: graficopublicacoes.png  used on input line 34.
+Package pdftex.def Info: graficopublicacoes.png  used on input line 15.
 (pdftex.def)             Requested size: 289.62228pt x 170.72096pt.
- [7
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 14.4pt on input line 24.
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 14.4pt on input line 24.
+[5
+
+
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2.1}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.48 
-      <./graficopublicacoes.png>] [8] [9{C:/Users/tonin/AppData/Local/Programs/
-MiKTeX/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}] [10]
-Overfull \hbox (32.88759pt too wide) in paragraph at lines 180--181
-[]\T1/ntxtlf/m/n/12 A ava-li-a-ção da in-flu-ên-cia de ca-rac-te-ris-ti-cas da 
-mem-brana em-pre-gada na qua-li-dade/estabilidade
- []
-
+l.47 
+      <./graficopublicacoes.png>] [6] [7] [8] [9] [10{C:/Program Files/MiKTeX/f
+onts/enc/dvips/newtx/ntx-ot1-tlf.enc}] [11] [12]
 LaTeX Info: Symbol \textmu not provided by
             font family ntxtlf in TS1 encoding.
-            Default family used instead on input line 184.
-[11] [12] [13] [14]
-<moduloSingh2011DCMD.png, id=600, 513.117pt x 467.94826pt>
-File: moduloSingh2011DCMD.png Graphic file (type png)
-<use moduloSingh2011DCMD.png>
-Package pdftex.def Info: moduloSingh2011DCMD.png  used on input line 287.
-(pdftex.def)             Requested size: 343.19156pt x 312.98103pt.
- [15] [16
-pdfTeX warning (ext4): destination with the same identifier (name{figure.2.2}) 
-has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.304 P
-       ara o estudo, foram utilizadas Ã¡guas mimetizadas com caracterÃ­stica...
- <./moduloSingh2011DCMD.png>]
-Overfull \hbox (9.21815pt too wide) in paragraph at lines 314--315
-[]\T1/ntxtlf/m/n/12 Os ex-pe-ri-men-tos fo-ram en-cer-ra-dos ao apre-sen-tar fl
-uxo de per-me-ado in-fe-rior a 2 $\OML/ntxmi/m/it/12 Lm[]h[]$\T1/ntxtlf/m/n/12 
-,
- []
-
-[17]
-Overfull \hbox (1.65532pt too wide) in paragraph at lines 328--329
-[]\T1/ntxtlf/m/n/12 No se-gundo ce-ná-rio na es-cala pi-loto, o ex-pe-ri-mento 
-ini-ciou com sa-li-ni-dade de 127 $\OML/ntxmi/m/it/12 gL[]$\T1/ntxtlf/m/n/12 ,
- []
-
-[18]) (Chapters/003Methodology/Methodology.tex [19]
+            Default family used instead on input line 146.
+ [13] [14])
+(Chapters/003Methodology/Methodology.tex [15]
 Cap\'{\i }tulo 3.
-[20
+[16
 
 ]
 Overfull \vbox (66.65479pt too high) has occurred while \output is active []
 
 
-[21]
-<bancadaevistaexplodida.png, id=644, 1149.29375pt x 605.26125pt>
+[17]
+<bancadaevistaexplodida.png, id=640, 1149.29375pt x 605.26125pt>
 File: bancadaevistaexplodida.png Graphic file (type png)
 <use bancadaevistaexplodida.png>
 Package pdftex.def Info: bancadaevistaexplodida.png  used on input line 38.
 (pdftex.def)             Requested size: 426.7928pt x 224.7651pt.
-<diagramabancada.png, id=651, 1310.8975pt x 1208.515pt>
+<diagramabancada.png, id=647, 1310.8975pt x 1208.515pt>
 File: diagramabancada.png Graphic file (type png)
 <use diagramabancada.png>
 Package pdftex.def Info: diagramabancada.png  used on input line 64.
 (pdftex.def)             Requested size: 339.48514pt x 312.97098pt.
- [22
+ [18
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -1060,47 +1007,47 @@ as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.68 
-      <./bancadaevistaexplodida.png>] [23
+      <./bancadaevistaexplodida.png>] [19
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3.2}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.119 
-       <./diagramabancada.png (PNG copy)>] [24
+       <./diagramabancada.png (PNG copy)>] [20
 pdfTeX warning (ext4): destination with the same identifier (name{table.3.2}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.190 
       ]
-<campodelapa.png, id=677, 1129.21875pt x 565.11125pt>
+<campodelapa.png, id=672, 1129.21875pt x 565.11125pt>
 File: campodelapa.png Graphic file (type png)
 <use campodelapa.png>
 Package pdftex.def Info: campodelapa.png  used on input line 196.
 (pdftex.def)             Requested size: 312.69855pt x 156.48824pt.
- [25
+ [21
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3.3}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.249 
-       <./campodelapa.png>] [26
+       <./campodelapa.png>] [22
 pdfTeX warning (ext4): destination with the same identifier (name{table.3.3}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.286 
-      ]) (Chapters/004Results/Results.tex [27]
+      ]) (Chapters/004Results/Results.tex [23]
 Cap\'{\i }tulo 4.
-[28
+[24
 
 ]
-<resultadohirox.png, id=720, 1450.41875pt x 1093.08376pt>
+<resultadohirox.png, id=715, 1450.41875pt x 1093.08376pt>
 File: resultadohirox.png Graphic file (type png)
 <use resultadohirox.png>
 Package pdftex.def Info: resultadohirox.png  used on input line 101.
 (pdftex.def)             Requested size: 426.78539pt x 246.28969pt.
- [29
+ [25
 pdfTeX warning (ext4): destination with the same identifier (name{table.4.1}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -1113,42 +1060,42 @@ has been already used, duplicate ignored
                                                   \__shipout_drop_firstpage_...
 l.112 
        <./resultadohirox.png (PNG copy)>]
-<fluxoeijr.png, id=726, 987.69pt x 345.54094pt>
+<fluxoeijr.png, id=721, 987.69pt x 345.54094pt>
 File: fluxoeijr.png Graphic file (type png)
 <use fluxoeijr.png>
 Package pdftex.def Info: fluxoeijr.png  used on input line 121.
 (pdftex.def)             Requested size: 426.77821pt x 137.01295pt.
-<radares.png, id=730, 1408.26125pt x 746.79pt>
+<radares.png, id=725, 1408.26125pt x 746.79pt>
 File: radares.png Graphic file (type png)
 <use radares.png>
 Package pdftex.def Info: radares.png  used on input line 130.
 (pdftex.def)             Requested size: 426.7793pt x 226.31773pt.
- [30
+ [26
 pdfTeX warning (ext4): destination with the same identifier (name{figure.4.2}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.134 
        <./fluxoeijr.png>]
-<fluxodepermeadoM2.png, id=738, 982.42032pt x 551.05875pt>
+<fluxodepermeadoM2.png, id=733, 982.42032pt x 551.05875pt>
 File: fluxodepermeadoM2.png Graphic file (type png)
 <use fluxodepermeadoM2.png>
 Package pdftex.def Info: fluxodepermeadoM2.png  used on input line 150.
 (pdftex.def)             Requested size: 426.79475pt x 239.39749pt.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 10.95pt on input line 152.
-<condutividadeM2.png, id=739, 980.91469pt x 549.55313pt>
+<condutividadeM2.png, id=734, 980.91469pt x 549.55313pt>
 File: condutividadeM2.png Graphic file (type png)
 <use condutividadeM2.png>
 Package pdftex.def Info: condutividadeM2.png  used on input line 157.
 (pdftex.def)             Requested size: 426.78426pt x 239.10399pt.
- [31
+ [27
 pdfTeX warning (ext4): destination with the same identifier (name{figure.4.3}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.165 
-       <./radares.png>]) (Chapters/005Conclusion/Conclusion.tex [32
+       <./radares.png>]) (Chapters/005Conclusion/Conclusion.tex [28
 pdfTeX warning (ext4): destination with the same identifier (name{figure.4.4}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -1156,14 +1103,14 @@ has been already used, duplicate ignored
 l.1 \chapter
             {CONCLUSÃ•ES} <./fluxodepermeadoM2.png> <./condutividadeM2.png>]
 Cap\'{\i }tulo 5.
-<cronograma.png, id=752, 1113.40968pt x 414.79968pt>
+<cronograma.png, id=748, 1113.40968pt x 414.79968pt>
 File: cronograma.png Graphic file (type png)
 <use cronograma.png>
 Package pdftex.def Info: cronograma.png  used on input line 25.
 (pdftex.def)             Requested size: 702.78308pt x 261.8252pt.
-) (Chapters/Trabalhos futuros/Trabalhos_futuros.tex [33
+) (Chapters/Trabalhos futuros/Trabalhos_futuros.tex [29
 
-] [34
+] [30
 pdfTeX warning (ext4): destination with the same identifier (name{figure.5.1}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -1171,95 +1118,92 @@ has been already used, duplicate ignored
 l.1 \chapter
             {TRABALHOS FUTUROS} <./cronograma.png>]
 Cap\'{\i }tulo 6.
-) [35
+) [31
 
 ] (dissertacao.bbl
 LaTeX Font Info:    Trying to load font information for T1+ntxtt on input line 
 17.
-
-(C:\Users\tonin\AppData\Local\Programs\MiKTeX\tex/latex/newtx\t1ntxtt.fd
+ (C:\Program Files\MiKTeX\tex/latex/newtx\t1ntxtt.fd
 File: t1ntxtt.fd 2012/04/20 v3.1
 )
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
 (Font)              scaled to size 12.0pt on input line 17.
 
-[36
+[32
 
 
-] [37] [38] [39] [40] [41]
-Underfull \hbox (badness 5431) in paragraph at lines 583--590
+] [33] [34] [35] [36] [37]
+Underfull \hbox (badness 5431) in paragraph at lines 593--600
 []\T1/ntxtlf/m/n/12 DIGIMED.  ``Con-du-ti-vi-dade, re-sis-ti-vi-dade e con-cen-
 tra-ção -- ca-tá-logo
  []
 
 
-Underfull \hbox (badness 1735) in paragraph at lines 583--590
+Underfull \hbox (badness 1735) in paragraph at lines 593--600
 \T1/ntxtlf/m/n/12 de ana-li-sa-dor de con-du-ti-vi-dade''. 2025.  Dis-po-ní-vel
  em: <[]$\T1/ntxtt/m/n/12 https :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 583--590
+Underfull \hbox (badness 10000) in paragraph at lines 593--600
 \T1/ntxtt/m/n/12 / / www . digimed . ind . br / assets / downloads / produtos /
  catalogos /
  []
 
 
-Overfull \hbox (87.67465pt too wide) in paragraph at lines 583--590
+Overfull \hbox (87.67465pt too wide) in paragraph at lines 593--600
 \T1/ntxtt/m/n/12 digimed-[]catalogo-[]analisador-[]condutividade-[]resistividad
 e-[]concentracao-[]tc-[]4004 .
  []
 
-[42]
-Underfull \hbox (badness 5077) in paragraph at lines 602--608
+[38]
+Underfull \hbox (badness 5077) in paragraph at lines 612--618
 []\T1/ntxtlf/m/n/12 BÜRKERT FLUID CON-TROL SYS-TEMS.  ``Flow me-ter''. 2025.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 602--608
+Underfull \hbox (badness 10000) in paragraph at lines 612--618
 \T1/ntxtlf/m/n/12 Dis-po-ní-vel em: <[]$\T1/ntxtt/m/n/12 https : / / www . burk
 ert . com / en / products /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 638--649
+Underfull \hbox (badness 10000) in paragraph at lines 648--659
 \T1/ntxtt/m/n/12 publicacoes / documentos-[]tecnicos-[]em-[]metrologia / gum _ 
 final . pdf$[]\T1/ntxtlf/m/n/12 >.
  []
 
-) [43] 
+) [39] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (dissertacao.aux (Chapters/000AcknowledgmentAndAbstract/00Acknowledgment.aux)
 (Chapters/000AcknowledgmentAndAbstract/01Abstract.aux))
  ***********
-LaTeX2e <2025-11-01>
+LaTeX2e <2026-06-01>
 L3 programming layer <2020/03/25>
  ***********
 Package rerunfilecheck Info: File `dissertacao.out' has not changed.
-(rerunfilecheck)             Checksum: 25667BC330710E84DE93320658FBBAF7;11044.
+(rerunfilecheck)             Checksum: 5D4EB8429DEC35685C5EEA4F480D2605;11200.
  ) 
 Here is how much of TeX's memory you used:
- 17188 strings out of 467871
- 270084 string characters out of 5418376
- 690651 words of memory out of 5000000
- 45508 multiletter control sequences out of 15000+600000
- 676757 words of font info for 95 fonts, out of 8000000 for 9000
+ 17426 strings out of 467392
+ 273904 string characters out of 5415723
+ 704356 words of memory out of 5000000
+ 46219 multiletter control sequences out of 15000+600000
+ 677525 words of font info for 95 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,2143b,712s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\tonin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
-1200.pk><C:/Users/tonin/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/
-NewTXMI.pfb><C:/Users/tonin/AppData/Local/Programs/MiKTeX/fonts/type1/public/te
-x-gyre/qtmr.pfb><C:/Users/tonin/AppData/Local/Programs/MiKTeX/fonts/type1/publi
-c/txfonts/t1xtt.pfb><C:/Users/tonin/AppData/Local/Programs/MiKTeX/fonts/type1/p
-ublic/newtx/txexs.pfb><C:/Users/tonin/AppData/Local/Programs/MiKTeX/fonts/type1
-/public/newtx/txmiaX.pfb><C:/Users/tonin/AppData/Local/Programs/MiKTeX/fonts/ty
-pe1/public/newtx/txsys.pfb><C:/Users/tonin/AppData/Local/Programs/MiKTeX/fonts/
-type1/public/newtx/ztmb.pfb><C:/Users/tonin/AppData/Local/Programs/MiKTeX/fonts
-/type1/public/newtx/ztmr.pfb><C:/Users/tonin/AppData/Local/Programs/MiKTeX/font
-s/type1/public/newtx/ztmri.pfb>
-Output written on dissertacao.pdf (52 pages, 8478748 bytes).
+ 74i,11n,79p,1887b,714s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Administrador\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
+600\tcrm1200.pk><C:/Program Files/MiKTeX/fonts/type1/public/newtx/NewTXMI.pfb><
+C:/Program Files/MiKTeX/fonts/type1/public/tex-gyre/qtmr.pfb><C:/Program Files/
+MiKTeX/fonts/type1/public/txfonts/t1xtt.pfb><C:/Program Files/MiKTeX/fonts/type
+1/public/newtx/txexs.pfb><C:/Program Files/MiKTeX/fonts/type1/public/newtx/txmi
+aX.pfb><C:/Program Files/MiKTeX/fonts/type1/public/newtx/txsys.pfb><C:/Program 
+Files/MiKTeX/fonts/type1/public/newtx/ztmb.pfb><C:/Program Files/MiKTeX/fonts/t
+ype1/public/newtx/ztmr.pfb><C:/Program Files/MiKTeX/fonts/type1/public/newtx/zt
+mri.pfb>
+Output written on dissertacao.pdf (49 pages, 6820357 bytes).
 PDF statistics:
- 1003 PDF objects out of 1200 (max. 8388607)
- 194 named destinations out of 1000 (max. 500000)
- 483 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 998 PDF objects out of 1000 (max. 8388607)
+ 192 named destinations out of 1000 (max. 500000)
+ 486 words of extra memory for PDF output out of 10000 (max. 10000000)
 

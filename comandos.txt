@@ -1,4 +1,6 @@
 pdflatex dissertacao.tex
 bibtex dissertacao
+makeindex -s coppe.ist -o dissertacao.lab dissertacao.abx
+makeindex -s coppe.ist -o dissertacao.los dissertacao.syx
 pdflatex dissertacao.tex
 pdflatex dissertacao.tex
