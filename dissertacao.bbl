@@ -1,10 +1,51 @@
-\begin{thebibliography}{64}
+\begin{thebibliography}{67}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 \newcommand{\coppeenquote}[1]{``#1''}
+
+\bibitem[\MakeUppercase{Rajbongshi} e \MakeUppercase{Gogoi}(2024)Rajbongshi e
+  Gogoi]{Rajbongshi2024ProducedWaterReview}
+\MakeUppercase{Rajbongshi, A., Gogoi, S.~B.}
+\newblock \coppeenquote{A review on oilfield produced water and its treatment
+  technologies}, \emph{Petroleum Research}, v.~9, \penalty0 pp.~640--656, 2024.
+\newblock \doi{10.1016/j.ptlrs.2024.06.003}.
+\newblock Dispon{\' i}vel em:
+  \textless\url{https://doi.org/10.1016/j.ptlrs.2024.06.003}\textgreater .
+
+\bibitem[\MakeUppercase{Nath}\emph{ et~al.}(2023)Nath, Chowdhury, e
+  Rhaman]{w15234088}
+\MakeUppercase{Nath, F., Chowdhury, M. O.~S., Rhaman, M.~M.}
+\newblock \coppeenquote{Navigating Produced Water Sustainability in the Oil and
+  Gas Sector: A Critical Review of Reuse Challenges, Treatment Technologies,
+  and Prospects Ahead}, \emph{Water}, v.~15, n.~23, \penalty0 pp.~4088, 2023.
+\newblock \doi{10.3390/w15234088}.
+\newblock Dispon{\' i}vel em:
+  \textless\url{https://doi.org/10.3390/w15234088}\textgreater .
+
+\bibitem[\MakeUppercase{Alley}\emph{ et~al.}(2011)Alley, Beebe, Rodgers, e
+  Castle]{ALLEY201174}
+\MakeUppercase{Alley, B., Beebe, A., Rodgers, J., \MakeLowercase{et~al.}}
+\newblock \coppeenquote{Chemical and physical characterization of produced
+  waters from conventional and unconventional fossil fuel resources},
+  \emph{Chemosphere}, v.~85, n.~1, \penalty0 pp.~74--82, 2011.
+\newblock \doi{10.1016/j.chemosphere.2011.05.043}.
+\newblock Dispon{\' i}vel em:
+  \textless\url{https://doi.org/10.1016/j.chemosphere.2011.05.043}\textgreater
+  .
+
+\bibitem[\MakeUppercase{Al-Ghouti}\emph{ et~al.}(2019)Al-Ghouti, Al-Kaabi,
+  Ashfaq, e Da'na]{ALGHOUTI2019222}
+\MakeUppercase{Al-Ghouti, M.~A., Al-Kaabi, M.~A., Ashfaq, M.~Y.,
+  \MakeLowercase{et~al.}}
+\newblock \coppeenquote{Produced water characteristics, treatment and reuse: A
+  review}, \emph{Journal of Water Process Engineering}, v.~28, \penalty0
+  pp.~222--239, 2019.
+\newblock \doi{10.1016/j.jwpe.2019.02.001}.
+\newblock Dispon{\' i}vel em:
+  \textless\url{https://doi.org/10.1016/j.jwpe.2019.02.001}\textgreater .
 
 \bibitem[\MakeUppercase{Ibrahim}\emph{ et~al.}(2023)Ibrahim, Nawaz, Rout, Lim,
   Mainali, e Shahid]{w15162980}
@@ -26,27 +67,6 @@
 \newblock \doi{10.13044/j.sdewes.d12.0527}.
 \newblock Dispon{\' i}vel em:
   \textless\url{https://doi.org/10.13044/j.sdewes.d12.0527}\textgreater .
-
-\bibitem[\MakeUppercase{Nath}\emph{ et~al.}(2023)Nath, Chowdhury, e
-  Rhaman]{w15234088}
-\MakeUppercase{Nath, F., Chowdhury, M. O.~S., Rhaman, M.~M.}
-\newblock \coppeenquote{Navigating Produced Water Sustainability in the Oil and
-  Gas Sector: A Critical Review of Reuse Challenges, Treatment Technologies,
-  and Prospects Ahead}, \emph{Water}, v.~15, n.~23, \penalty0 pp.~4088, 2023.
-\newblock \doi{10.3390/w15234088}.
-\newblock Dispon{\' i}vel em:
-  \textless\url{https://doi.org/10.3390/w15234088}\textgreater .
-
-\bibitem[\MakeUppercase{Al-Ghouti}\emph{ et~al.}(2019)Al-Ghouti, Al-Kaabi,
-  Ashfaq, e Da'na]{ALGHOUTI2019222}
-\MakeUppercase{Al-Ghouti, M.~A., Al-Kaabi, M.~A., Ashfaq, M.~Y.,
-  \MakeLowercase{et~al.}}
-\newblock \coppeenquote{Produced water characteristics, treatment and reuse: A
-  review}, \emph{Journal of Water Process Engineering}, v.~28, \penalty0
-  pp.~222--239, 2019.
-\newblock \doi{10.1016/j.jwpe.2019.02.001}.
-\newblock Dispon{\' i}vel em:
-  \textless\url{https://doi.org/10.1016/j.jwpe.2019.02.001}\textgreater .
 
 \bibitem[\MakeUppercase{Beyer}\emph{ et~al.}(2020)Beyer
   et~al.]{BEYER2020105155}
@@ -103,15 +123,6 @@
 \newblock Dispon{\' i}vel em:
   \textless\url{https://doi.org/10.1016/B978-0-12-813782-6.00014-2}\textgreater
   .
-
-\bibitem[\MakeUppercase{Rajbongshi} e \MakeUppercase{Gogoi}(2024)Rajbongshi e
-  Gogoi]{Rajbongshi2024ProducedWaterReview}
-\MakeUppercase{Rajbongshi, A., Gogoi, S.~B.}
-\newblock \coppeenquote{A review on oilfield produced water and its treatment
-  technologies}, \emph{Petroleum Research}, v.~9, \penalty0 pp.~640--656, 2024.
-\newblock \doi{10.1016/j.ptlrs.2024.06.003}.
-\newblock Dispon{\' i}vel em:
-  \textless\url{https://doi.org/10.1016/j.ptlrs.2024.06.003}\textgreater .
 
 \bibitem[\MakeUppercase{Nawaz}\emph{ et~al.}(2021)Nawaz, Son, Jin, Kim,
   Soukane, Al-Hajji, Abu-Ghdaib, e Ghaffour]{Nawaz2021FO_MD}
@@ -309,6 +320,31 @@
 \newblock \doi{10.2166/wst.2024.045}.
 \newblock Dispon{\' i}vel em:
   \textless\url{https://doi.org/10.2166/wst.2024.045}\textgreater .
+
+\bibitem[\MakeUppercase{Ghafoori}\emph{ et~al.}(2022)Ghafoori, Omar,
+  Koutahzadeh, Zendehboudi, Malhas, Mohamed, Al-Zubaidi, Redha, Baraki, e
+  Mehrvar]{Ghafoori2022ProducedWater}
+\MakeUppercase{Ghafoori, S., Omar, M., Koutahzadeh, N., \MakeLowercase{et~al.}}
+\newblock \coppeenquote{New Advancements, Challenges, and Future Needs on
+  Treatment of Oilfield Produced Water: A State-of-the-Art Review},
+  \emph{Separation and Purification Technology}, 2022.
+\newblock ISSN: 1383-5866.
+\newblock \doi{10.1016/j.seppur.2022.120652}.
+\newblock Dispon{\' i}vel em:
+  \textless\url{https://doi.org/10.1016/j.seppur.2022.120652}\textgreater .
+\newblock Available online 11 February 2022.
+
+\bibitem[\MakeUppercase{Jiménez}\emph{ et~al.}(2018)Jiménez, Micó, Arnaldos,
+  Medina, e Contreras]{Jimenez2018ProducedWater}
+\MakeUppercase{Jiménez, S., Micó, M.~M., Arnaldos, M.,
+  \MakeLowercase{et~al.}}
+\newblock \coppeenquote{State of the Art of Produced Water Treatment},
+  \emph{Chemosphere}, v.~192, \penalty0 pp.~186--208, 2018.
+\newblock ISSN: 0045-6535.
+\newblock \doi{10.1016/j.chemosphere.2017.10.139}.
+\newblock Dispon{\' i}vel em:
+  \textless\url{https://doi.org/10.1016/j.chemosphere.2017.10.139}\textgreater
+  .
 
 \bibitem[\MakeUppercase{González}\emph{ et~al.}(2017)González, Amigo, e
   Suárez]{Gonzalez2017}
