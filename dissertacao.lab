@@ -1,33 +1,33 @@
 
 \begin{theglossary}
   \makeatletter
-  \item [AFM] Atomic Force Microscopye, p. \hyperpage{12}
+  \item [AFM] Atomic Force Microscopye, p. \hyperpage{11}
   \item [AGMD] Air gap membrane distillation, p. \hyperpage{2}
   \item [ATR-FTIR] Attenuated Total Reflectance – Fourier Transform Infrared Spectroscopy, p. 
-		\hyperpage{12}
-  \item [COT] Carbono orgânico total, p. \hyperpage{24}
+		\hyperpage{11}
+  \item [COT] Carbono orgânico total, p. \hyperpage{25}
   \item [DCMD] Direct contact membrane distillation, p. \hyperpage{2}
-  \item [EDS] Energy-Dispersive Spectroscopy, p. \hyperpage{12}
-  \item [EDTA] Ethylenediaminetetraacetic Acid, p. \hyperpage{16}
+  \item [EDS] Energy-Dispersive Spectroscopy, p. \hyperpage{11}
+  \item [EDTA] Ethylenediaminetetraacetic Acid, p. \hyperpage{17}
   \item [GOR] Gain output ratio, p. \hyperpage{9}
   \item [HVAC] Heating, ventilation and air contitioning, p. 
-		\hyperpage{18}
+		\hyperpage{19}
   \item [IJR] Índice de Rejeição Instantânea de Íons, p. 
-		\hyperpage{25}
+		\hyperpage{26}
   \item [LEP] Liquid Entry Pressure, p. \hyperpage{10}
   \item [LabMEMS] Laboratório de Nano e Microfluídica e Microssistemas, p. 
-		\hyperpage{28}
-  \item [MEV] Microscopia eletrônica de varredura, p. \hyperpage{12}
-  \item [PE] Polyethylene, p. \hyperpage{13}
+		\hyperpage{29}
+  \item [MEV] Microscopia eletrônica de varredura, p. \hyperpage{11}
+  \item [PE] Polyethylene, p. \hyperpage{14}
   \item [PGMD] Permeate gap membrane distillation, p. \hyperpage{9}
-  \item [PTFE] Polytetrafluoroethylene, p. \hyperpage{15}
+  \item [PTFE] Polytetrafluoroethylene, p. \hyperpage{16}
   \item [PVDF-co-HFP] Poly(vinylidene fluoride-co-hexafluoropropylene), p. 
-		\hyperpage{12}
-  \item [PVDF] Polyvinylidene Fluoride, p. \hyperpage{12}
-  \item [SGMD] Sweeping gas membrane distillation, p. \hyperpage{15}
-  \item [TDS] Total Dissolved Solids, p. \hyperpage{14}
-  \item [V-AGMD] Vacuum air gap membrane distillation, p. 
 		\hyperpage{13}
+  \item [PVDF] Polyvinylidene Fluoride, p. \hyperpage{13}
+  \item [SGMD] Sweeping gas membrane distillation, p. \hyperpage{16}
+  \item [TDS] Total Dissolved Solids, p. \hyperpage{15}
+  \item [V-AGMD] Vacuum air gap membrane distillation, p. 
+		\hyperpage{14}
   \item [VMD] Vacuum gap membrane, p. \hyperpage{13}
-  \item [VOCs] Volatile Organic Compounds, p. \hyperpage{11}
+  \item [VOCs] Volatile Organic Compounds, p. \hyperpage{12}
   \end{theglossary}

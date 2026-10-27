@@ -2,9 +2,17 @@ This is BibTeX, Version 0.99e
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: dissertacao.aux
 Reallocating 'name_of_file' (item size: 1) to 59 items.
-A level-1 auxiliary file: Chapters/000AcknowledgmentAndAbstract/00Acknowledgment.aux
+I couldn't open auxiliary file Chapters/000AcknowledgmentAndAbstract/00Acknowledgment.aux
+---line 9 of file dissertacao.aux
+ : \@input{Chapters/000AcknowledgmentAndAbstract/00Acknowledgment.aux
+ :                                                                   }
+I'm skipping whatever remains of this command
 Reallocating 'name_of_file' (item size: 1) to 53 items.
-A level-1 auxiliary file: Chapters/000AcknowledgmentAndAbstract/01Abstract.aux
+I couldn't open auxiliary file Chapters/000AcknowledgmentAndAbstract/01Abstract.aux
+---line 10 of file dissertacao.aux
+ : \@input{Chapters/000AcknowledgmentAndAbstract/01Abstract.aux
+ :                                                             }
+I'm skipping whatever remains of this command
 Reallocating 'name_of_file' (item size: 1) to 12 items.
 The style file: coppe-unsrt.bst
 Reallocating 'name_of_file' (item size: 1) to 24 items.
@@ -51,4 +59,4 @@ warning$ -- 1
 while$ -- 205
 width$ -- 0
 write$ -- 1084
-(There was 1 warning)
+(There were 2 error messages)

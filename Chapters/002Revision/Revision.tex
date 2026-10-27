@@ -17,39 +17,17 @@ Além dos artigos selecionados, também foram incorporados artigos sobre temas q
     \label{fig:graficopublicacoes}
 \end{figure}
 
-
-
-%\section{Destilação por membranas}
-
-%\subsection{Fundamentos e configurações}
-
-%\subsection{Destilação por membranas com espaçamento de ar (AGMD)}
-
-%\section{Membranas para destilação por membranas}
-
-%\subsection{Técnicas de caracterização}
-
-%\section{Molhamento de membranas}
-
-%\section{Fouling e scaling em destilação por membranas}
-
-%\section{Compatibilidade química e parâmetros de solubilidade de Hansen}
-
-%\section{Tratamento de água via destilação por membranas}
-
-%\section{Tratamento de água de produção via destilação por membranas}
-
-%\section{Lacunas na literatura}
-
-
 \section{Água de produção: composição, gestão e tratamento}
 
 Como comentado na introdução, a água de produção é composta pela água de formação e pela água de injeção, de modo a apresentar características dependentes da localização geográfica, geologia, idade do poço e técnicas de recuperação empregadas~\cite{Rajbongshi2024ProducedWaterReview, w15234088}.  A tabela~\ref{tab:composicao_AP} apresenta faixas de concentrações dos principais contaminantes observados.  
 
-
+%~\cite{Rajbongshi2024ProducedWaterReview, w15234088,ALLEY201174,ALGHOUTI2019222}
 
 \begin{longtable}{p{7.5cm}>{\raggedleft\arraybackslash}p{3.3cm}>{\centering\arraybackslash}p{1.8cm}}
-\caption{Principais contaminantes presentes na água de produção~\cite{Rajbongshi2024ProducedWaterReview, w15234088,ALLEY201174,ALGHOUTI2019222}}\label{tab:composicao_AP}\\
+\caption[Principais contaminantes presentes na água de produção]
+{Principais contaminantes presentes na água de produção
+\cite{Rajbongshi2024ProducedWaterReview,w15234088,ALLEY201174,ALGHOUTI2019222}}
+\label{tab:composicao_AP}\\
 \toprule
 \textbf{Parâmetro} & \textbf{Faixa de concentração} & \textbf{Unidade}\\
 \midrule
@@ -149,13 +127,16 @@ Para a reinjeção, é necessário garantir TSS abaixo de 10 mg/L e óleos e gra
 
 Deste modo, independente da técnica de gestão a ser aplicada, é necessário o tratamento da água de produção. Para isso, são aplicadas diferentes etapas de tratamento, as quais funcionam mediante diferentes mecanismos, onde cada um visa tipos específicos de contaminantes. O tratamento pode ser dividido entre primário, secundário, terciário e quaternário.
 
+------------------------ Parei aqui
+%Uma vez extraída, a água de produção precisa ser tratada de acordo com sua destinação, seja para descarte ou reinjeção. Em caso de descarte, é necessário observar as regulamentações ambientais do local de extração, como a recomendação 2001/1 da convenção Oslo Paris, que determina uma concentração de 30~mg/L de óleo em água~\cite{OSPAR2001}; a agência de proteção ambiental dos Estados Unidos (USEPA) e a resolução número 393/2007 do Conselho Nacional do Meio Ambiente (CONAMA) determinam uma concentração média mensal inferior a 29~mg/L para óleos e graxas e um valor diário máximo de 42~mg/L~\cite{EPA435,CONAMA3932007}.
 
+\section{Destilação por membranas}
 
-\section{Características de processo}
+\subsection{Fundamentos e configurações}
 
 O desempenho do processo de destilação por membranas é determinando pela interação entre as condições operacionais, as características da alimentação, as propriedades da membrana e a configuração do módulo~\cite{Gonzalez2017,Swaminathan2018}. Esses fatores influenciam diretamente os mecanismos de transferência de calor e massa e a estabilidade do processo~\cite{Eykens2016}. 
 
-Além disso, fenômenors como polarização de temperatura e de concentração, incrustação e molhamento podem alterar progressivamente o desempenho da membrana durante a operação~\cite{Yao2020WettabilityMD, AbdelKarim2021, Hsieh2024ScalingWetting}.
+Além disso, fenômenos como polarização de temperatura e de concentração, incrustação e molhamento podem alterar progressivamente o desempenho da membrana durante a operação~\cite{Yao2020WettabilityMD, AbdelKarim2021, Hsieh2024ScalingWetting}.
 
 Entre os fenômenos inerentes ao processo, a polarização de temperatura exerce influência direta sobre a força motriz para o transporte de vapor através da membrana. Observa-se que seus efeitos dependem tanto das caracteristicas hidrodinâmicas quanto das características do processo, onde membranas finas com maior permeabilidade e condutividade térmica mostraram-se mais suscetíveis à polarização de temperatura e aos efeitos decorrentes do aumento da salinidade~\cite{Eykens2016}.
 
@@ -165,19 +146,36 @@ A configuração do módulo é outro fator determinante para a ocorrência dos f
 
 A comparação entre módulos DCMD e módulos com espaçamento com permeado (PGMD)\abbrev{PGMD}{Permeate gap membrane distillation} pode apresentar valores de \textit{gain output ratio} (GOR)\abbrev{GOR}{Gain output ratio} superiores aos obtidos em módulos AGMD quando aplicados ao tratamento de soluções com baixa salinidade. Entretanto, essa diferença de desempenho decai consideravelmente com o aumento da salinidade, tornando o AGMD mais favorável para o tratamento de soluções com soluções mais concentradas~\cite{Swaminathan2018}.
 
+\subsection{Destilação por membranas com espaçamento de ar (AGMD)}
+
 O desempenho do módulo AGMD é dependente da espessura do espaçamento de ar e sua condutividade térmica, de modo que a redução da espessura e aumento da condutividade favorecem a produção de permeado. Entretanto, o aumento da condutividade do espaçamento não deve estar atrelado ao aumento da condutividade da membrana, a qual intesifica as perdas de calor por condução. Outro ponto importante, é o cuidado quanto a redução excessiva do espaçamento, o que pode transformar o módulo AGMD em PGMD, em função do possível acúmulo de permeado entre a membrana e a superfície de condensação~\cite{Swaminathan2018}. 
 
 Além das condições operacionais e da configuração do módulo, a hidrofobicidade da membrana é fundamental para a estabilidade do processo. Caso a membrana tenha uma redução de sua hidrofobicidade, ocorre o fenômeno de molhamento dos poros, de modo parcial ou completo, comprometendo a seletividade da membrana e reduzindo a qualidade do permeado~\cite{Yao2020WettabilityMD, AbdelKarim2021}.
 
-A suscetibilidade ao molhamento depende da interação entre as propriedades superficiais da membrana, as condições hidrodinâmicas e a composição da água a ser tratada~\cite{Yao2020WettabilityMD}. Quanto a membrana, destacam-se rugosidade, molhabilidade, tensão superficial, tamanho dos poros, carga superficial. Para o escoamento, temos como principais fatores a velocidade, temperatura, direção do fluxo e gradiente de pressão~\cite{Yao2020WettabilityMD}. Para a composição da água é possível destacar a concentração e natureza dos contaminantes, difusivade e pH~\cite{Yao2020WettabilityMD}.
 
-A molhabilidade da superfície pode ser interpretada pelos modelos de Young, Wenzel e Cassie-Baxter, os quais dieferem quanto a interação líquido-superfície~\cite{Yao2020WettabilityMD}. Em particular o modelo de Cassie-Baxter associa o aprisionamento de ar entre o líquido e a superfície com a obtenção de super-hidrofobicidade e ominiofobicidade. Para estas superfícies, a combinação entre elevada rugosidade e baixa tensão superficial propicia elevados ângulos de contato e baixos ângulos de inclinação~\cite{Yao2020WettabilityMD}.
+\section{Membranas para destilação por membranas}
+
+Observou-se durante o processo de revisão bibliográfica o uso de diferentes estratégias para a obtenção de superfícies super-hidrofóbicas, como o uso de nanopartículas de sílica ou carbono, poduzindo superfícies com rugosidade multinível, apresentando propriedades hidrofóbicas e oleofóbicas~\cite{Laqbaqbi2017,Gong2019}. 
+
+Considerando que os processos de deposição e limpeza podem modificar permanentemente as propriedades superficiais e estruturais das membranas, a caracterização da membrana, antes e após o uso, é uma etapa crucial para indentificar se a membrana escolhida possui as caracteristicas necessária para o processo e para compreender o impacto dos contaminantes presentes na água a ser tratada~\cite{Laqbaqbi2017}.
+
+\subsection{Técnicas de caracterização}
 
 Nesse sentido, membranas com ângulo de contato superior a 150° são classificadas como super-hidrofóbicas e podem ser obtidas por meio do aumento da rugosidade superficial, da criação de estruturas hierárquicas ou da redução da tensão superficial do material~\cite{Yao2020WettabilityMD}. 
 
 Do ponto de vista do molhamento, o principal fator a ser observado é a pressão de entrada de líquido (LEP) \abbrev{LEP}{Liquid Entry Pressure}, a qual é calculada com base no maior diâmetro de poro presente na membrana, pelo ângulo de contato, tensão superficial do fluido e um fator de forma atribuído a geometria dos poros. A presença de surfactantes na água a ser tratada impacta diretamente o LEP, uma vez que reduz a tensão superficial da solução, facilitando a penetração nos poros~\cite{Yao2020WettabilityMD}. Desse modo, a avaliação da estabilidade do processo não deve considerar apenas as propriedades iniciais da membrana, mas também a interação entre a membrana e a solução ao longo do processo~\cite{Yao2020WettabilityMD}.
 
-Observou-se durante o processo de revisão bibliográfica o uso de diferentes estratégias para a obtenção de superfícies super-hidrofóbicas, como o uso de nanopartículas de sílica ou carbono, poduzindo superfícies com rugosidade multinível, apresentando propriedades hidrofóbicas e oleofóbicas~\cite{Laqbaqbi2017,Gong2019}. 
+Entre as técnicas empregadas, a microscopia eletrônica de varredura (MEV)\abbrev{MEV}{Microscopia eletrônica de varredura}, a microscopia de força atômica (AFM) \abbrev{AFM}{Atomic Force Microscopye} a porosimetria de fluxo capilar permitem avaliar a morfologia da superfície da membrana, analisando caracteristicas como rugosidade, porosidade, permeabilidade, formato e diâmetro de poro. Quanto a composição química dos contaminantes depositados na membrana, pode-se aplicar a espectroscopia de infravermelho por transformada de fourier com reflectância total Atenuada (ATR-FTIR) \abbrev{ATR-FTIR}{Attenuated Total Reflectance – Fourier Transform Infrared Spectroscopy} ou espectroscopia por dispersão de energia (EDS)\abbrev{EDS}{Energy-Dispersive Spectroscopy}~\cite{Laqbaqbi2017}.
+
+\section{Molhamento de membranas}
+
+A suscetibilidade ao molhamento depende da interação entre as propriedades superficiais da membrana, as condições hidrodinâmicas e a composição da água a ser tratada~\cite{Yao2020WettabilityMD}. Quanto a membrana, destacam-se rugosidade, molhabilidade, tensão superficial, tamanho dos poros, carga superficial. Para o escoamento, temos como principais fatores a velocidade, temperatura, direção do fluxo e gradiente de pressão~\cite{Yao2020WettabilityMD}. Para a composição da água é possível destacar a concentração e natureza dos contaminantes, difusivade e pH~\cite{Yao2020WettabilityMD}.
+
+A molhabilidade da superfície pode ser interpretada pelos modelos de Young, Wenzel e Cassie-Baxter, os quais dieferem quanto a interação líquido-superfície~\cite{Yao2020WettabilityMD}. Em particular o modelo de Cassie-Baxter associa o aprisionamento de ar entre o líquido e a superfície com a obtenção de super-hidrofobicidade e ominiofobicidade. Para estas superfícies, a combinação entre elevada rugosidade e baixa tensão superficial propicia elevados ângulos de contato e baixos ângulos de inclinação~\cite{Yao2020WettabilityMD}.
+
+Dentre estas técnicas, os processos oxidativos avançados destacam-se pela capacidade de remoção de surfactantes, reduzindo a propenção ao molhamento causada pela presença destes compostos~\cite{AbdelKarim2021}. O uso de pré-filtração favorece a remoção ou cristalização de contaminantes antes da chegada ao módulo, reduzindo a incidência de deposição de contaminantes na superfície da membrana~\cite{AbdelKarim2021}.
+
+\section{Fouling e scaling em destilação por membranas}
 
 Além do molhamento, a incrustação com matéria orgânica (fouling) e a com matéria inorgânica (scaling) prejudicam o processo, promovendo a redução gradual do fluxo de permeado através do aumento da resistência a transferência de massa e favorecendo a ocorrência de molhamento~\cite{AbdelKarim2021,Hsieh2024ScalingWetting,Du2023Antifouling}.
 
@@ -185,20 +183,16 @@ Para contaminantes orgânicos como o ácido húmico e polissacarídeos, pode oco
 
 A interação entre diferentes contaminantes também intensifica a ocorrência de fouling, onde a presença de ácido húmico e Nacl propicia a formação de depósitos, facilitando a ocorrência de molhamento e do mecanismo de adsorção e dessorção, reduzindo a qualidade do permeado produzido~\cite{Laqbaqbi2017}. Quanto aos compostos inorgânicos, as características de processo podem promover a cristalização na superfície da membrana ou no escoamento~\cite{Laqbaqbi2017}, onde cristais em formato de agulha, geralmente formados ao longo do escoamento, podem promover scaling na superfície da membrana, propiciando o molhamento nos pontos de deposição~\cite{Hsieh2024ScalingWetting}.
 
-A presença de compostos orgânicos voláteis (VOCs)\abbrev{VOCs}{Volatile Organic Compounds} na água a ser tratada reduz a qualidade do permeado produzido, uma vez que podem atravesar a membrana via adsorção-desorção ou como vapor, uma vez que apresentam temperaturas de ebulição inferiores a da água~\cite{Yao2018}.
-
-A ocorrência de fenômenos como fouling e scaling exige o uso de estratégias de prevenção ou recuperação. Como prevenção, é possível citar técnicas como coagulação, flotação, micro e nanofiltração, osmose reversa e processos oxidativos avançados~\cite{Laqbaqbi2017,AbdelKarim2021}. 
-
-Dentre estas técnicas, os processos oxidativos avançados destacam-se pela capacidade de remoção de surfactantes, reduzindo a propenção ao molhamento causada pela presença destes compostos~\cite{AbdelKarim2021}. O uso de pré-filtração favorece a remoção ou cristalização de contaminantes antes da chegada ao módulo, reduzindo a incidência de deposição de contaminantes na superfície da membrana~\cite{AbdelKarim2021}.
+A ocorrência de fenômenos como fouling e scaling exige o uso de estratégias de prevenção ou recuperação. Como prevenção, é possível citar técnicas como coagulação, flotação, micro e nanofiltração, osmose reversa e processos oxidativos avançados~\cite{Laqbaqbi2017,AbdelKarim2021}.
 
 Quanto as técnicas de recuperação, procedimentos de limpeza podem recuperar de maneira parcial ou total o fluxo de permeado. Porém, deve-se considerar o tipo de material depositado, uma vez que o uso de produtos químicos inadequados pode acarretar a degradação da membrana ou alteração de suas caracteristicas superfíciais~\cite{Laqbaqbi2017,AbdelKarim2021}. Outro ponto de atenção é a permanência de pontos de incrustação após o processo de limpeza, os quais prpiciam a ocorrência de novas deposições e podem atuar como pontes hidrofílicas, favorecendo a ocorrência de molhamento~\cite{AbdelKarim2021}.
 
-Considerando que os processos de deposição e limpeza podem modificar permanentemente as propriedades superficiais e estruturais das membranas, a caracterização da membrana, antes e após o uso, é uma etapa crucial para indentificar se a membrana escolhida possui as caracteristicas necessária para o processo e para compreender o impacto dos contaminantes presentes na água a ser tratada~\cite{Laqbaqbi2017}.
 
-Entre as técnicas empregadas, a microscopia eletrônica de varredura (MEV)\abbrev{MEV}{Microscopia eletrônica de varredura}, a microscopia de força atômica (AFM) \abbrev{AFM}{Atomic Force Microscopye} a porosimetria de fluxo capilar permitem avaliar a morfologia da superfície da membrana, analisando caracteristicas como rugosidade, porosidade, permeabilidade, formato e diâmetro de poro. Quanto a composição química dos contaminantes depositados na membrana, pode-se aplicar a espectroscopia de infravermelho por transformada de fourier com reflectância total Atenuada (ATR-FTIR) \abbrev{ATR-FTIR}{Attenuated Total Reflectance – Fourier Transform Infrared Spectroscopy} ou espectroscopia por dispersão de energia (EDS)\abbrev{EDS}{Energy-Dispersive Spectroscopy}~\cite{Laqbaqbi2017}.
+\section{Compatibilidade química e parâmetros de solubilidade de Hansen}
 
+A presença de compostos orgânicos voláteis (VOCs)\abbrev{VOCs}{Volatile Organic Compounds} na água a ser tratada reduz a qualidade do permeado produzido, uma vez que podem atravesar a membrana via adsorção-desorção ou como vapor, uma vez que apresentam temperaturas de ebulição inferiores a da água~\cite{Yao2018}.
 
-\section{Tratamento de água}
+\section{Tratamento de água via destilação por membranas}
 
 A aplicação da destilação por membranas ao tratamento de diferentes matrizes aquosas tem sido avaliada através de estudos envolvendo diversos efluentes industriais, os quais avaliam a influência da composição da água a ser tratada na performance do processo~\cite{Gueccia2021HClRecovery,Su2017,RuizAguirre2019PermeateQuality,Woo2021ElectrospunMD,Suga2021VMD,Kujawa_PVDF_SWCNH,Abdelrazeq2022DCMD,Adham2023}. 
 
@@ -239,8 +233,7 @@ Desse modo, os estudos analisados apresentam indicios importantes quanto a capac
 Entretanto, a manutenção da performance do processo está atrelada as condições de operação e pelos procedimentos de interrupção e retomada~\cite{RuizAguirre2019PermeateQuality}. À medida que diferentes contaminantes são introduzidos, como diferentes sais e matéria orgânica, o processo passa a apresentar incrustação, redução da molhabilidade e molhamento, tornando a composição da alimentação e os processos de pré-tratamento fatores determinantes na estabilidade do processo~\cite{Abdelrazeq2022DCMD,Adham2023,Gueccia2021HClRecovery}. Tal interação entre a composição da alimentação e as propriedades da membrana ao longo do tempo tornam particularmente relevante a realização de experimentos de longo prazo para matrizes mais complexas, como a água de produção.
 
 
-
-\section{Tratamento de água de produção}
+\section{Tratamento de água de produção via destilação por membranas}
 
 % POLIDO
 
@@ -294,3 +287,6 @@ Paralelamente, compostos voláteis podem atravessar a membrana e alterar a condu
 
 Deste modo, experimentos de longa duração com água de produção real são particularmente relevantes para avaliar o impacto das propriedades da membrana na estabilidade e desempenho do processo.
 
+\section{Lacunas na literatura}
+
+-Inserir
