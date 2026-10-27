@@ -1,4 +1,4 @@
-\begin{thebibliography}{67}
+\begin{thebibliography}{73}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -6,12 +6,13 @@
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 \newcommand{\coppeenquote}[1]{``#1''}
 
-\bibitem[\MakeUppercase{Ibrahim}\emph{ et~al.}(2023)Ibrahim, Nawaz, Rout, Lim,
-  Mainali, e Shahid]{w15162980}
+\bibitem[\MakeUppercase{Ibrahim}\emph{ et~al.}(2023{\natexlab{a}})Ibrahim,
+  Nawaz, Rout, Lim, Mainali, e Shahid]{w15162980}
 \MakeUppercase{Ibrahim, M., Nawaz, M.~H., Rout, P.~R., \MakeLowercase{et~al.}}
 \newblock \coppeenquote{Advances in Produced Water Treatment Technologies: An
   In-Depth Exploration with an Emphasis on Membrane-Based Systems and Future
-  Perspectives}, \emph{Water}, v.~15, n.~16, \penalty0 pp.~2980, 2023.
+  Perspectives}, \emph{Water}, v.~15, n.~16, \penalty0 pp.~2980,
+  2023{\natexlab{a}}.
 \newblock \doi{10.3390/w15162980}.
 \newblock Dispon{\' i}vel em:
   \textless\url{https://doi.org/10.3390/w15162980}\textgreater .
@@ -168,12 +169,13 @@
 \newblock Dispon{\' i}vel em:
   \textless\url{https://doi.org/10.1016/j.jhydrol.2019.124011}\textgreater .
 
-\bibitem[\MakeUppercase{Amakiri}\emph{ et~al.}(2022)Amakiri, Ramirez~Canon,
-  Molinari, e Angelis-Dimakis]{Amakiri2022ProducedWaterReview}
+\bibitem[\MakeUppercase{Amakiri}\emph{ et~al.}(2022{\natexlab{a}})Amakiri,
+  Ramirez~Canon, Molinari, e Angelis-Dimakis]{Amakiri2022ProducedWaterReview}
 \MakeUppercase{Amakiri, K.~T., Ramirez~Canon, A., Molinari, M.,
   \MakeLowercase{et~al.}}
 \newblock \coppeenquote{Review of oilfield produced water treatment
-  technologies}, \emph{Chemosphere}, v.~298, \penalty0 pp.~134064, 2022.
+  technologies}, \emph{Chemosphere}, v.~298, \penalty0 pp.~134064,
+  2022{\natexlab{a}}.
 \newblock \doi{10.1016/j.chemosphere.2022.134064}.
 \newblock Dispon{\' i}vel em:
   \textless\url{https://doi.org/10.1016/j.chemosphere.2022.134064}\textgreater
@@ -345,6 +347,58 @@
 \newblock Dispon{\' i}vel em:
   \textless\url{https://doi.org/10.1016/j.chemosphere.2017.10.139}\textgreater
   .
+
+\bibitem[\MakeUppercase{Devold}(2013)Devold]{Devold2013}
+\MakeUppercase{Devold, H.}
+\newblock \emph{Oil and Gas Production Handbook}.
+\newblock ABB Oil and Gas, 2013.
+\newblock Dispon{\' i}vel em:
+  \textless\url{https://library.e.abb.com/public/34d5b70e18f7d6c8c1257be500438ac3/Oil%20and%20gas%20production%20handbook%20ed3x0_web.pdf}\textgreater
+  .
+
+\bibitem[\MakeUppercase{Hoek}\emph{ et~al.}(2021)Hoek, Wang, Hancock, Edalat,
+  Bhattacharjee, e Jassby]{Hoek2021}
+\MakeUppercase{Hoek, E. M.~V., Wang, J., Hancock, T.~D.,
+  \MakeLowercase{et~al.}}
+\newblock \emph{Oil \& Gas Produced Water Management}, v.~2, \emph{Synthesis
+  Lectures on Sustainable Development}.
+\newblock 2021.
+\newblock \doi{10.2200/S01003ED1V01Y202003SDE002}.
+
+\bibitem[\MakeUppercase{Amakiri}\emph{ et~al.}(2022{\natexlab{b}})Amakiri,
+  Canon, Molinari, e Angelis-Dimakis]{Amakiri2022}
+\MakeUppercase{Amakiri, K.~T., Canon, A.~R., Molinari, M.,
+  \MakeLowercase{et~al.}}
+\newblock \coppeenquote{Review of Oilfield Produced Water Treatment
+  Technologies}, \emph{Chemosphere}, v.~298, \penalty0 pp.~134064,
+  2022{\natexlab{b}}.
+\newblock \doi{10.1016/j.chemosphere.2022.134064}.
+
+\bibitem[\MakeUppercase{Fakhru'l-Razi}\emph{ et~al.}(2009)Fakhru'l-Razi,
+  Pendashteh, Abdullah, Biak, Madaeni, e Abidin]{FakhrulRazi2009}
+\MakeUppercase{Fakhru'l-Razi, A., Pendashteh, A., Abdullah, L.~C.,
+  \MakeLowercase{et~al.}}
+\newblock \coppeenquote{Review of Technologies for Oil and Gas Produced Water
+  Treatment}, \emph{Journal of Hazardous Materials}, v.~170, n. 2--3, \penalty0
+  pp.~530--551, 2009.
+\newblock \doi{10.1016/j.jhazmat.2009.05.044}.
+
+\bibitem[\MakeUppercase{Ibrahim}\emph{ et~al.}(2023{\natexlab{b}})Ibrahim,
+  Nawaz, Rout, Lim, Mainali, e Shahid]{Ibrahim2023}
+\MakeUppercase{Ibrahim, M., Nawaz, M.~H., Rout, P.~R., \MakeLowercase{et~al.}}
+\newblock \coppeenquote{Advances in Produced Water Treatment Technologies: An
+  In-Depth Exploration with an Emphasis on Membrane-Based Systems and Future
+  Perspectives}, \emph{Water}, v.~15, n.~16, \penalty0 pp.~2980,
+  2023{\natexlab{b}}.
+\newblock \doi{10.3390/w15162980}.
+
+\bibitem[\MakeUppercase{Igunnu} e \MakeUppercase{Chen}(2014)Igunnu e
+  Chen]{Igunnu2014}
+\MakeUppercase{Igunnu, E.~T., Chen, G.~Z.}
+\newblock \coppeenquote{Produced Water Treatment Technologies},
+  \emph{International Journal of Low-Carbon Technologies}, v.~9, n.~3,
+  \penalty0 pp.~157--177, 2014.
+\newblock \doi{10.1093/ijlct/cts049}.
 
 \bibitem[\MakeUppercase{González}\emph{ et~al.}(2017)González, Amigo, e
   Suárez]{Gonzalez2017}
