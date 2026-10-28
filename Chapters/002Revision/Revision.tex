@@ -135,32 +135,159 @@ O tratamento quaternário tem como objetivo a dessalinização, aplicando osmose
 
 \subsection{Fundamentos e configurações}
 
-O desempenho do processo de destilação por membranas é determinando pela interação entre as condições operacionais, as características da alimentação, as propriedades da membrana e a configuração do módulo~\cite{Gonzalez2017,Swaminathan2018}. Esses fatores influenciam diretamente os mecanismos de transferência de calor e massa e a estabilidade do processo~\cite{Eykens2016}. 
+A destilação por membranas é um processo de separação no qual uma membrana hidrofóbica e microporosa atua como barreira à passagem da fase líquida e permite o transporte de vapor através dos poros. A força motriz do processo é a diferença de pressão de vapor parcial entre os dois lados da membrana, decorrente principalmente do gradiente de temperatura entre a alimentação e o lado do permeado~\cite{Parani2021,Olatunji2018MDModeling}
 
-Além disso, fenômenos como polarização de temperatura e de concentração, incrustação e molhamento podem alterar progressivamente o desempenho da membrana durante a operação~\cite{Yao2020WettabilityMD, AbdelKarim2021, Hsieh2024ScalingWetting}.
+A pressão de vapor parcial no lado do permeado pode ser estimada através da equação de Antoine, aumentando exponencialmente em função do aumento da temperatura. Entretanto, para soluções salinas, a presença de solutos não voláteis reduz a atividade da água e, consequentemente, sua pressão de vapor em relação à água pura na mesma temperatura. A pressão de vapor parcial na água de produção pode ser estimada através de correlações, variando seu valor em função da salinidade da solução~\cite{Nayar2016,Olatunji2018MDModeling}.
 
-Entre os fenômenos inerentes ao processo, a polarização de temperatura exerce influência direta sobre a força motriz para o transporte de vapor através da membrana. Observa-se que seus efeitos dependem tanto das caracteristicas hidrodinâmicas quanto das características do processo, onde membranas finas com maior permeabilidade e condutividade térmica mostraram-se mais suscetíveis à polarização de temperatura e aos efeitos decorrentes do aumento da salinidade~\cite{Eykens2016}.
+O fluxo através da membrana pode ser quantificado utilizando a equação \ref{eq:fluxo_geral}, onde $J_i$ corresponde ao fluxo, $B$ o fator de proporcionalidade e $\Delta p_i$ é a diferença de pressão de vapor parcial. O subscrito i corresponde ao composto i presente no fluido\cite{mulder1996,Olatunji2018MDModeling,Chen2020}. 
 
-Outro ponto focal é a interação entre a temperatura de operação em conjunto com elevada salinidade, onde a polarização de temperatura pode promover uma pressão de vapor desfavorável ao transporte de vapor, em especial para módulos que operam com baixo número de reynolds no canal de alimentação. Em contrapartida, para membranas espessas as características morfológicas apresentam maior influência sobre o desempenho~\cite{Eykens2016}.
+O parâmetro $B$ é dependente das características da membrana como espessura, diâmetro de poro, tortuosidade e porosidade. O calculo do parâmetro também é dependente do mecanismo de transferência de massa adotado nos poros da membrana, podendo ser difusão de Knudsen, molecular ou um conjunto de ambos~\cite{Olatunji2018MDModeling,Chen2020}. 
+
+\begin{equation}
+J_{i} = B \cdot \Delta p_{i}
+\label{eq:fluxo_geral}
+\end{equation}
+
+O processo de destilação por membranas pode ser realizado através de quatro configurações principais, sendo elas em contato direto, com espaçamento de ar, a vácuo e com gás de varregura. Além das configurações principais existem variações como espaçamento de permeado e espaçamento de ar assistido por vácuo~\cite{Olatunji2018MDModeling,Parani2021}.
+
+O desempenho do processo de destilação por membranas é determinando pela interação entre as condições operacionais, as características da alimentação, as propriedades da membrana e a configuração do módulo~\cite{Gonzalez2017,Swaminathan2018}. Esses fatores influenciam diretamente os mecanismos de transferência de calor e massa, determinando a força motriz efetiva para o transporte de vapor e, consequentemente, o fluxo de permeado produzido~\cite{Eykens2016}. 
+
+Além disso, entre os fenômenos associados ao transporte de calor e massa, destacam-se a polarização de temperatura e de concentração. A polarização de temperatura decorre da diferença entre as temperaturas das superfícies da membrana e as temperaturas médias dos fluidos, reduzindo o gradiente térmico efetivo disponível para a evaporação e o transporte de vapor~\cite{Eykens2016,Hijaz2023,Dong2021}.
+
+Por sua vez, a polarização de concentração está associada ao acúmulo de solutos não voláteis nas proximidades da superfície da membrana, promovendo uma redução local da pressão de vapor da água~\cite{Eykens2016,Dong2021}.
+
+A intensidade dos fenômenos de polarização dependem tanto das caracteristicas hidrodinâmicas quanto das características do processo, onde membranas finas com maior permeabilidade e condutividade térmica mostraram-se mais suscetíveis à polarização de temperatura e aos efeitos decorrentes do aumento da salinidade~\cite{Eykens2016,Chen2020}.
+
+Em contrapartida, para membranas espessas as características morfológicas apresentam maior influência sobre o desempenho. Outro ponto focal é a interação entre a temperatura de operação em conjunto com elevada salinidade, onde a polarização de temperatura pode promover uma pressão de vapor desfavorável ao transporte de vapor, em especial para módulos que operam com baixo número de reynolds no canal de alimentação~\cite{Eykens2016,Chen2020}. 
 
 A configuração do módulo é outro fator determinante para a ocorrência dos fenômenos de polarização, assim como para o desempenho térmico e energético do processo, os quais variam em função da resistência a transferência de calor e massa inerente da configuração~\cite{Gonzalez2017,Swaminathan2018}.
 
-A comparação entre módulos DCMD e módulos com espaçamento com permeado (PGMD)\abbrev{PGMD}{Permeate gap membrane distillation} pode apresentar valores de \textit{gain output ratio} (GOR)\abbrev{GOR}{Gain output ratio} superiores aos obtidos em módulos AGMD quando aplicados ao tratamento de soluções com baixa salinidade. Entretanto, essa diferença de desempenho decai consideravelmente com o aumento da salinidade, tornando o AGMD mais favorável para o tratamento de soluções com soluções mais concentradas~\cite{Swaminathan2018}.
+A comparação entre módulos DCMD e módulos com espaçamento com permeado (PGMD)\abbrev{PGMD}{Permeate gap membrane distillation} pode apresentar valores de \textit{gain output ratio} (GOR)\abbrev{GOR}{Gain output ratio} superiores aos obtidos em módulos AGMD quando aplicados ao tratamento de soluções com baixa salinidade. Entretanto, essa diferença de desempenho decai consideravelmente com o aumento da salinidade, tornando o AGMD mais favorável para o tratamento de soluções com soluções mais concentradas~\cite{Swaminathan2018,Ali2024ModuleDesign}.
 
 \subsection{Destilação por membranas com espaçamento de ar (AGMD)}
 
-O desempenho do módulo AGMD é dependente da espessura do espaçamento de ar e sua condutividade térmica, de modo que a redução da espessura e aumento da condutividade favorecem a produção de permeado. Entretanto, o aumento da condutividade do espaçamento não deve estar atrelado ao aumento da condutividade da membrana, a qual intesifica as perdas de calor por condução. Outro ponto importante, é o cuidado quanto a redução excessiva do espaçamento, o que pode transformar o módulo AGMD em PGMD, em função do possível acúmulo de permeado entre a membrana e a superfície de condensação~\cite{Swaminathan2018}. 
+Na destilação por membrana com espaçamento de ar, fig.\ref{fig:esquema_agmd}, a membrana não fica em contato com o fluido de resfriamento, apenas com o de alimentação. Neste módulo o fluxo de vapor d'água atravessa a membrana e o espaçamento de ar, condensando em contato com a superfície de resfriamento. 
 
-Além das condições operacionais e da configuração do módulo, a hidrofobicidade da membrana é fundamental para a estabilidade do processo. Caso a membrana tenha uma redução de sua hidrofobicidade, ocorre o fenômeno de molhamento dos poros, de modo parcial ou completo, comprometendo a seletividade da membrana e reduzindo a qualidade do permeado~\cite{Yao2020WettabilityMD, AbdelKarim2021}.
+Para realizar o balanço de energia é necessário calcular a quantidade de calor transferida entre a superfície da membrana até o filme condensado, eq. \ref{eq: memb para film}, entre o filme de condensado e a superfície de resfriamento, eq. \ref{eq: film para placa}, através da superfície de resfriamento, eq. \ref{eq: atrav placa} e no fluido de resfriamento, eq. \ref{eq: atrav resf}.
 
+As temperaturas na superfície da membrana no lado da alimentação e do filme condensado são obtidas através das equações \ref{eq: temp sup alim} e \ref{eq: temp film}, respectivamente \cite{Olatunji2018MDModeling}. O simbolo $\delta$ representa  a espessura do espaçamento de ar, $k_g$ a condutividade térmica no gás, $h_{cd}$ o coeficiente de transferência de calor no condensado, $k_c$ a condutividade térmica na superfície de resfriamento, $\delta_c$ a espessura da superfície de resfriamento, $T_{p1}$ e $T_{p2}$ temperaturas da placa no lado do condensado e no lado do fluido de resfriamento.
+
+
+O desempenho do módulo AGMD é dependente da espessura do espaçamento de ar e sua condutividade térmica, de modo que a redução da espessura e aumento da condutividade favorecem a produção de permeado. Entretanto, o aumento da condutividade do espaçamento não deve estar atrelado ao aumento da condutividade da membrana, a qual intesifica as perdas de calor por condução~\cite{Swaminathan2018}. 
+
+Outro ponto importante, é o cuidado quanto a redução excessiva do espaçamento, o que pode transformar o módulo AGMD em PGMD, em função do possível acúmulo de permeado entre a membrana e a superfície de condensação~\cite{Swaminathan2018}. 
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[
+        width=\textwidth,
+        height=0.5\textheight,
+        keepaspectratio
+    ]{Esquema agmd.png}
+    \caption{Diagrama do módulo de destilação por membranas AGMD}
+    \label{fig:esquema_agmd}
+\end{figure}
+
+\begin{subequations}
+\label{eq: transferencia calor agmd}
+\begin{minipage}{0.43\textwidth}
+    \begin{equation}
+        Q_{ag} = \dfrac{k_g}{\delta}
+        \left( T_{rm} - T_{f} \right)
+        + J \Delta H_v
+        \label{eq: memb para film}
+    \end{equation}
+\end{minipage}%
+\hfill
+\begin{minipage}{0.43\textwidth}
+    \begin{equation}
+        Q_{f} = h_{f} (T_{f} - T_{p1})
+        \label{eq: film para placa}
+    \end{equation}
+\end{minipage}
+\end{subequations}
+
+\vspace{3pt}
+
+\begin{subequations}
+\label{eq: transferencia calor agmd}
+\begin{minipage}{0.43\textwidth}
+    \begin{equation}
+        Q_{cp} = \dfrac{k_c}{\delta_c} (T_{p1} - T_{p2})
+        \label{eq: atrav placa}
+    \end{equation}
+\end{minipage}%
+\hfill
+\begin{minipage}{0.43\textwidth}
+    \begin{equation}
+        Q_{r} = h_{r} (T_{p2} - T_{cf})
+        \label{eq: atrav resf}
+    \end{equation} 
+\end{minipage}
+\end{subequations}
+
+\vspace{3pt}
+
+\begin{equation}
+    \centering
+    T_{am} = T_{a} - \dfrac{(T_{a} - T_{cf}) + J \Delta H_v \left( h_m + \tfrac{\delta}{k_g} \right)}
+    {h_f \left( h_m + \tfrac{\delta}{k_g} + \tfrac{1}{h_p} + \tfrac{1}{h_f} \right)}
+    \label{eq: temp sup alim}
+\end{equation}
+
+\vspace{3pt}
+
+\begin{equation}
+    \centering
+     T_{f} = T_{r} + \dfrac{(T_{a} - T_{r}) + J \Delta H_v \left( h_m + \tfrac{\delta}{k_g} \right)}
+     {h_p \left( h_m + \tfrac{\delta}{k_g} + \tfrac{1}{h_p} + \tfrac{1}{h_f} \right)}
+    \label{eq: temp film}
+\end{equation} 
 
 \section{Membranas para destilação por membranas}
 
-Observou-se durante o processo de revisão bibliográfica o uso de diferentes estratégias para a obtenção de superfícies super-hidrofóbicas, como o uso de nanopartículas de sílica ou carbono, poduzindo superfícies com rugosidade multinível, apresentando propriedades hidrofóbicas e oleofóbicas~\cite{Laqbaqbi2017,Gong2019}. 
+%As membranas utilizadas em módulos de destilação por membrana devem apresentar como característica hidrofobicidade, elevada porosidade (80-85\%), baixa espessura, baixa tortuosidade e resistência química aos contaminantes da solução a ser tratada.
+
+As membranas empregadas em processos de destilação por membranas devem apresentar características que favoreçam o transporte de vapor e, simultaneamente, impeçam a penetração da fase líquida em seus poros. 
+
+Entre as propriedades desejáveis, destacam-se a elevada hidrofobicidade, a alta porosidade, a baixa espessura, a reduzida tortuosidade e a resistência química aos compostos presentes na solução de alimentação. Também é desejável que a membrana apresente diâmetros de poro entre 0,1 e 0,6~$\mu m$ e uma distribuição de poro estreita~\cite{Yeszhanov2021,mulder1996,habert_psm,Parani2021}.
+
+A combinação dessas características influencia diretamente a permeabilidade ao vapor, a resistência à transferência de calor e a suscetibilidade ao molhamento, sendo determinante para o desempenho e a estabilidade operacional do processo~\cite{mulder1996,habert_psm,Parani2021}.
+
+As membranas microporosas podem ser classificadas de acordo com sua estrutura morfológica e composição. Quanto à morfologia, distinguem-se membranas simétricas, caracterizadas por uma estrutura relativamente uniforme ao longo de sua espessura, e assimétricas, que apresentam variações estruturais entre suas camadas~\cite{mulder1996,habert_psm,Parani2021}.
+
+O uso de diferentes materiais na estrutura da membrana tem o objetivo de proporcionar maior resistência mecânica, enquanto as características da camada ativa influenciam o transporte de vapor e a resistência à penetração da fase líquida~\cite{mulder1996,habert_psm,Parani2021}. 
+
+Além das características estruturais, as propriedades superficiais das membranas exercem influência significativa sobre sua interação com a solução de alimentação. Nesse contexto, diferentes estratégias de modificação superficial têm sido investigadas com o objetivo de aumentar a hidrofobicidade e reduzir a adesão de contaminantes~\cite{mulder1996,habert_psm,Parani2021}.
+
+Entre essas estratégias, destaca-se a incorporação de nanopartículas de sílica ou carbono, capazes de promover a formação de estruturas com rugosidade hierárquica e modificar as propriedades de molhabilidade da superfície~\cite{Laqbaqbi2017,Gong2019}. 
+
+Quanto a hidrofobicidade, as membranas podem ser classificadas de acordo com suas características de molhabilidade, em hidrofóbicas e super-hidrofóbicas, com ângulos de contato superiores a 90~$^\circ$, 150~$^\circ$ respectivamente~\cite{Khan2025Fluoropolymer,Yeszhanov2021}. 
+
+Outra configuração corresponde às membranas Janus, caracterizadas pela presença de superfícies com propriedades de molhabilidade distintas, geralmente uma face hidrofóbica e outra hidrofílica~\cite{Yeszhanov2021,Khan2025Fluoropolymer}. 
+
+Por fim, as membranas omnifóbicas são desenvolvidas para resistir ao molhamento tanto por líquidos polares quanto por líquidos de baixa tensão superficial, incluindo óleos, solventes orgânicos e soluções contendo surfactantes~\cite{Prasanna2023Omniphobic,Khan2025Fluoropolymer}.
+
+
+%As membranas microporosas podem ser divididas em simétricas ou assimétricas, constituidas por um ou mais de um material. Em membranas simétricas, a seção transversal é constituida de um único material, enquanto para as assimétricas a seção é constituida por uma camada hidrofóbica em conjunto com um suporte~\cite{mulder1996,habert_psm,Parani2021}.  
+
+%As membranas podem ser caracterizadas em função de sua morfologia, podendo ser simétricas ou assimétricas, podendo ser simples,apresentando um único material, ou composta, fabricada com mais de um material .
+
+%Durante o processo de fabricação aplicam-se diferentes estratégias para a obtenção de superfícies super-hidrofóbicas, como o uso de nanopartículas de sílica ou carbono, poduzindo superfícies com rugosidade multinível, apresentando propriedades hidrofóbicas e oleofóbicas~\cite{Laqbaqbi2017,Gong2019}. 
+
+
+\subsection{Técnicas de caracterização}
 
 Considerando que os processos de deposição e limpeza podem modificar permanentemente as propriedades superficiais e estruturais das membranas, a caracterização da membrana, antes e após o uso, é uma etapa crucial para indentificar se a membrana escolhida possui as caracteristicas necessária para o processo e para compreender o impacto dos contaminantes presentes na água a ser tratada~\cite{Laqbaqbi2017}.
 
-\subsection{Técnicas de caracterização}
+
+-Porosimetria de fluxo capilar
+
+-Pressão de entrada de líquido
+
+-Goniometro de ângulo de contato
+
+-Microscopia (varredura e força atômica)
 
 Nesse sentido, membranas com ângulo de contato superior a 150° são classificadas como super-hidrofóbicas e podem ser obtidas por meio do aumento da rugosidade superficial, da criação de estruturas hierárquicas ou da redução da tensão superficial do material~\cite{Yao2020WettabilityMD}. 
 
@@ -175,6 +302,8 @@ A suscetibilidade ao molhamento depende da interação entre as propriedades sup
 A molhabilidade da superfície pode ser interpretada pelos modelos de Young, Wenzel e Cassie-Baxter, os quais dieferem quanto a interação líquido-superfície~\cite{Yao2020WettabilityMD}. Em particular o modelo de Cassie-Baxter associa o aprisionamento de ar entre o líquido e a superfície com a obtenção de super-hidrofobicidade e ominiofobicidade. Para estas superfícies, a combinação entre elevada rugosidade e baixa tensão superficial propicia elevados ângulos de contato e baixos ângulos de inclinação~\cite{Yao2020WettabilityMD}.
 
 Dentre estas técnicas, os processos oxidativos avançados destacam-se pela capacidade de remoção de surfactantes, reduzindo a propenção ao molhamento causada pela presença destes compostos~\cite{AbdelKarim2021}. O uso de pré-filtração favorece a remoção ou cristalização de contaminantes antes da chegada ao módulo, reduzindo a incidência de deposição de contaminantes na superfície da membrana~\cite{AbdelKarim2021}.
+
+Além das condições operacionais e da configuração do módulo, a hidrofobicidade da membrana é fundamental para a estabilidade do processo. Caso a membrana tenha uma redução de sua hidrofobicidade, ocorre o fenômeno de molhamento dos poros, de modo parcial ou completo, comprometendo a seletividade da membrana e reduzindo a qualidade do permeado~\cite{Yao2020WettabilityMD, AbdelKarim2021}.
 
 \section{Fouling e scaling em destilação por membranas}
 

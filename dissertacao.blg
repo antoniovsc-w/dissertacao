@@ -9,6 +9,10 @@ Reallocating 'name_of_file' (item size: 1) to 12 items.
 The style file: coppe-unsrt.bst
 Reallocating 'name_of_file' (item size: 1) to 24 items.
 Database file #1: Bibliography/references.bib
+You're missing a field name---line 2089 of file Bibliography/references.bib
+ :   year      = {2006},            
+ :                                  % Se a sua edição for outra, ajuste ano/editora
+I'm skipping whatever remains of this entry
 Warning--empty address in Liang2018ProducedWater
 `address' is a missing field, not a string, for entry Devold2013
 while executing---line 1327 of file coppe-unsrt.bst
@@ -16,45 +20,45 @@ Warning--can't use both volume and number fields in Hoek2021
 `address' is a missing field, not a string, for entry Hoek2021
 while executing---line 1327 of file coppe-unsrt.bst
 Warning--empty publisher in Hoek2021
-You've used 73 entries,
+You've used 84 entries,
             2630 wiz_defined-function locations,
-            1139 strings with 24902 characters,
-and the built_in function-call counts, 32597 in all, are:
-= -- 2780
-> -- 1567
-< -- 50
-+ -- 666
-- -- 515
-* -- 3329
-:= -- 5136
-add.period$ -- 371
-call.type$ -- 73
-change.case$ -- 76
-chr.to.int$ -- 68
-cite$ -- 76
-duplicate$ -- 1713
-empty$ -- 2996
-format.name$ -- 599
-if$ -- 6775
+            1225 strings with 27822 characters,
+and the built_in function-call counts, 37776 in all, are:
+= -- 3235
+> -- 1819
+< -- 59
++ -- 771
+- -- 598
+* -- 3837
+:= -- 5948
+add.period$ -- 432
+call.type$ -- 84
+change.case$ -- 88
+chr.to.int$ -- 79
+cite$ -- 87
+duplicate$ -- 2002
+empty$ -- 3445
+format.name$ -- 697
+if$ -- 7874
 int.to.chr$ -- 6
-int.to.str$ -- 74
-missing$ -- 67
-newline$ -- 457
-num.names$ -- 221
-pop$ -- 503
+int.to.str$ -- 85
+missing$ -- 80
+newline$ -- 531
+num.names$ -- 254
+pop$ -- 572
 preamble$ -- 1
-purify$ -- 73
+purify$ -- 84
 quote$ -- 0
-skip$ -- 753
+skip$ -- 900
 stack$ -- 0
-substring$ -- 1213
-swap$ -- 518
-text.length$ -- 28
+substring$ -- 1369
+swap$ -- 618
+text.length$ -- 34
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 499
+type$ -- 570
 warning$ -- 3
-while$ -- 223
+while$ -- 256
 width$ -- 0
-write$ -- 1168
-(There were 2 error messages)
+write$ -- 1358
+(There were 3 error messages)

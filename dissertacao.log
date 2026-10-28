@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.10.19)  27 OCT 2026 11:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.10.19)  28 OCT 2026 16:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -697,14 +697,17 @@ Package babel Info: 'brazil' activates 'portuges' shorthands.
 (babel)             Reported on input line 8.
 
 (Chapters/000AcknowledgmentAndAbstract/00Acknowledgment.aux)
-(Chapters/000AcknowledgmentAndAbstract/01Abstract.aux))
+(Chapters/000AcknowledgmentAndAbstract/01Abstract.aux)
+
+LaTeX Warning: Label `eq: transferencia calor agmd' multiply defined.
+
+)
 \openout1 = `dissertacao.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 40.
 LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line
  40.
-
-(C:\Program Files\MiKTeX\tex/latex/newtx\omlntxmi.fd
+ (C:\Program Files\MiKTeX\tex/latex/newtx\omlntxmi.fd
 File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
 )
 LaTeX Font Info:    ... okay on input line 40.
@@ -992,7 +995,7 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 ] [2] [3{C:/Program Files/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.enc}])
 (Chapters/002Revision/Revision.tex [4]
 Cap\'{\i }tulo 2.
-<graficopublicacoes.png, id=443, 491.436pt x 289.68225pt>
+<graficopublicacoes.png, id=445, 491.436pt x 289.68225pt>
 File: graficopublicacoes.png Graphic file (type png)
 <use graficopublicacoes.png>
 Package pdftex.def Info: graficopublicacoes.png  used on input line 12.
@@ -1017,28 +1020,40 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 6.6pt on input line 112.
  [8]
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 14.4pt on input line 137.
+(Font)              scaled to size 14.4pt on input line 136.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 14.4pt on input line 137.
+(Font)              scaled to size 14.4pt on input line 136.
 
-[9] [10] [11] [12] [13] [14] [15]
+[9] [10]
+<Esquema agmd.png, id=580, 1379.1525pt x 1149.29375pt>
+File: Esquema agmd.png Graphic file (type png)
+<use Esquema agmd.png>
+Package pdftex.def Info: Esquema agmd.png  used on input line 186.
+(pdftex.def)             Requested size: 421.66154pt x 351.38461pt.
+ [11] [12
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.2}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.254 
+       <./Esquema agmd.png (PNG copy)>] [13] [14] [15] [16] [17] [18]
 LaTeX Info: Symbol \textmu not provided by
             font family ntxtlf in TS1 encoding.
-            Default family used instead on input line 251.
- [16] [17] [18])
-(Chapters/003Methodology/Methodology.tex [19]
+            Default family used instead on input line 379.
+ [19]
+[20]) (Chapters/003Methodology/Methodology.tex [21] [22]
 Cap\'{\i }tulo 3.
-<bancadaevistaexplodida.png, id=703, 1149.29375pt x 605.26125pt>
+<bancadaevistaexplodida.png, id=787, 1149.29375pt x 605.26125pt>
 File: bancadaevistaexplodida.png Graphic file (type png)
 <use bancadaevistaexplodida.png>
 Package pdftex.def Info: bancadaevistaexplodida.png  used on input line 12.
 (pdftex.def)             Requested size: 426.7928pt x 224.7651pt.
-<diagramabancada.png, id=710, 1310.8975pt x 1208.515pt>
+<diagramabancada.png, id=794, 1310.8975pt x 1208.515pt>
 File: diagramabancada.png Graphic file (type png)
 <use diagramabancada.png>
 Package pdftex.def Info: diagramabancada.png  used on input line 38.
 (pdftex.def)             Requested size: 339.48514pt x 312.97098pt.
-[20
+[23
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{table.3.1}) h
@@ -1048,10 +1063,10 @@ as been already used, duplicate ignored
 l.42 
      ]
 
-LaTeX Warning: Reference `fig:vistaexplodida' on page 21 undefined on input lin
+LaTeX Warning: Reference `fig:vistaexplodida' on page 24 undefined on input lin
 e 43.
 
-[21
+[24
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -1064,13 +1079,13 @@ has been already used, duplicate ignored
                                                   \__shipout_drop_firstpage_...
 l.44 
       <./bancadaevistaexplodida.png> <./diagramabancada.png (PNG copy)>]
-<modulomontado.jpeg, id=726, 960.58875pt x 720.44156pt>
+<modulomontado.jpeg, id=809, 960.58875pt x 720.44156pt>
 File: modulomontado.jpeg Graphic file (type jpg)
 <use modulomontado.jpeg>
 Package pdftex.def Info: modulomontado.jpeg  used on input line 48.
 (pdftex.def)             Requested size: 227.61453pt x 170.71089pt.
 
-[22
+[25
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3.3}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -1083,69 +1098,69 @@ as been already used, duplicate ignored
                                                   \__shipout_drop_firstpage_...
 l.91 
       <./modulomontado.jpeg>]
-<Porolux.jpeg, id=733, 462.97969pt x 694.09312pt>
+<Porolux.jpeg, id=816, 462.97969pt x 694.09312pt>
 File: Porolux.jpeg Graphic file (type jpg)
 <use Porolux.jpeg>
 Package pdftex.def Info: Porolux.jpeg  used on input line 98.
 (pdftex.def)             Requested size: 132.84776pt x 199.16365pt.
- [23
+ [26
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3.4}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.110 
        <./Porolux.jpeg>]
-<exemplocurvasporometer.png, id=741, 651.93562pt x 310.15875pt>
+<exemplocurvasporometer.png, id=825, 651.93562pt x 310.15875pt>
 File: exemplocurvasporometer.png Graphic file (type png)
 <use exemplocurvasporometer.png>
 Package pdftex.def Info: exemplocurvasporometer.png  used on input line 113.
 (pdftex.def)             Requested size: 299.02856pt x 142.26302pt.
-<hirox.png, id=742, 455.45157pt x 190.46156pt>
+<hirox.png, id=826, 455.45157pt x 190.46156pt>
 File: hirox.png Graphic file (type png)
 <use hirox.png>
 Package pdftex.def Info: hirox.png  used on input line 124.
 (pdftex.def)             Requested size: 340.20486pt x 142.26746pt.
- [24
+ [27
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3.5}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.139 
+l.141 
       
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3.6}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.139 
+l.141 
        <./exemplocurvasporometer.png> <./hirox.png>]
-<campodelapa.png, id=754, 1129.21875pt x 565.11125pt>
+<campodelapa.png, id=837, 1129.21875pt x 565.11125pt>
 File: campodelapa.png Graphic file (type png)
 <use campodelapa.png>
 Package pdftex.def Info: campodelapa.png  used on input line 161.
 (pdftex.def)             Requested size: 312.69855pt x 156.48824pt.
- [25
+ [28
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3.7}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.214 
-       <./campodelapa.png>] [26
+       <./campodelapa.png>] [29
 pdfTeX warning (ext4): destination with the same identifier (name{table.3.3}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.256 
-      ]) (Chapters/004Results/Results.tex [27] [28]
+      ]) (Chapters/004Results/Results.tex [30] [31]
 Cap\'{\i }tulo 4.
-[29
+[32
 
 ]
-<resultadohirox.png, id=796, 1450.41875pt x 1093.08376pt>
+<resultadohirox.png, id=878, 1450.41875pt x 1093.08376pt>
 File: resultadohirox.png Graphic file (type png)
 <use resultadohirox.png>
 Package pdftex.def Info: resultadohirox.png  used on input line 101.
 (pdftex.def)             Requested size: 426.78539pt x 246.28969pt.
- [30
+ [33
 pdfTeX warning (ext4): destination with the same identifier (name{table.4.1}) h
 as been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -1160,42 +1175,42 @@ has been already used, duplicate ignored
 l.111 N
        estes experimentos, observou-se que as membranas M4 e M6 apresentaram...
  <./resultadohirox.png (PNG copy)>]
-<fluxoeijr.png, id=801, 987.69pt x 345.54094pt>
+<fluxoeijr.png, id=883, 987.69pt x 345.54094pt>
 File: fluxoeijr.png Graphic file (type png)
 <use fluxoeijr.png>
 Package pdftex.def Info: fluxoeijr.png  used on input line 121.
 (pdftex.def)             Requested size: 426.77821pt x 137.01295pt.
-<radares.png, id=805, 1408.26125pt x 746.79pt>
+<radares.png, id=887, 1408.26125pt x 746.79pt>
 File: radares.png Graphic file (type png)
 <use radares.png>
 Package pdftex.def Info: radares.png  used on input line 130.
 (pdftex.def)             Requested size: 426.7793pt x 226.31773pt.
- [31
+ [34
 pdfTeX warning (ext4): destination with the same identifier (name{figure.4.2}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.134 
        <./fluxoeijr.png>]
-<fluxodepermeadoM2.png, id=813, 982.42032pt x 551.05875pt>
+<fluxodepermeadoM2.png, id=895, 982.42032pt x 551.05875pt>
 File: fluxodepermeadoM2.png Graphic file (type png)
 <use fluxodepermeadoM2.png>
 Package pdftex.def Info: fluxodepermeadoM2.png  used on input line 150.
 (pdftex.def)             Requested size: 426.79475pt x 239.39749pt.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 10.95pt on input line 152.
-<condutividadeM2.png, id=814, 980.91469pt x 549.55313pt>
+<condutividadeM2.png, id=896, 980.91469pt x 549.55313pt>
 File: condutividadeM2.png Graphic file (type png)
 <use condutividadeM2.png>
 Package pdftex.def Info: condutividadeM2.png  used on input line 157.
 (pdftex.def)             Requested size: 426.78426pt x 239.10399pt.
- [32
+ [35
 pdfTeX warning (ext4): destination with the same identifier (name{figure.4.3}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.165 
-       <./radares.png>]) (Chapters/005Conclusion/Conclusion.tex [33
+       <./radares.png>]) (Chapters/005Conclusion/Conclusion.tex [36
 pdfTeX warning (ext4): destination with the same identifier (name{figure.4.4}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -1203,14 +1218,14 @@ has been already used, duplicate ignored
 l.1 \chapter
             {CONCLUSÃ•ES} <./fluxodepermeadoM2.png> <./condutividadeM2.png>]
 Cap\'{\i }tulo 5.
-<cronograma.png, id=828, 1113.40968pt x 414.79968pt>
+<cronograma.png, id=909, 1113.40968pt x 414.79968pt>
 File: cronograma.png Graphic file (type png)
 <use cronograma.png>
 Package pdftex.def Info: cronograma.png  used on input line 25.
 (pdftex.def)             Requested size: 702.78308pt x 261.8252pt.
-) (Chapters/Trabalhos futuros/Trabalhos_futuros.tex [34
+) (Chapters/Trabalhos futuros/Trabalhos_futuros.tex [37
 
-] [35
+] [38
 pdfTeX warning (ext4): destination with the same identifier (name{figure.5.1}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -1218,7 +1233,7 @@ has been already used, duplicate ignored
 l.1 \chapter
             {TRABALHOS FUTUROS} <./cronograma.png>]
 Cap\'{\i }tulo 6.
-) [36
+) [39
 
 ] (dissertacao.bbl
 LaTeX Font Info:    Trying to load font information for T1+ntxtt on input line 
@@ -1229,10 +1244,10 @@ File: t1ntxtt.fd 2012/04/20 v3.1
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
 (Font)              scaled to size 12.0pt on input line 18.
 
-[37
+[40
 
 
-] [38] [39] [40]
+] [41] [42] [43]
 Underfull \hbox (badness 1803) in paragraph at lines 352--358
 []\T1/ntxtlf/m/n/12 DEVOLD, H.  \T1/ntxtlf/m/it/12 Oil and Gas Pro-duc-tion Han
 d-book\T1/ntxtlf/m/n/12 .  ABB Oil and
@@ -1250,48 +1265,48 @@ Underfull \hbox (badness 10000) in paragraph at lines 352--358
 duction %
  []
 
-[41] [42] [43]
-Underfull \hbox (badness 5431) in paragraph at lines 683--690
+[44] [45] [46] [47] [48]
+Underfull \hbox (badness 5431) in paragraph at lines 797--804
 []\T1/ntxtlf/m/n/12 DIGIMED.  ``Con-du-ti-vi-dade, re-sis-ti-vi-dade e con-cen-
 tra-ção -- ca-tá-logo
  []
 
 
-Underfull \hbox (badness 1735) in paragraph at lines 683--690
+Underfull \hbox (badness 1735) in paragraph at lines 797--804
 \T1/ntxtlf/m/n/12 de ana-li-sa-dor de con-du-ti-vi-dade''. 2025.  Dis-po-ní-vel
  em: <[]$\T1/ntxtt/m/n/12 https :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 683--690
+Underfull \hbox (badness 10000) in paragraph at lines 797--804
 \T1/ntxtt/m/n/12 / / www . digimed . ind . br / assets / downloads / produtos /
  catalogos /
  []
 
 
-Overfull \hbox (87.67465pt too wide) in paragraph at lines 683--690
+Overfull \hbox (87.67465pt too wide) in paragraph at lines 797--804
 \T1/ntxtt/m/n/12 digimed-[]catalogo-[]analisador-[]condutividade-[]resistividad
 e-[]concentracao-[]tc-[]4004 .
  []
 
-[44]
-Underfull \hbox (badness 5077) in paragraph at lines 702--708
+
+Underfull \hbox (badness 5077) in paragraph at lines 816--822
 []\T1/ntxtlf/m/n/12 BÜRKERT FLUID CON-TROL SYS-TEMS.  ``Flow me-ter''. 2025.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 702--708
+Underfull \hbox (badness 10000) in paragraph at lines 816--822
 \T1/ntxtlf/m/n/12 Dis-po-ní-vel em: <[]$\T1/ntxtt/m/n/12 https : / / www . burk
 ert . com / en / products /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 738--749
+Underfull \hbox (badness 10000) in paragraph at lines 852--863
 \T1/ntxtt/m/n/12 publicacoes / documentos-[]tecnicos-[]em-[]metrologia / gum _ 
 final . pdf$[]\T1/ntxtlf/m/n/12 >.
  []
 
-) [45] 
+) [49] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (dissertacao.aux (Chapters/000AcknowledgmentAndAbstract/00Acknowledgment.aux)
 (Chapters/000AcknowledgmentAndAbstract/01Abstract.aux))
@@ -1303,29 +1318,32 @@ L3 programming layer <2020/03/25>
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `dissertacao.out' has not changed.
 (rerunfilecheck)             Checksum: 142D48E0609D0714565F3F9195B676B3;9710.
  ) 
 Here is how much of TeX's memory you used:
- 17667 strings out of 467392
- 277951 string characters out of 5415723
- 739186 words of memory out of 5000000
- 46440 multiletter control sequences out of 15000+600000
- 683267 words of font info for 97 fonts, out of 8000000 for 9000
+ 17739 strings out of 467392
+ 279250 string characters out of 5415723
+ 740826 words of memory out of 5000000
+ 46485 multiletter control sequences out of 15000+600000
+ 684071 words of font info for 99 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 74i,11n,79p,1887b,730s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 74i,10n,79p,1887b,748s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Administrador\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
 600\tcrm1200.pk><C:/Program Files/MiKTeX/fonts/type1/public/newtx/NewTXMI.pfb><
-C:/Program Files/MiKTeX/fonts/type1/public/tex-gyre/qtmr.pfb><C:/Program Files/
-MiKTeX/fonts/type1/public/txfonts/t1xtt.pfb><C:/Program Files/MiKTeX/fonts/type
-1/public/newtx/txexs.pfb><C:/Program Files/MiKTeX/fonts/type1/public/newtx/txmi
-aX.pfb><C:/Program Files/MiKTeX/fonts/type1/public/newtx/txsys.pfb><C:/Program 
-Files/MiKTeX/fonts/type1/public/newtx/ztmb.pfb><C:/Program Files/MiKTeX/fonts/t
-ype1/public/newtx/ztmr.pfb><C:/Program Files/MiKTeX/fonts/type1/public/newtx/zt
-mri.pfb>
-Output written on dissertacao.pdf (56 pages, 7428586 bytes).
+C:/Program Files/MiKTeX/fonts/type1/public/newtx/NewTXMI7.pfb><C:/Program Files
+/MiKTeX/fonts/type1/public/tex-gyre/qtmr.pfb><C:/Program Files/MiKTeX/fonts/typ
+e1/public/txfonts/t1xtt.pfb><C:/Program Files/MiKTeX/fonts/type1/public/newtx/t
+xexs.pfb><C:/Program Files/MiKTeX/fonts/type1/public/newtx/txmiaX.pfb><C:/Progr
+am Files/MiKTeX/fonts/type1/public/newtx/txsys.pfb><C:/Program Files/MiKTeX/fon
+ts/type1/public/newtx/ztmb.pfb><C:/Program Files/MiKTeX/fonts/type1/public/newt
+x/ztmr.pfb><C:/Program Files/MiKTeX/fonts/type1/public/newtx/ztmri.pfb>
+Output written on dissertacao.pdf (60 pages, 9083483 bytes).
 PDF statistics:
- 1095 PDF objects out of 1200 (max. 8388607)
- 205 named destinations out of 1000 (max. 500000)
- 442 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1205 PDF objects out of 1440 (max. 8388607)
+ 230 named destinations out of 1000 (max. 500000)
+ 447 words of extra memory for PDF output out of 10000 (max. 10000000)
 
