@@ -300,18 +300,104 @@ Adicionalmente, a caracterização química dos depósitos pode ser realizada po
 
 \section{Molhamento de membranas}
 
-A suscetibilidade ao molhamento depende da interação entre as propriedades superficiais da membrana, as condições hidrodinâmicas e a composição da água a ser tratada~\cite{Yao2020WettabilityMD}. Quanto a membrana, destacam-se rugosidade, molhabilidade, tensão superficial, tamanho dos poros, carga superficial. Para o escoamento, temos como principais fatores a velocidade, temperatura, direção do fluxo e gradiente de pressão~\cite{Yao2020WettabilityMD}. Para a composição da água é possível destacar a concentração e natureza dos contaminantes, difusivade e pH~\cite{Yao2020WettabilityMD}.
+O molhamento (\textit{wetting}) de membranas é caracterizado pela penetração da fase líquida nos poros da membrana, comprometendo a seletividade do processo e reduzindo o fluxo de permeado. A suscetibilidade a esse fenômeno depende da interação entre as propriedades morfológicas e superficiais da membrana, as condições hidrodinâmicas e as características físico-químicas da solução de alimentação~\cite{Yao2020WettabilityMD, Yang2021Antiwetting}.
 
-A molhabilidade da superfície pode ser interpretada pelos modelos de Young, Wenzel e Cassie-Baxter, os quais dieferem quanto a interação líquido-superfície~\cite{Yao2020WettabilityMD}. Em particular o modelo de Cassie-Baxter associa o aprisionamento de ar entre o líquido e a superfície com a obtenção de super-hidrofobicidade e ominiofobicidade. Para estas superfícies, a combinação entre elevada rugosidade e baixa tensão superficial propicia elevados ângulos de contato e baixos ângulos de inclinação~\cite{Yao2020WettabilityMD}.
+Entre as propriedades da membrana, destacam-se o tamanho dos poros, a rugosidade, a molhabilidade e a carga superficial. As condições hidrodinâmicas incluem a velocidade e a direção do escoamento, a temperatura e os gradientes de pressão, enquanto as características da alimentação abrangem a concentração e a natureza dos contaminantes, a tensão superficial, o pH e a composição iônica da solução~\cite{Yao2020WettabilityMD}. 
 
-Dentre estas técnicas, os processos oxidativos avançados destacam-se pela capacidade de remoção de surfactantes, reduzindo a propenção ao molhamento causada pela presença destes compostos~\cite{AbdelKarim2021}. O uso de pré-filtração favorece a remoção ou cristalização de contaminantes antes da chegada ao módulo, reduzindo a incidência de deposição de contaminantes na superfície da membrana~\cite{AbdelKarim2021}.
+A molhabilidade de uma superfície pode ser caracterizada pelo ângulo de contato formado entre a interface líquido-vapor e a superfície sólida. O modelo de Young descreve o equilíbrio entre as tensões interfaciais para uma superfície idealmente lisa, homogênea e rígida~\cite{Yao2020WettabilityMD,Samadi2023Antiwetting}. 
 
-Além das condições operacionais e da configuração do módulo, a hidrofobicidade da membrana é fundamental para a estabilidade do processo. Caso a membrana tenha uma redução de sua hidrofobicidade, ocorre o fenômeno de molhamento dos poros, de modo parcial ou completo, comprometendo a seletividade da membrana e reduzindo a qualidade do permeado~\cite{Yao2020WettabilityMD, AbdelKarim2021}.
+Entretanto, membranas microporosas apresentam irregularidades superficiais que modificam a interação entre o líquido e o material, tornando necessária a utilização dos modelos de Wenzel e Cassie - Baxter para descrever os diferentes estados de molhamento~\cite{Yao2020WettabilityMD,,Samadi2023Antiwetting}.
+
+O modelo de Wenzel representa um estado de molhamento homogêneo, no qual o líquido acompanha as irregularidades da superfície, enquanto o modelo de Cassie - Baxter descreve um estado heterogêneo, caracterizado pelo aprisionamento de ar nas irregularidades superficiais, reduzindo o quanto da superfície de fato está em contato com o líquido. Nesse estado, a presença de ar contribui para a sustentação da interface líquido-vapor e pode favorecer a resistência à penetração do líquido na estrutura porosa~\cite{Yao2020WettabilityMD,Samadi2023Antiwetting}.
+
+A rugosidade superficial intensifica o caráter hidrofóbico ou hidrofílico de uma superfície, dependendo de sua molhabilidade intrínseca. Em superfícies hidrofóbicas, a combinação entre rugosidade e aprisionamento de ar pode proporcionar elevados ângulos de contato aparentes, favorecendo a formação de estados super-hidrofóbicos~\cite{Yao2020WettabilityMD,Samadi2023Antiwetting}.
+
+Entretanto, a rugosidade, isoladamente, não garante maior resistência ao molhamento, uma vez que seu efeito depende da geometria das irregularidades e das propriedades químicas da superfície. Nesse contexto, estruturas hierárquicas e reentrantes podem favorecer a manutenção de interfaces líquido-vapor estáveis, inclusive na presença de líquidos com baixa tensão superficial~\cite{Yao2020WettabilityMD,Samadi2023Antiwetting,Zhang2023Antiwetting}.
+
+A Figura~\ref{fig:diagrama de kao_rev} apresenta o diagrama de Kao, que relaciona o cosseno do ângulo de contato de Young, associado à molhabilidade intrínseca do material, ao cosseno do ângulo de contato aparente sobre uma superfície rugosa, onde $\theta_r$ representa o ângulo de contato aparente e $\theta_s$ o ângulo de contato de Young, o qual é obtido através da tensão superficial do fluido~\cite{Yao2020WettabilityMD,Samadi2023Antiwetting}.
+
+\begin{figure}
+    \centering
+    \includegraphics[
+        width=\textwidth,
+        height=0.35\textheight,
+        keepaspectratio
+    ]{Diagrama de kao_rev.png}
+    \caption[Diagrama de Kao com rugosidade fixa, ilustrando a relação entre a tensão superficial e os regimes de molhamento.]{Diagrama de Kao com rugosidade fixa, ilustrando a relação entre a tensão superficial e os regimes de molhamento. Adaptado de~\cite{Yao2020WettabilityMD}.}
+    \label{fig:diagrama de kao_rev}
+\end{figure}
+
+O diagrama evidencia que, para determinada rugosidade, alterações nas propriedades interfaciais podem produzir variações amplificadas no ângulo de contato aparente, particularmente na região de transição entre os estados de Cassie - Baxter e Wenzel~\cite{Yao2020WettabilityMD,Samadi2023Antiwetting}. 
+
+Dessa forma, modificações na composição química da alimentação podem alterar o comportamento de molhamento da membrana, mesmo quando suas características morfológicas permanecem constantes~\cite{Yao2020WettabilityMD,Coolidge2024Surfactants,Yang2021Antiwetting}.
+
+Além da rugosidade, a composição química da alimentação exerce influência significativa sobre a estabilidade da interface líquido-vapor nos poros da membrana. A presença de surfactantes e determinados contaminantes orgânicos, pode favorecer o molhamento por meio de mecanismos simultâneos~\cite{Yao2020WettabilityMD,Coolidge2024Surfactants,Yang2021Antiwetting}.
+
+Os surfactantes podem reduzir a tensão superficial da solução e adsorver na superfície da membrana, modificando suas propriedades interfaciais e reduzindo o ângulo de contato. Essas alterações diminuem a resistência capilar à penetração de líquido, tornando a membrana mais suscetível ao molhamento durante a operação~\cite{Yao2020WettabilityMD,Coolidge2024Surfactants}.
+
+O molhamento dos poros pode ocorrer de maneira parcial ou completa, conforme ilustrado na Figura~\ref{fig:molhamento_rev}. No molhamento parcial, a penetração do líquido ocorre apenas em parte da estrutura porosa, reduzindo a região disponível para o transporte de vapor e podendo provocar diminuição do fluxo de permeado~\cite{Yao2020WettabilityMD}.
+
+No molhamento completo, o líquido atravessa integralmente determinados poros, estabelecendo caminhos para o transporte direto da alimentação através da membrana. Nessa condição, pode ocorrer aumento do fluxo total de permeado devido à contribuição do transporte de líquido, acompanhado de redução da rejeição de sais e comprometimento da qualidade do permeado~\cite{Yao2020WettabilityMD,Yang2021Antiwetting}.
+
+\begin{figure}
+    \centering
+    \includegraphics[
+        width=\textwidth,
+        height=0.3\textheight,
+        keepaspectratio
+    ]{molhamento_poro_rev.png}
+    \caption[Representação do molhamento de poro.]{Representação do molhamento de poro. Adaptado de~\cite{Yao2020WettabilityMD}.}
+    \label{fig:molhamento_rev}
+\end{figure}
+
+A resistência ao molhamento também está associada à natureza química da superfície da membrana. Materiais hidrofóbicos, como politetrafluoretileno (PTFE), polipropileno (PP) e fluoreto de polivinilideno (PVDF), são amplamente empregados em destilação por membranas devido à sua capacidade de restringir a penetração de água líquida~\cite{Yao2020WettabilityMD,Yang2021Antiwetting,Zhang2023Antiwetting}.
+
+Entretanto, a hidrofobicidade não garante resistência a soluções contendo compostos de baixa tensão superficial. Nesse contexto, superfícies super-hidrofóbicas e omnifóbicas têm sido investigadas como alternativas para aumentar a estabilidade operacional, sendo as últimas caracterizadas pela capacidade de repelir líquidos com diferentes polaridades e tensões superficiais~\cite{Yao2020WettabilityMD,Yang2021Antiwetting,Zhang2023Antiwetting}.
+
+Dessa forma, a resistência ao molhamento não depende exclusivamente das propriedades iniciais da membrana, mas também das alterações nas interações entre a superfície e os componentes da alimentação durante a operação~\cite{Yao2020WettabilityMD,Yang2021Antiwetting,Zhang2023Antiwetting}.
+
 
 \section{Fouling e scaling em destilação por membranas}
 
-Além do molhamento, a incrustação com matéria orgânica (fouling) e a com matéria inorgânica (scaling) prejudicam o processo, promovendo a redução gradual do fluxo de permeado através do aumento da resistência a transferência de massa e favorecendo a ocorrência de molhamento~\cite{AbdelKarim2021,Hsieh2024ScalingWetting,Du2023Antifouling}.
+Além do molhamento, a formação e o acúmulo de depósitos sobre a superfície e no interior dos poros das membranas constituem mecanismos importantes de deterioração do desempenho em processos de destilação por membranas~\cite{AbdelKarim2021,Hsieh2024ScalingWetting,Du2023Antifouling}. 
 
+Esses fenômenos, denominados \textit{fouling} e \textit{scaling}, podem aumentar a resistência à transferência de calor e massa, reduzir a área efetiva disponível para a evaporação e favorecer a penetração da fase líquida na estrutura porosa, comprometendo o fluxo e a qualidade do permeado produzido~\cite{AbdelKarim2021,Hsieh2024ScalingWetting,Du2023Antifouling}.
+
+O fouling corresponde ao acúmulo de materiais sobre a superfície ou no interior dos poros da membrana, podendo envolver compostos orgânicos, partículas coloidais e materiais biológicos. Por sua vez, o scaling está associado à precipitação e à cristalização de compostos inorgânicos pouco solúveis, formando depósitos minerais sobre a superfície da membrana~\cite{AbdelKarim2021,Hsieh2024ScalingWetting,Du2023Antifouling}. 
+
+Embora apresentem mecanismos de formação distintos, ambos os fenômenos podem ocorrer simultaneamente, especialmente no tratamento de soluções com elevada concentração e diversidade de contaminantes. A formação de depósitos orgânicos pode ocorrer por meio da adsorção de compostos presentes na alimentação e de sua acumulação progressiva sobre a superfície da membrana~\cite{AbdelKarim2021,Hsieh2024ScalingWetting,Du2023Antifouling}.
+
+Substâncias como ácidos húmicos e polissacarídeos podem formar camadas que dificultam o transporte de vapor e modificam as propriedades interfaciais do material. A intensidade desse processo depende das interações entre os contaminantes, a superfície da membrana e as condições físico-químicas da solução. Adicionalmente, a presença simultânea de diferentes espécies químicas pode modificar o comportamento de deposição~\cite{AbdelKarim2021,Hsieh2024ScalingWetting,Du2023Antifouling}.
+
+A interação entre compostos orgânicos e sais dissolvidos, como observado em soluções contendo ácido húmico e cloreto de sódio, pode favorecer a formação de depósitos e alterar os mecanismos de adsorção e dessorção na superfície da membrana. Essas alterações podem contribuir para a redução da resistência ao molhamento e, consequentemente, para o comprometimento da qualidade do permeado~\cite{AbdelKarim2021,Hsieh2024ScalingWetting,Du2023Antifouling}.
+
+O scaling, por sua vez, está diretamente relacionado às condições de supersaturação de espécies inorgânicas presentes na alimentação. Durante a destilação por membranas, a transferência de vapor promove o aumento da concentração de solutos não voláteis nas proximidades da superfície da membrana, fenômeno associado à polarização de concentração~\cite{AbdelKarim2021}.
+
+Quando a concentração local de determinadas espécies ultrapassa seu limite de solubilidade, podem ocorrer processos de nucleação e crescimento cristalino, favorecendo a formação de depósitos minerais~\cite{AbdelKarim2021}.
+
+A cristalização pode ocorrer diretamente sobre a superfície da membrana ou no volume da solução de alimentação. No primeiro caso, os cristais formam-se e crescem sobre o material, enquanto, no segundo, partículas cristalinas formadas no escoamento podem ser transportadas e posteriormente depositadas sobre a superfície~\cite{AbdelKarim2021}. 
+
+A morfologia dos cristais também influencia os mecanismos de deposição, uma vez que estruturas alongadas ou em formato de agulha podem favorecer a formação de pontos localizados de incrustação e aumentar a suscetibilidade ao molhamento~\cite{AbdelKarim2021}.
+
+A formação desses depósitos modifica as condições locais de transferência de calor e massa, podendo reduzir a área disponível para evaporação e introduzir resistências adicionais ao transporte de vapor~\cite{AbdelKarim2021}.
+
+Além disso, a presença de materiais depositados pode alterar a molhabilidade aparente da superfície, especialmente quando os depósitos apresentam características hidrofílicas. Dessa forma, o fouling e o scaling podem atuar não apenas como mecanismos de redução do fluxo de permeado, mas também como fatores que favorecem a ocorrência de molhamento~\cite{AbdelKarim2021}.
+
+Essa interação é particularmente relevante em processos de longa duração, nos quais o acúmulo progressivo de contaminantes pode modificar as características superficiais da membrana. 
+
+A prevenção desses fenômenos pode envolver a aplicação de etapas de pré-tratamento destinadas à redução da concentração de contaminantes potencialmente incrustantes. Entre as alternativas empregadas, destacam-se processos de coagulação, flotação, filtração por membranas e tratamentos oxidativos, cuja seleção depende das características da alimentação e dos contaminantes que se pretende remover.
+
+Quando ocorre a formação de depósitos, procedimentos de limpeza podem proporcionar a recuperação parcial ou total do fluxo de permeado. Entretanto, a efetividade desses procedimentos depende da natureza e da aderência dos materiais depositados. 
+
+Além disso, a utilização de agentes químicos incompatíveis com o material da membrana pode provocar alterações em suas propriedades superficiais ou comprometer sua integridade estrutural.
+
+Mesmo após a limpeza, a permanência de depósitos residuais pode favorecer novos processos de acumulação e atuar como regiões preferenciais para a penetração da fase líquida. Esse comportamento evidencia que a recuperação do fluxo de permeado não implica necessariamente o restabelecimento integral das propriedades originais da membrana ou de sua resistência ao molhamento.
+
+No tratamento de água de produção, a presença simultânea de compostos orgânicos, sais dissolvidos e partículas suspensas torna especialmente importante a investigação desses mecanismos. 
+
+Dessa forma, a avaliação da estabilidade de membranas submetidas à operação prolongada deve considerar não apenas a evolução do fluxo e da qualidade do permeado, mas também as alterações morfológicas e superficiais decorrentes da exposição aos contaminantes, permitindo investigar possíveis correlações entre a formação de depósitos, o molhamento e a deterioração do desempenho do processo.
+
+------------
 Para contaminantes orgânicos como o ácido húmico e polissacarídeos, pode ocorrer a formação de camadas na superfície da membrana, enquanto para os contaminantes inorgênicos há a dependência da ocorrência de supersaturação e polarização, exixtentes na superfície da membrana~\cite{Laqbaqbi2017,Du2023Antifouling}.
 
 A interação entre diferentes contaminantes também intensifica a ocorrência de fouling, onde a presença de ácido húmico e Nacl propicia a formação de depósitos, facilitando a ocorrência de molhamento e do mecanismo de adsorção e dessorção, reduzindo a qualidade do permeado produzido~\cite{Laqbaqbi2017}. Quanto aos compostos inorgânicos, as características de processo podem promover a cristalização na superfície da membrana ou no escoamento~\cite{Laqbaqbi2017}, onde cristais em formato de agulha, geralmente formados ao longo do escoamento, podem promover scaling na superfície da membrana, propiciando o molhamento nos pontos de deposição~\cite{Hsieh2024ScalingWetting}.

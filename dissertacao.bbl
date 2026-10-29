@@ -1,4 +1,4 @@
-\begin{thebibliography}{88}
+\begin{thebibliography}{92}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -611,6 +611,50 @@
 \newblock \doi{10.5004/dwt.2017.21653}.
 \newblock Dispon{\' i}vel em:
   \textless\url{https://doi.org/10.5004/dwt.2017.21653}\textgreater .
+
+\bibitem[\MakeUppercase{Yang}\emph{ et~al.}(2021)Yang, Zhang, Peng, Du, Wang,
+  Shan, Ling, Ding, Gray, e Xie]{Yang2021Antiwetting}
+\MakeUppercase{Yang, G., Zhang, J., Peng, M., \MakeLowercase{et~al.}}
+\newblock \coppeenquote{A Mini Review on Antiwetting Studies in Membrane
+  Distillation for Textile Wastewater Treatment}, \emph{Processes}, v.~9, n.~2,
+  \penalty0 pp.~243, 2021.
+\newblock ISSN: 2227-9717.
+\newblock \doi{10.3390/pr9020243}.
+\newblock Dispon{\' i}vel em:
+  \textless\url{https://doi.org/10.3390/pr9020243}\textgreater .
+
+\bibitem[\MakeUppercase{Samadi}\emph{ et~al.}(2023)Samadi, Ni, Fontananova,
+  Tang, Shon, e Zhao]{Samadi2023Antiwetting}
+\MakeUppercase{Samadi, A., Ni, T., Fontananova, E., \MakeLowercase{et~al.}}
+\newblock \coppeenquote{Engineering Antiwetting Hydrophobic Surfaces for
+  Membrane Distillation: A Review}, \emph{Desalination}, v.~563, \penalty0
+  pp.~116722, 2023.
+\newblock ISSN: 0011-9164.
+\newblock \doi{10.1016/j.desal.2023.116722}.
+\newblock Dispon{\' i}vel em:
+  \textless\url{https://doi.org/10.1016/j.desal.2023.116722}\textgreater .
+
+\bibitem[\MakeUppercase{Zhang} e \MakeUppercase{Zhao}(2023)Zhang e
+  Zhao]{Zhang2023Antiwetting}
+\MakeUppercase{Zhang, H., Zhao, X.}
+\newblock \coppeenquote{Enhanced Anti-Wetting Methods of Hydrophobic Membrane
+  for Membrane Distillation}, \emph{Advanced Science}, v.~10, n.~23, \penalty0
+  pp.~2300598, 2023.
+\newblock ISSN: 2198-3844.
+\newblock \doi{10.1002/advs.202300598}.
+\newblock Dispon{\' i}vel em:
+  \textless\url{https://doi.org/10.1002/advs.202300598}\textgreater .
+
+\bibitem[\MakeUppercase{Coolidge}\emph{ et~al.}(2024)Coolidge, Alhadidi, Wang,
+  e Tong]{Coolidge2024Surfactants}
+\MakeUppercase{Coolidge, C., Alhadidi, A. M.~H., Wang, W.,
+  \MakeLowercase{et~al.}}
+\newblock \coppeenquote{Effects of Surfactant Properties on Pore Wetting of
+  Membrane Distillation}, \emph{Journal of Membrane Science Letters}, v.~4,
+  n.~2, \penalty0 pp.~100077, 2024.
+\newblock \doi{10.1016/j.memlet.2024.100077}.
+\newblock Dispon{\' i}vel em:
+  \textless\url{https://doi.org/10.1016/j.memlet.2024.100077}\textgreater .
 
 \bibitem[\MakeUppercase{Abdel-Karim}\emph{ et~al.}(2021)Abdel-Karim, Leaper,
   Skuse, Zaragoza, Gryta, e Gorgojo]{AbdelKarim2021}

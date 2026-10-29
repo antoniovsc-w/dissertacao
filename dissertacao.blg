@@ -2,17 +2,9 @@ This is BibTeX, Version 0.99e
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: dissertacao.aux
 Reallocating 'name_of_file' (item size: 1) to 59 items.
-I couldn't open auxiliary file Chapters/000AcknowledgmentAndAbstract/00Acknowledgment.aux
----line 9 of file dissertacao.aux
- : \@input{Chapters/000AcknowledgmentAndAbstract/00Acknowledgment.aux
- :                                                                   }
-I'm skipping whatever remains of this command
+A level-1 auxiliary file: Chapters/000AcknowledgmentAndAbstract/00Acknowledgment.aux
 Reallocating 'name_of_file' (item size: 1) to 53 items.
-I couldn't open auxiliary file Chapters/000AcknowledgmentAndAbstract/01Abstract.aux
----line 10 of file dissertacao.aux
- : \@input{Chapters/000AcknowledgmentAndAbstract/01Abstract.aux
- :                                                             }
-I'm skipping whatever remains of this command
+A level-1 auxiliary file: Chapters/000AcknowledgmentAndAbstract/01Abstract.aux
 Reallocating 'name_of_file' (item size: 1) to 12 items.
 The style file: coppe-unsrt.bst
 Reallocating 'name_of_file' (item size: 1) to 24 items.
@@ -21,6 +13,7 @@ You're missing a field name---line 2089 of file Bibliography/references.bib
  :   year      = {2006},            
  :                                  % Se a sua edição for outra, ajuste ano/editora
 I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for ""
 Warning--empty address in Liang2018ProducedWater
 `address' is a missing field, not a string, for entry Devold2013
 while executing---line 1327 of file coppe-unsrt.bst
@@ -28,45 +21,45 @@ Warning--can't use both volume and number fields in Hoek2021
 `address' is a missing field, not a string, for entry Hoek2021
 while executing---line 1327 of file coppe-unsrt.bst
 Warning--empty publisher in Hoek2021
-You've used 88 entries,
+You've used 92 entries,
             2630 wiz_defined-function locations,
-            1259 strings with 28875 characters,
-and the built_in function-call counts, 39564 in all, are:
-= -- 3396
-> -- 1899
-< -- 62
-+ -- 805
-- -- 624
-* -- 4019
-:= -- 6231
-add.period$ -- 455
-call.type$ -- 88
-change.case$ -- 92
-chr.to.int$ -- 83
-cite$ -- 91
-duplicate$ -- 2098
-empty$ -- 3607
-format.name$ -- 731
-if$ -- 8248
+            1293 strings with 30102 characters,
+and the built_in function-call counts, 41565 in all, are:
+= -- 3562
+> -- 2008
+< -- 66
++ -- 849
+- -- 660
+* -- 4240
+:= -- 6553
+add.period$ -- 478
+call.type$ -- 92
+change.case$ -- 96
+chr.to.int$ -- 87
+cite$ -- 95
+duplicate$ -- 2197
+empty$ -- 3780
+format.name$ -- 773
+if$ -- 8660
 int.to.chr$ -- 6
-int.to.str$ -- 89
-missing$ -- 84
-newline$ -- 558
-num.names$ -- 266
-pop$ -- 593
+int.to.str$ -- 93
+missing$ -- 88
+newline$ -- 585
+num.names$ -- 278
+pop$ -- 613
 preamble$ -- 1
-purify$ -- 88
+purify$ -- 92
 quote$ -- 0
-skip$ -- 943
+skip$ -- 984
 stack$ -- 0
-substring$ -- 1430
-swap$ -- 646
-text.length$ -- 35
+substring$ -- 1508
+swap$ -- 677
+text.length$ -- 38
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 598
+type$ -- 626
 warning$ -- 3
-while$ -- 268
+while$ -- 280
 width$ -- 0
-write$ -- 1427
-(There were 5 error messages)
+write$ -- 1497
+(There were 3 error messages)
