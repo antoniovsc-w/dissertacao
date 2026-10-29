@@ -189,7 +189,6 @@ Outro ponto importante, é o cuidado quanto a redução excessiva do espaçament
 \end{figure}
 
 \begin{subequations}
-\label{eq: transferencia calor agmd}
 \begin{minipage}{0.43\textwidth}
     \begin{equation}
         Q_{ag} = \dfrac{k_g}{\delta}
@@ -210,7 +209,6 @@ Outro ponto importante, é o cuidado quanto a redução excessiva do espaçament
 \vspace{3pt}
 
 \begin{subequations}
-\label{eq: transferencia calor agmd}
 \begin{minipage}{0.43\textwidth}
     \begin{equation}
         Q_{cp} = \dfrac{k_c}{\delta_c} (T_{p1} - T_{p2})
@@ -269,31 +267,36 @@ Outra configuração corresponde às membranas Janus, caracterizadas pela presen
 Por fim, as membranas omnifóbicas são desenvolvidas para resistir ao molhamento tanto por líquidos polares quanto por líquidos de baixa tensão superficial, incluindo óleos, solventes orgânicos e soluções contendo surfactantes~\cite{Prasanna2023Omniphobic,Khan2025Fluoropolymer}.
 
 
-%As membranas microporosas podem ser divididas em simétricas ou assimétricas, constituidas por um ou mais de um material. Em membranas simétricas, a seção transversal é constituida de um único material, enquanto para as assimétricas a seção é constituida por uma camada hidrofóbica em conjunto com um suporte~\cite{mulder1996,habert_psm,Parani2021}.  
-
-%As membranas podem ser caracterizadas em função de sua morfologia, podendo ser simétricas ou assimétricas, podendo ser simples,apresentando um único material, ou composta, fabricada com mais de um material .
-
-%Durante o processo de fabricação aplicam-se diferentes estratégias para a obtenção de superfícies super-hidrofóbicas, como o uso de nanopartículas de sílica ou carbono, poduzindo superfícies com rugosidade multinível, apresentando propriedades hidrofóbicas e oleofóbicas~\cite{Laqbaqbi2017,Gong2019}. 
-
-
 \subsection{Técnicas de caracterização}
 
-Considerando que os processos de deposição e limpeza podem modificar permanentemente as propriedades superficiais e estruturais das membranas, a caracterização da membrana, antes e após o uso, é uma etapa crucial para indentificar se a membrana escolhida possui as caracteristicas necessária para o processo e para compreender o impacto dos contaminantes presentes na água a ser tratada~\cite{Laqbaqbi2017}.
+Considerando que a exposição da membrana a água de produção pode modificar permanentemente suas caracteristicas superficiais e morfológicas, a caracterização da membrana, antes e após o uso, é uma etapa crucial para indentificar se a membrana escolhida possui as propriedades necessárias para o processo~\cite{Laqbaqbi2017}.
+
+Entre as técnicas empregadas na caracterização, destacam-se a porosimetria de fluxo capilar, a determinação da pressão de entrada de líquido (LEP), a medição do ângulo de contato e as técnicas de microscopia~\cite{Jena2010Porometry,Alqaheem2020}. Essas análises fornecem informações sobre a distribuição de tamanho dos poros, a resistência à penetração de líquido nos poros, a molhabilidade e a morfologia superficial das membranas~\cite{Yao2020WettabilityMD,Laqbaqbi2017}.
+
+A porosimetria de fluxo capilar avalia características da membrana como a porosidade aberta, o diâmentro e a distribuição de poro. O ensaio consiste em submergir a membrana em um líquido de molhamento, o qual possui baixa tensão superficial, promovendo o preenchimento dos poros~\cite{TanisKanbur2021,Jena2010Porometry}.
+
+Posteriormente ao molhamento, a superfície hidrofóbica da membrana é submetida a pressão crescente de um gás. O maior diâmetro de poro é então registrado a partir do momento em que observa-se bolhas na superfície posterior da membrana, ou quando ocorre uma queda de pressão~\cite{TanisKanbur2021,Jena2010Porometry}. 
+
+Entretanto os resultados devem ser avaliados com cautela, uma vez que para o calculo do diâmetro de poro é considerado um fator de forma que correlaciona o formato do poro com um cilindro~\cite{TanisKanbur2021,Jena2010Porometry}.
+
+A molhabilidade superficial pode ser avaliada por meio da medição do ângulo de contato entre uma gota de líquido e a superfície da membrana. A análise com o goniômetro é realizada através do método da gota séssil, no qual uma gota d'água é depositada sobre a superfície da membrana e registrada por um sistema de aquisição de imagens de alta resolução~\cite{Park2017LEP}.
+
+Os dados obtidos com a porosimetria de fluxo capilar e medição de ângulo de contato permitem estimar a pressão de entrada de líquido. Este parâmetro é fundamental para avaliar a resistência da membrana à penetração da fase líquida, sendo calculado através da equação \ref{eq:LEP_rev}, 
+
+\begin{equation}
+    LEP = -\frac{2 \cdot K \cdot \gamma_L \cos\theta}{r_{\max}},
+    \label{eq:LEP_rev}
+\end{equation}
+
+onde $\gamma_L$ é a tensão superficial do líquido, $\theta$ é o ângulo de contato entre o líquido e a superfície da membrana, $r_{\max}$ é o maior raio de poro da membrana e $K$ o fator de forma atribuído ao poro~\cite{Park2017LEP,Eykens2016}.
+
+As técnicas de microscopia, como a microscopia eletrônica de varredura (MEV) e a microscopia de força atômica (AFM), permitem investigar características morfológicas e topográficas das membranas. 
+
+A MEV possibilita observar a estrutura superficial e transversal, enquanto a AFM fornece informações sobre a topografia e a rugosidade da superfície. Essas análises podem complementar os resultados obtidos por porosimetria e contribuir para a identificação de alterações estruturais e da presença de depósitos após a exposição à solução de alimentação~\cite{Alqaheem2020}.
+
+Adicionalmente, a caracterização química dos depósitos pode ser realizada por meio de técnicas como a espectroscopia por dispersão de energia (EDS). Essa técnica fornece informações sobre a composição química dos materiais presentes na superfície, auxiliando na investigação dos fenômenos de deposição e incrustação~\cite{Alqaheem2020}.
 
 
--Porosimetria de fluxo capilar
-
--Pressão de entrada de líquido
-
--Goniometro de ângulo de contato
-
--Microscopia (varredura e força atômica)
-
-Nesse sentido, membranas com ângulo de contato superior a 150° são classificadas como super-hidrofóbicas e podem ser obtidas por meio do aumento da rugosidade superficial, da criação de estruturas hierárquicas ou da redução da tensão superficial do material~\cite{Yao2020WettabilityMD}. 
-
-Do ponto de vista do molhamento, o principal fator a ser observado é a pressão de entrada de líquido (LEP) \abbrev{LEP}{Liquid Entry Pressure}, a qual é calculada com base no maior diâmetro de poro presente na membrana, pelo ângulo de contato, tensão superficial do fluido e um fator de forma atribuído a geometria dos poros. A presença de surfactantes na água a ser tratada impacta diretamente o LEP, uma vez que reduz a tensão superficial da solução, facilitando a penetração nos poros~\cite{Yao2020WettabilityMD}. Desse modo, a avaliação da estabilidade do processo não deve considerar apenas as propriedades iniciais da membrana, mas também a interação entre a membrana e a solução ao longo do processo~\cite{Yao2020WettabilityMD}.
-
-Entre as técnicas empregadas, a microscopia eletrônica de varredura (MEV)\abbrev{MEV}{Microscopia eletrônica de varredura}, a microscopia de força atômica (AFM) \abbrev{AFM}{Atomic Force Microscopye} a porosimetria de fluxo capilar permitem avaliar a morfologia da superfície da membrana, analisando caracteristicas como rugosidade, porosidade, permeabilidade, formato e diâmetro de poro. Quanto a composição química dos contaminantes depositados na membrana, pode-se aplicar a espectroscopia de infravermelho por transformada de fourier com reflectância total Atenuada (ATR-FTIR) \abbrev{ATR-FTIR}{Attenuated Total Reflectance – Fourier Transform Infrared Spectroscopy} ou espectroscopia por dispersão de energia (EDS)\abbrev{EDS}{Energy-Dispersive Spectroscopy}~\cite{Laqbaqbi2017}.
 
 \section{Molhamento de membranas}
 

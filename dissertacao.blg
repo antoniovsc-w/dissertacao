@@ -2,9 +2,17 @@ This is BibTeX, Version 0.99e
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: dissertacao.aux
 Reallocating 'name_of_file' (item size: 1) to 59 items.
-A level-1 auxiliary file: Chapters/000AcknowledgmentAndAbstract/00Acknowledgment.aux
+I couldn't open auxiliary file Chapters/000AcknowledgmentAndAbstract/00Acknowledgment.aux
+---line 9 of file dissertacao.aux
+ : \@input{Chapters/000AcknowledgmentAndAbstract/00Acknowledgment.aux
+ :                                                                   }
+I'm skipping whatever remains of this command
 Reallocating 'name_of_file' (item size: 1) to 53 items.
-A level-1 auxiliary file: Chapters/000AcknowledgmentAndAbstract/01Abstract.aux
+I couldn't open auxiliary file Chapters/000AcknowledgmentAndAbstract/01Abstract.aux
+---line 10 of file dissertacao.aux
+ : \@input{Chapters/000AcknowledgmentAndAbstract/01Abstract.aux
+ :                                                             }
+I'm skipping whatever remains of this command
 Reallocating 'name_of_file' (item size: 1) to 12 items.
 The style file: coppe-unsrt.bst
 Reallocating 'name_of_file' (item size: 1) to 24 items.
@@ -20,45 +28,45 @@ Warning--can't use both volume and number fields in Hoek2021
 `address' is a missing field, not a string, for entry Hoek2021
 while executing---line 1327 of file coppe-unsrt.bst
 Warning--empty publisher in Hoek2021
-You've used 84 entries,
+You've used 88 entries,
             2630 wiz_defined-function locations,
-            1225 strings with 27822 characters,
-and the built_in function-call counts, 37776 in all, are:
-= -- 3235
-> -- 1819
-< -- 59
-+ -- 771
-- -- 598
-* -- 3837
-:= -- 5948
-add.period$ -- 432
-call.type$ -- 84
-change.case$ -- 88
-chr.to.int$ -- 79
-cite$ -- 87
-duplicate$ -- 2002
-empty$ -- 3445
-format.name$ -- 697
-if$ -- 7874
+            1259 strings with 28875 characters,
+and the built_in function-call counts, 39564 in all, are:
+= -- 3396
+> -- 1899
+< -- 62
++ -- 805
+- -- 624
+* -- 4019
+:= -- 6231
+add.period$ -- 455
+call.type$ -- 88
+change.case$ -- 92
+chr.to.int$ -- 83
+cite$ -- 91
+duplicate$ -- 2098
+empty$ -- 3607
+format.name$ -- 731
+if$ -- 8248
 int.to.chr$ -- 6
-int.to.str$ -- 85
-missing$ -- 80
-newline$ -- 531
-num.names$ -- 254
-pop$ -- 572
+int.to.str$ -- 89
+missing$ -- 84
+newline$ -- 558
+num.names$ -- 266
+pop$ -- 593
 preamble$ -- 1
-purify$ -- 84
+purify$ -- 88
 quote$ -- 0
-skip$ -- 900
+skip$ -- 943
 stack$ -- 0
-substring$ -- 1369
-swap$ -- 618
-text.length$ -- 34
+substring$ -- 1430
+swap$ -- 646
+text.length$ -- 35
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 570
+type$ -- 598
 warning$ -- 3
-while$ -- 256
+while$ -- 268
 width$ -- 0
-write$ -- 1358
-(There were 3 error messages)
+write$ -- 1427
+(There were 5 error messages)

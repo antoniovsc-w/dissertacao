@@ -1,4 +1,4 @@
-\begin{thebibliography}{84}
+\begin{thebibliography}{88}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -568,6 +568,49 @@
 \newblock \doi{10.1016/j.ceja.2023.100486}.
 \newblock Dispon{\' i}vel em:
   \textless\url{https://doi.org/10.1016/j.ceja.2023.100486}\textgreater .
+
+\bibitem[\MakeUppercase{Jena} e \MakeUppercase{Gupta}(2010)Jena e
+  Gupta]{Jena2010Porometry}
+\MakeUppercase{Jena, A., Gupta, K.}
+\newblock \coppeenquote{Advances in Pore Structure Evaluation by Porometry},
+  \emph{Chemical Engineering \& Technology}, 2010.
+\newblock \doi{10.1002/ceat.201000119}.
+\newblock Dispon{\' i}vel em:
+  \textless\url{https://doi.org/10.1002/ceat.201000119}\textgreater .
+
+\bibitem[\MakeUppercase{Alqaheem} e \MakeUppercase{Alomair}(2020)Alqaheem e
+  Alomair]{Alqaheem2020}
+\MakeUppercase{Alqaheem, Y., Alomair, A.~A.}
+\newblock \coppeenquote{Microscopy and Spectroscopy Techniques for
+  Characterization of Polymeric Membranes}, \emph{Membranes}, v.~10, n.~2,
+  \penalty0 pp.~33, 2020.
+\newblock ISSN: 2077-0375.
+\newblock \doi{10.3390/membranes10020033}.
+\newblock Dispon{\' i}vel em:
+  \textless\url{https://doi.org/10.3390/membranes10020033}\textgreater .
+
+\bibitem[\MakeUppercase{Tanis-Kanbur}\emph{ et~al.}(2021)Tanis-Kanbur,
+  Peinador, Calvo, Hern{\'a}ndez, e Chew]{TanisKanbur2021}
+\MakeUppercase{Tanis-Kanbur, M.~B., Peinador, R.~I., Calvo, J.~I.,
+  \MakeLowercase{et~al.}}
+\newblock \coppeenquote{Porosimetric Membrane Characterization Techniques: A
+  Review}, \emph{Journal of Membrane Science}, v.~619, \penalty0 pp.~118750,
+  2021.
+\newblock ISSN: 0376-7388.
+\newblock \doi{10.1016/j.memsci.2020.118750}.
+\newblock Dispon{\' i}vel em:
+  \textless\url{https://doi.org/10.1016/j.memsci.2020.118750}\textgreater .
+
+\bibitem[\MakeUppercase{Park}\emph{ et~al.}(2017)Park, Shin, Lee, Lee, e
+  Kim]{Park2017LEP}
+\MakeUppercase{Park, C., Shin, D., Lee, C.-K., \MakeLowercase{et~al.}}
+\newblock \coppeenquote{Theoretical Assessment and Experimental Analysis of
+  Liquid Entry Pressure in Membrane Distillation Process}, \emph{Desalination
+  and Water Treatment}, v.~99, \penalty0 pp.~172--176, 2017.
+\newblock ISSN: 1944-3994.
+\newblock \doi{10.5004/dwt.2017.21653}.
+\newblock Dispon{\' i}vel em:
+  \textless\url{https://doi.org/10.5004/dwt.2017.21653}\textgreater .
 
 \bibitem[\MakeUppercase{Abdel-Karim}\emph{ et~al.}(2021)Abdel-Karim, Leaper,
   Skuse, Zaragoza, Gryta, e Gorgojo]{AbdelKarim2021}
