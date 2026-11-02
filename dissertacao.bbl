@@ -1,4 +1,4 @@
-\begin{thebibliography}{92}
+\begin{thebibliography}{97}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -523,6 +523,17 @@
 \newblock \emph{Processos de Separação por Membranas}.
 \newblock  Rio de Janeiro, E-papers, 2006.
 
+\bibitem[\MakeUppercase{Nguyen}\emph{ et~al.}(2025)Nguyen
+  et~al.]{Nguyen2025MDStability}
+\MakeUppercase{Nguyen, H.~T., others}.
+\newblock \coppeenquote{Enhancing membrane distillation stability: Isoamyl
+  alcohol coagulation as a novel strategy to mitigate membrane swelling at
+  elevated temperatures}, \emph{Environmental Technology \& Innovation}, p.
+  104029, 2025.
+\newblock \doi{10.1016/j.eti.2025.104029}.
+\newblock Dispon{\' i}vel em:
+  \textless\url{https://doi.org/10.1016/j.eti.2025.104029}\textgreater .
+
 \bibitem[\MakeUppercase{Laqbaqbi}\emph{ et~al.}(2017)Laqbaqbi, Sanmartino,
   Khayet, García-Payo, e Chaouch]{Laqbaqbi2017}
 \MakeUppercase{Laqbaqbi, M., Sanmartino, J.~A., Khayet, M.,
@@ -687,16 +698,56 @@
 \newblock Dispon{\' i}vel em:
   \textless\url{https://doi.org/10.1016/j.rineng.2023.100995}\textgreater .
 
-\bibitem[\MakeUppercase{Yao}\emph{ et~al.}(2018)Yao, Woo, Tijing, Choi, e
-  Shon]{Yao2018}
-\MakeUppercase{Yao, M., Woo, Y.~C., Tijing, L.~D., \MakeLowercase{et~al.}}
-\newblock \coppeenquote{Effects of Volatile Organic Compounds on Water Recovery
-  from Produced Water via Vacuum Membrane Distillation}, \emph{Desalination},
-  v.~440, \penalty0 pp.~146--155, 2018.
+\bibitem[\MakeUppercase{Hsieh}\emph{ et~al.}(2021)Hsieh, Thakur, e
+  Malmali]{Hsieh2021Pretreatments}
+\MakeUppercase{Hsieh, I.-M., Thakur, A.~K., Malmali, M.}
+\newblock \coppeenquote{Comparative Analysis of Various Pretreatments to
+  Mitigate Fouling and Scaling in Membrane Distillation}, \emph{Desalination},
+  v.~509, \penalty0 pp.~115046, 2021.
 \newblock ISSN: 0011-9164.
-\newblock \doi{10.1016/j.desal.2017.11.012}.
+\newblock \doi{10.1016/j.desal.2021.115046}.
 \newblock Dispon{\' i}vel em:
-  \textless\url{https://doi.org/10.1016/j.desal.2017.11.012}\textgreater .
+  \textless\url{https://doi.org/10.1016/j.desal.2021.115046}\textgreater .
+
+\bibitem[\MakeUppercase{Tomczak} e \MakeUppercase{Gryta}(2022)Tomczak e
+  Gryta]{Tomczak2022}
+\MakeUppercase{Tomczak, W., Gryta, M.}
+\newblock \coppeenquote{The Impact of Operational Parameters on Polypropylene
+  Membrane Performance during the Separation of Oily Saline Wastewaters by the
+  Membrane Distillation Process}, \emph{Membranes}, v.~12, n.~4, \penalty0
+  pp.~351, 2022.
+\newblock ISSN: 2077-0375.
+\newblock \doi{10.3390/membranes12040351}.
+\newblock Dispon{\' i}vel em:
+  \textless\url{https://doi.org/10.3390/membranes12040351}\textgreater .
+
+\bibitem[\MakeUppercase{Kass} e \MakeUppercase{West}(2017)Kass e
+  West]{Kass2017Hansen}
+\MakeUppercase{Kass, M.~D., West, B.~H.}
+\newblock \coppeenquote{Compatibility of Fuel System Elastomers with
+  Bio-Blendstock Fuel Candidates Using Hansen Solubility Analysis}, \emph{SAE
+  International Journal of Fuels and Lubricants}, v.~10, n.~1, 2017.
+\newblock \doi{10.4271/2017-01-0802}.
+\newblock Dispon{\' i}vel em:
+  \textless\url{https://doi.org/10.4271/2017-01-0802}\textgreater .
+
+\bibitem[\MakeUppercase{Yushkin}\emph{ et~al.}(2018)Yushkin, Anokhina,
+  Bazhenov, Borisov, Budd, e Volkov]{Yushkin2018Hansen}
+\MakeUppercase{Yushkin, A.~A., Anokhina, T.~S., Bazhenov, S.~D.,
+  \MakeLowercase{et~al.}}
+\newblock \coppeenquote{Sorption and Nanofiltration Characteristics of {PIM-1}
+  Material in Polar and Non-Polar Solvents}, \emph{Petroleum Chemistry}, v.~58,
+  n.~13, \penalty0 pp.~1154--1158, 2018.
+\newblock ISSN: 0965-5441.
+\newblock \doi{10.1134/S096554411813011X}.
+\newblock Dispon{\' i}vel em:
+  \textless\url{https://doi.org/10.1134/S096554411813011X}\textgreater .
+
+\bibitem[\MakeUppercase{Hansen}(2000)Hansen]{Hansen2000}
+\MakeUppercase{Hansen, C.~M.}
+\newblock \emph{Hansen Solubility Parameters: A User's Handbook}.
+\newblock  Boca Raton, Florida, CRC Press, 2000.
+\newblock ISBN: 9780849315252.
 
 \bibitem[\MakeUppercase{Gueccia}\emph{ et~al.}(2021)Gueccia, Winter, Randazzo,
   Cipollina, Koschikowski, e Micale]{Gueccia2021HClRecovery}
@@ -812,17 +863,6 @@
 \newblock Dispon{\' i}vel em:
   \textless\url{https://doi.org/10.1016/j.desal.2020.114597}\textgreater .
 
-\bibitem[\MakeUppercase{Hsieh}\emph{ et~al.}(2021)Hsieh, Thakur, e
-  Malmali]{Hsieh2021Pretreatments}
-\MakeUppercase{Hsieh, I.-M., Thakur, A.~K., Malmali, M.}
-\newblock \coppeenquote{Comparative Analysis of Various Pretreatments to
-  Mitigate Fouling and Scaling in Membrane Distillation}, \emph{Desalination},
-  v.~509, \penalty0 pp.~115046, 2021.
-\newblock ISSN: 0011-9164.
-\newblock \doi{10.1016/j.desal.2021.115046}.
-\newblock Dispon{\' i}vel em:
-  \textless\url{https://doi.org/10.1016/j.desal.2021.115046}\textgreater .
-
 \bibitem[\MakeUppercase{Pawar}\emph{ et~al.}(2022{\natexlab{a}})Pawar, Zhang, e
   Vidic]{Pawar2022AGMD}
 \MakeUppercase{Pawar, R., Zhang, Z., Vidic, R.~D.}
@@ -832,6 +872,17 @@
 \newblock \doi{10.1016/j.desal.2022.115853}.
 \newblock Dispon{\' i}vel em:
   \textless\url{https://doi.org/10.1016/j.desal.2022.115853}\textgreater .
+
+\bibitem[\MakeUppercase{Yao}\emph{ et~al.}(2018)Yao, Woo, Tijing, Choi, e
+  Shon]{Yao2018}
+\MakeUppercase{Yao, M., Woo, Y.~C., Tijing, L.~D., \MakeLowercase{et~al.}}
+\newblock \coppeenquote{Effects of Volatile Organic Compounds on Water Recovery
+  from Produced Water via Vacuum Membrane Distillation}, \emph{Desalination},
+  v.~440, \penalty0 pp.~146--155, 2018.
+\newblock ISSN: 0011-9164.
+\newblock \doi{10.1016/j.desal.2017.11.012}.
+\newblock Dispon{\' i}vel em:
+  \textless\url{https://doi.org/10.1016/j.desal.2017.11.012}\textgreater .
 
 \bibitem[\MakeUppercase{Pawar}\emph{ et~al.}(2022{\natexlab{b}})Pawar, Zhang,
   Rhoades, Blotevogel, e Vidic]{Pawar2022}

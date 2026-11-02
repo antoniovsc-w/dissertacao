@@ -13,7 +13,6 @@ You're missing a field name---line 2089 of file Bibliography/references.bib
  :   year      = {2006},            
  :                                  % Se a sua edição for outra, ajuste ano/editora
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for ""
 Warning--empty address in Liang2018ProducedWater
 `address' is a missing field, not a string, for entry Devold2013
 while executing---line 1327 of file coppe-unsrt.bst
@@ -21,45 +20,45 @@ Warning--can't use both volume and number fields in Hoek2021
 `address' is a missing field, not a string, for entry Hoek2021
 while executing---line 1327 of file coppe-unsrt.bst
 Warning--empty publisher in Hoek2021
-You've used 92 entries,
+You've used 97 entries,
             2630 wiz_defined-function locations,
-            1293 strings with 30102 characters,
-and the built_in function-call counts, 41565 in all, are:
-= -- 3562
-> -- 2008
-< -- 66
-+ -- 849
-- -- 660
-* -- 4240
-:= -- 6553
-add.period$ -- 478
-call.type$ -- 92
-change.case$ -- 96
-chr.to.int$ -- 87
-cite$ -- 95
-duplicate$ -- 2197
-empty$ -- 3780
-format.name$ -- 773
-if$ -- 8660
+            1334 strings with 31460 characters,
+and the built_in function-call counts, 43711 in all, are:
+= -- 3759
+> -- 2084
+< -- 74
++ -- 883
+- -- 684
+* -- 4437
+:= -- 6871
+add.period$ -- 504
+call.type$ -- 97
+change.case$ -- 101
+chr.to.int$ -- 92
+cite$ -- 100
+duplicate$ -- 2329
+empty$ -- 3981
+format.name$ -- 807
+if$ -- 9127
 int.to.chr$ -- 6
-int.to.str$ -- 93
-missing$ -- 88
-newline$ -- 585
-num.names$ -- 278
-pop$ -- 613
+int.to.str$ -- 98
+missing$ -- 94
+newline$ -- 617
+num.names$ -- 293
+pop$ -- 644
 preamble$ -- 1
-purify$ -- 92
+purify$ -- 97
 quote$ -- 0
-skip$ -- 984
+skip$ -- 1056
 stack$ -- 0
-substring$ -- 1508
-swap$ -- 677
-text.length$ -- 38
+substring$ -- 1574
+swap$ -- 724
+text.length$ -- 42
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 626
+type$ -- 658
 warning$ -- 3
-while$ -- 280
+while$ -- 294
 width$ -- 0
-write$ -- 1497
+write$ -- 1580
 (There were 3 error messages)
