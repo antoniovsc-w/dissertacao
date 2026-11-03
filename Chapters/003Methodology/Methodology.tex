@@ -4,7 +4,18 @@
 
 A bancada experimental consiste em uma unidade laboratorial de dessalinização, comercializada pela Aquastil \cite{Aquastill2025}, adaptada para operar com o módulo fabicado no laboratório de nano e microfluidica e microssistemas (LabMEMS). A unidade é composta por três reservatórios: um destinado à água de produção (lado quente), outro à água para refrigeração (lado frio) e um terceiro para o permeado. 
 
-O aquecimento da água de produção é realizado por um sistema on/off, controlado pelo equipamento MT-516E da Full Gauge Controls, em conjunto com uma resistência de 2~kW instalada no interior do reservatório. Já o resfriamento da água de refrigeração é promovido por um sistema de aquecimento, ventilação e ar-Condicionado (HVAC)\abbrev{HVAC}{Heating, ventilation and air contitioning}. A figura \ref{fig:bancada} apresenta a bancada vista de frente e os principais componentes do módulo AGMD.
+Os principais componentes do módulo AGMD incluem duas placas externas fabricadas em acrílico, uma folha de alumínio, um espaçador e a membrana a ser testada, a figura \ref{fig:bancada} apresenta uma vista expodida desses elementos, evidenciando sua disposição em função do conjunto, enquanto a figura \ref{fig:modulomontado} apresenta o módulo devidamente montado. 
+
+O canal possui coletores na entra e na saída para distribuir o fluxo ao longo da seção transversal, possuindo [INSERIR DIMENSÕES]. O espaçador é posicionado no interior do canal, com o intuito de intensificar a turbulência do escoamento, visando mitigar efeitos de polarização de concentração e temperatura.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=\textwidth, height=6cm, keepaspectratio]{modulomontado.jpeg}
+    \caption{Módulo montado em bancada.}
+    \label{fig:modulomontado}
+\end{figure}
+
+O aquecimento da água de produção é realizado por um sistema on/off, controlado pelo equipamento MT-516E da Full Gauge Controls, em conjunto com uma resistência de 2~kW instalada no interior do reservatório. Já o resfriamento da água de refrigeração é promovido por um sistema de aquecimento, ventilação e ar-condicionado (HVAC)\abbrev{HVAC}{Heating, ventilation and air contitioning}. A figura \ref{fig:bancada} apresenta a bancada vista de frente e os principais componentes do módulo AGMD.
 
 
 \begin{figure}
@@ -14,7 +25,9 @@ O aquecimento da água de produção é realizado por um sistema on/off, control
     \label{fig:bancada}
 \end{figure}
 
-A bancada também é composta por três bombas, uma associada a cada reservatório, responsáveis por fornecer a alimentação do módulo AGMD, além de retornar o permeado produzido de volta ao reservatório de água de produção. A bancada é equipada com sensores de temperatura e pressão nas entradas e saídas do módulo, bem como sensores de vazão após as bombas dos reservatórios quente e frio. Há também uma célula de condutividade posicionada na linha de entrada do tanque de permeado. A tabela \ref{tab:sensores} apresenta as caracteristicas dos sensores utilizados e a figura \ref{fig:diagramabancada} o diagrama da bancada.
+A bancada também é composta por três bombas, uma associada a cada reservatório, responsáveis por fornecer a alimentação do módulo AGMD, além de retornar o permeado produzido de volta ao reservatório de água de produção. 
+
+Utilizou-se sensores de temperatura e pressão nas entradas e saídas do módulo, bem como sensores de vazão após as bombas dos reservatórios quente e frio. Há também uma célula de condutividade posicionada na linha de entrada do tanque de permeado. A tabela \ref{tab:sensores} apresenta as caracteristicas dos sensores utilizados e a figura \ref{fig:diagramabancada} o diagrama da bancada.
 
 \begin{table}[H]
 \centering
@@ -35,25 +48,20 @@ Medidor de vazão & Vazão & Burkert \cite{Burkert2} & 0,1--10~$Lmin^{-1}$ & $\p
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=\textwidth, height=11cm, keepaspectratio]{diagramabancada.png}
+    \includegraphics[width=\textwidth, height=9cm, keepaspectratio]{diagramabancada.png}
     \caption{Diagrama da bancada experimental de destilação por membranas com gap de ar (AGMD), contendo os tanques de alimentação, resfriamento e permeado, módulo de membrana, sistema HVAC, bombas de circulação e instrumentos de monitoramento de pressão, temperatura e condutividade.}
     \label{fig:diagramabancada}
 \end{figure}
 
-Os principais componentes do módulo AGMD incluem duas placas externas fabricadas em acrílico, uma folha de alumínio, um espaçador e a membrana a ser testada, a figura \ref{fig:vistaexplodida} apresenta uma vista expodida desses elementos, evidenciando sua disposição em função do conjunto, enquanto a figura \ref{fig:modulomontado} apresenta o módulo devidamente montado.
 
-
-\begin{figure}[H]
-    \centering
-    \includegraphics[width=\textwidth, height=6cm, keepaspectratio]{modulomontado.jpeg}
-    \caption{Módulo montado em bancada.}
-    \label{fig:modulomontado}
-\end{figure}
 
 \section{Membranas avaliadas}
 
-As membranas avaliadas foram adquiridas do fabricante Tish Scientific~\cite{TischScientific} e são produzidas com diferentes materiais e configurações de suportes, sendo identificadas neste trabalho como M1 a M8. As membranas M1 e M2 são fabricadas com politetrafluoretileno expandido (ePTFE), com suporte de Polipropileno (PP) em rede e entrelaçado, respectivamente. As membranas M3 e M4 são fabricadas em Polietileno (PE) e Éster misto de celulose (MCE), ambas sem suporte. A membrana M5 é fabricada em politetrafluoretileno (PTFE) com suporte em PP, enquanto a M6 em PP sem suporte. Por fim, as membranas M7 e M8 são fabicadas em PTFE com suporte de PP. 
+As membranas avaliadas foram adquiridas do fabricante Tish Scientific~\cite{TischScientific} e são produzidas com diferentes materiais e configurações de suportes, sendo identificadas neste trabalho como M1 a M5. 
 
+As membranas M1 e M2 são fabricadas com politetrafluoretileno expandido (ePTFE), com suporte de Polipropileno (PP) em rede e entrelaçado, respectivamente. A membranas M3 é fabricada em Polietileno (PE) e a membrana M5 é fabricada em politetrafluoretileno (PTFE) com suporte em PP.
+
+%As membranas M3 e M4 são fabricadas em Polietileno (PE) e Éster misto de celulose (MCE), ambas sem suporte.Por fim, as membranas M7 e M8 são fabicadas em PTFE com suporte de PP. 
 
 \begin{table}[H]
 \centering
@@ -70,15 +78,15 @@ M2 & politetrafluoretileno expandido (ePTFE) & Polipropileno (PP) \\
 
 M3 & Polietileno (PE) & Sem suporte \\
 
-M4 & Éster misto de celulose (MCE) & Sem suporte \\
+%M4 & Éster misto de celulose (MCE) & Sem suporte \\
 
 M5 & politetrafluoretileno (PTFE) & Polipropileno (PP) \\
 
-M6 & Polipropileno (PP) & Sem suporte \\
+%M6 & Polipropileno (PP) & Sem suporte \\
 
-M7 & politetrafluoretileno (PTFE) & Polipropileno (PP) \\
+%M7 & politetrafluoretileno (PTFE) & Polipropileno (PP) \\
 
-M8 & politetrafluoretileno (PTFE) & Polipropileno (PP) \\
+%M8 & politetrafluoretileno (PTFE) & Polipropileno (PP) \\
 
 \hline
 \end{tabular}
@@ -87,11 +95,13 @@ M8 & politetrafluoretileno (PTFE) & Polipropileno (PP) \\
 \section{Caracterização das membranas}
 
 
-Foram utilizados três equipamentos para o processo de caracterização das membranas: um porosimetro de fluxo capilar da Porolux, um microscópio digital da Hirox, e um goniômetro de ângulo de contato da Krüss. As análises de porosimetria e microscopia foram realizadas no LabMEMS, enquanto a medição de ângulo de contato foram conduzidas no Laboratório de Recuperação Avançada do Petróleo, LRAP.
+Foram utilizados cinco equipamentos para o processo de caracterização das membranas: um porosimetro de fluxo capilar da Porolux, um microscópio digital da Hirox, um goniômetro de ângulo de contato da Krüss, um microscópio eletrônico de varredura (MEV) e um espetrometro de dispersão de energia de raios-x (EDS). 
+
+As análises de porosimetria e microscopia digital foram realizadas no LabMEMS, enquanto a medição de ângulo de contato foram conduzidas no Laboratório de Recuperação Avançada do Petróleo, LRAP, e a análise com MEV e EDS foi contratada com um laboratório externo.
 
 \subsection{Porometria de fluxo capilar}
 
-A análise com o Porolux tem como objetivo determinar a distribuição de tamanhos de poros e a porosidade da membrana. O ensaio inicia-se com a preparação da amostra, a qual é completamnente impregnada com o líquido de molhamento. %A figura \ref{fig:porolux} apresenta o porosimetro utilizado no processo de caracterização das membranas. 
+A análise com o Porolux tem como objetivo determinar a distribuição de tamanhos de poros e a porosidade da membrana. O ensaio inicia-se com a preparação da amostra, a qual é completamnente impregnada com o líquido de molhamento. A figura \ref{fig:porolux} apresenta o porosimetro utilizado no processo de caracterização das membranas. 
 
 \begin{figure}[H]
     \centering
@@ -100,11 +110,44 @@ A análise com o Porolux tem como objetivo determinar a distribuição de tamanh
     \label{fig:porolux}
 \end{figure}
 
-Utilizou-se como líquido de molhamento o Porefil (tensão superficial de 16,07 $\pm$ 0,05 $mNm^{-1}$), comercializado pela mesma fabricante do porosimetro, a Porometer. Para garantir o completo molhamento da amostra, a mesma foi submersa por um minuto no Porefil.
+Utilizou-se como líquido de molhamento o Porefil (tensão superficial de 16,07 $\pm$ 0,05 $mNm^{-1}$)~\cite{IBFT2025}, comercializado pela mesma fabricante do porosimetro, a Porometer. Para garantir o completo molhamento da amostra, a mesma foi submersa por um minuto no Porefil.
 
-Após preparada, a amostra é posicionada no equipamento e inicia-se o experimento, o qual consiste na aplicação de nitrogênio pressurizado na face hidrofóbica da membrana, de modo gradual, até que seja observada uma pequena queda de pressão, indicando a abertura do poro com maior diâmetro (bubble point), como estabelecido pela norma ASTM F316-3~\cite{ASTM_F316_03}. 
+Após preparada, a amostra com 25~$mm$ de diâmetro é posicionada no equipamento e inicia-se o experimento, o qual consiste na aplicação de nitrogênio pressurizado na face hidrofóbica da membrana, de modo gradual, até que seja observada uma pequena queda de pressão, indicando a abertura do poro com maior diâmetro (bubble point), como estabelecido pela norma ASTM F316-3~\cite{ASTM_F316_03}. 
 
-Após a determinaçao do bubble point, o equipamento segue aumentando a pressão aplicada sobre a membrana até que a pressão aplicada aumenta linearmente, momento onde todos os poros da membrana estão abertos. Para a determinação da curva seca da membrana, utilizou-se o método de cálculo disponível no software do equipamento. 
+Após determinar o bubble point, o equipamento segue aumentando a pressão aplicada sobre a membrana até que a curva pressão versus vasão aumenta linearmente, momento onde todos os poros da membrana estão abertos~\cite{IBFT2025}.
+
+Para a determinação da curva seca da membrana, utilizou-se o método de cálculo disponível no software do equipamento, através da equação \ref{eq:fluxo_curva_c}, onde a curva é uma exponencial fixada em três pontos: no inicial, no ponto final da curva molhada e um terceiro ponto ao longo do trecho linear da curva molhada. O termo $y'_{perm,n}$ é o valor do fluxo calculado para a curva seca, $x_n$ é o valor de pressão medido e $p_1 e p_2$ são parâmetros de influencia baseados na combinação entre vazão e pressão~\cite{IBFT2025}.   
+
+Para a determinação da curva seca da membrana, empregou-se o método de cálculo \textit{C}, disponibilizado pelo software do equipamento, conforme a equação \ref{eq:fluxo_curva_c}~\cite{IBFT2025}.
+
+Nesse procedimento, a curva seca é representada por uma função exponencial definida a partir de três pontos de referência: a origem, o último ponto experimental da curva molhada e um terceiro ponto selecionado ao longo de sua região aproximadamente linear~\cite{IBFT2025}.
+
+Na equação \ref{eq:fluxo_curva_c}, $y'_{perm,n}$ representa o fluxo calculado para a curva seca, $x_n$ corresponde à pressão medida e $p_1 e p_2$ são parâmetros de ajuste determinados a partir das combinações de pressão e fluxo dos dois pontos experimentais selecionados, conforme as equações \ref{eq:parametro_p1} e \ref{eq:parametro_p2}~\cite{IBFT2025}.
+
+\begin{equation}
+    y'_{perm,n} = p_1 x_n e^{-p_2 x_n}
+    \label{eq:fluxo_curva_c}
+\end{equation}
+
+\begin{subequations}
+\begin{minipage}{0.40\textwidth}
+    \begin{equation}
+        p_1 = \frac{y_{perm,1}}{x_1} e^{p_2 x_1}
+        \label{eq:parametro_p1}
+    \end{equation}
+\end{minipage}
+\hfill
+\begin{minipage}{0.58\textwidth}
+    \begin{equation}
+        p_2 = -\frac{
+            \ln\left(\frac{y_{perm,1}\cdot x_2}
+            {y_{perm,2}\cdot x_1}\right)
+        }{x_1 - x_2}
+        \label{eq:parametro_p2}
+    \end{equation}
+\end{minipage}
+\end{subequations}
+
 
 A figura \ref{fig:exemplocurvas} ilustra as curvas geradas pelo equipamento ao final dos ensaios. Repetiu-se este procedimento para três amostras de cada membrana. Como resultado, obteve-se a distribuição de poros, o diâmetro médio e a porosidade das membranas estudadas.
 
@@ -117,7 +160,9 @@ A figura \ref{fig:exemplocurvas} ilustra as curvas geradas pelo equipamento ao f
 
 \subsection{Ângulo de contato}
 
-A análise com o goniômetro utiliza o método da gota séssil, no qual uma gota de água deionizada é colocada sobre a superfície da membrana e registrada por um sistema de aquisição de imagens de alta resolução. Para a determinação do ângulo de contato foram realizadas três medições para cada membrana. A análise com o microscópio digital permitiu visualizar a estrutura dos suportes empregados nas membranas.% A figura \ref{fig:hirox} apresenta os equipamentos utilizados.
+A análise com o goniômetro utiliza o método da gota séssil, no qual uma gota de água deionizada é colocada sobre a superfície da membrana e registrada por um sistema de aquisição de imagens de alta resolução. 
+
+Para a determinação do ângulo de contato foram separadas três amostras de cada membrana, antes e após o tratamento da água de produção real. A partir disso, realizaram-se três medições para cada amostra. A análise com o microscópio digital permitiu visualizar a estrutura dos suportes empregados nas membranas. A figura \ref{fig:hirox} apresenta os equipamentos utilizados.
 
 \begin{figure}[H]
    \centering
@@ -128,24 +173,21 @@ A análise com o goniômetro utiliza o método da gota séssil, no qual uma gota
 
 \subsection{Pressão de entrada de líquido (LEP)}
 
-Calculou-se o LEP com base nos resultados obtidos durante a caracterização das membranas através da equação de Young-Laplace \ref{eq:LEP}:
+Calculou-se o LEP com base nos resultados obtidos durante a caracterização das membranas, virgens e utilizadas no tratamento de água de produção real, através da equação~\ref{eq:LEP_rev}. No presente estudo o fator de forma foi considerado como 1, de modo a considerar o poro como um cilindro ideal.  
 
-\vspace{-0.8cm}
-\begin{equation}
-    LEP = -\frac{2 \cdot B \cdot \gamma_L \cos\theta}{r_{\max}},
-    \label{eq:LEP}
-\end{equation}
-\vspace{-0.8cm}
+\subsection{MEV e EDS}
 
-onde $\gamma_L$ é a tensão superficial do líquido, $\theta$ é o ângulo de contato entre o líquido e a superfície da membrana, $r_{\max}$ é o maior raio de poro da membrana e $B$ o fator de forma atribuído ao poro. No presente estudo o fator de forma foi considerado como 1, de modo a considerar o poro como um cilindro ideal. 
+Realizou-se a análise de microscopia eletrônica de varredura e espectroscopia por dispersão de energia de raois-x através da contratação de serviço com o laboratório AFINKO Soluções em Polímeros Ltda, onde empregou-se um MEV FEI, modelo Inspect S50 e um EDS Bruker, modelo XLFlash 6|60.
 
-\subsection{Microscopia eletrônica de varredura}
+Realizou-se a avaliação de amostras antes e após o tratamento de água de produção real, analisando a superfície frontal (em contato com a alimentação), a posterior(voltada para o espaçamento de ar) e a seção transversal.
 
-- Acrescentar
+As amostras foram preparadas mediante recobrimento com ouro nas superfícies e fratura criogênica para observar a seção transversal. Aplicaram-se nas imagens aumentos de 100x, 500x e 2000x.
 
 \subsection{Compatibilidade química}
 
-- Acrescentar
+Avaliou-se a compatibilidade química entre os materias das membranas e os contaminantes presentes na água de produção.
+
+-PAREI AQUI.
 
 \section{Águas produzidas sintética e real}
 

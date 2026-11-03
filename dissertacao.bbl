@@ -1,4 +1,4 @@
-\begin{thebibliography}{97}
+\begin{thebibliography}{98}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -965,6 +965,13 @@
 \newblock Dispon{\' i}vel em:
   \textless\url{https://www.tischscientific.com/}\textgreater .
 \newblock Acesso em: 09 abr. 2026.
+
+\bibitem[\MakeUppercase{{IB-FT GmbH}}(2025){IB-FT GmbH}]{IBFT2025}
+\MakeUppercase{{IB-FT GmbH}}.
+\newblock \emph{{Operating Manual: Porometer POROLUX Revo -- PoreSmart
+  Software}}, v4.2 en ed.
+\newblock {IB-FT GmbH}, Berlin, Germany, 2025.
+\newblock Document No. V4.2EN. Last amendment: January 15, 2025. 175 p.
 
 \bibitem[\MakeUppercase{{ASTM International}}(2003){ASTM
   International}]{ASTM_F316_03}

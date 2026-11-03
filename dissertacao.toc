@@ -26,23 +26,23 @@
 \contentsline {section}{\numberline {3.2}Membranas avaliadas}{30}{section.3.2}%
 \contentsline {section}{\numberline {3.3}Caracterização das membranas}{31}{section.3.3}%
 \contentsline {subsection}{\numberline {3.3.1}Porometria de fluxo capilar}{31}{subsection.3.3.1}%
-\contentsline {subsection}{\numberline {3.3.2}Ângulo de contato}{32}{subsection.3.3.2}%
-\contentsline {subsection}{\numberline {3.3.3}Pressão de entrada de líquido (LEP)}{32}{subsection.3.3.3}%
-\contentsline {subsection}{\numberline {3.3.4}Microscopia eletrônica de varredura}{33}{subsection.3.3.4}%
-\contentsline {subsection}{\numberline {3.3.5}Compatibilidade química}{33}{subsection.3.3.5}%
-\contentsline {section}{\numberline {3.4}Águas produzidas sintética e real}{33}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Indicadores de desempenho e análise de incertezas}{34}{section.3.5}%
-\contentsline {section}{\numberline {3.6}Protocolo de operação de longa duração}{35}{section.3.6}%
-\contentsline {section}{\numberline {3.7}Caracterização pós-operação - Tratamento e análise de dados}{36}{section.3.7}%
-\contentsline {chapter}{\numberline {4}RESULTADOS E ANÁLISES}{37}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Evolução do fluxo e da rejeição iônica}{37}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Molhamento progressivo}{37}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Fouling e scaling}{37}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Durabilidade química em concentração de campo}{37}{section.4.4}%
-\contentsline {section}{\numberline {4.5}Integridade estrutural das membranas}{37}{section.4.5}%
-\contentsline {section}{\numberline {4.6}Qualidade do permeado}{37}{section.4.6}%
-\contentsline {section}{\numberline {4.7}Caracterização das membranas}{37}{section.4.7}%
-\contentsline {section}{\numberline {4.8}Resultados de curto prazo}{38}{section.4.8}%
-\contentsline {section}{\numberline {4.9}Resultados de longo prazo}{40}{section.4.9}%
-\contentsline {chapter}{\numberline {5}CONCLUSÕES}{42}{chapter.5}%
-\contentsline {chapter}{\numberline {6}TRABALHOS FUTUROS}{44}{chapter.6}%
+\contentsline {subsection}{\numberline {3.3.2}Ângulo de contato}{33}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Pressão de entrada de líquido (LEP)}{33}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4}MEV e EDS}{33}{subsection.3.3.4}%
+\contentsline {subsection}{\numberline {3.3.5}Compatibilidade química}{34}{subsection.3.3.5}%
+\contentsline {section}{\numberline {3.4}Águas produzidas sintética e real}{34}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Indicadores de desempenho e análise de incertezas}{35}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Protocolo de operação de longa duração}{36}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Caracterização pós-operação - Tratamento e análise de dados}{37}{section.3.7}%
+\contentsline {chapter}{\numberline {4}RESULTADOS E ANÁLISES}{38}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Evolução do fluxo e da rejeição iônica}{38}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Molhamento progressivo}{38}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Fouling e scaling}{38}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Durabilidade química em concentração de campo}{38}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Integridade estrutural das membranas}{38}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Qualidade do permeado}{38}{section.4.6}%
+\contentsline {section}{\numberline {4.7}Caracterização das membranas}{38}{section.4.7}%
+\contentsline {section}{\numberline {4.8}Resultados de curto prazo}{39}{section.4.8}%
+\contentsline {section}{\numberline {4.9}Resultados de longo prazo}{41}{section.4.9}%
+\contentsline {chapter}{\numberline {5}CONCLUSÕES}{43}{chapter.5}%
+\contentsline {chapter}{\numberline {6}TRABALHOS FUTUROS}{45}{chapter.6}%

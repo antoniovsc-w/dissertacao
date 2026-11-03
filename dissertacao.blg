@@ -20,45 +20,45 @@ Warning--can't use both volume and number fields in Hoek2021
 `address' is a missing field, not a string, for entry Hoek2021
 while executing---line 1327 of file coppe-unsrt.bst
 Warning--empty publisher in Hoek2021
-You've used 97 entries,
+You've used 98 entries,
             2630 wiz_defined-function locations,
-            1334 strings with 31460 characters,
-and the built_in function-call counts, 43711 in all, are:
-= -- 3759
-> -- 2084
-< -- 74
-+ -- 883
-- -- 684
-* -- 4437
-:= -- 6871
-add.period$ -- 504
-call.type$ -- 97
-change.case$ -- 101
-chr.to.int$ -- 92
-cite$ -- 100
-duplicate$ -- 2329
-empty$ -- 3981
-format.name$ -- 807
-if$ -- 9127
+            1341 strings with 31635 characters,
+and the built_in function-call counts, 43988 in all, are:
+= -- 3786
+> -- 2091
+< -- 75
++ -- 887
+- -- 686
+* -- 4456
+:= -- 6915
+add.period$ -- 508
+call.type$ -- 98
+change.case$ -- 103
+chr.to.int$ -- 93
+cite$ -- 101
+duplicate$ -- 2348
+empty$ -- 4008
+format.name$ -- 810
+if$ -- 9185
 int.to.chr$ -- 6
-int.to.str$ -- 98
+int.to.str$ -- 99
 missing$ -- 94
-newline$ -- 617
-num.names$ -- 293
-pop$ -- 644
+newline$ -- 623
+num.names$ -- 296
+pop$ -- 649
 preamble$ -- 1
-purify$ -- 97
+purify$ -- 98
 quote$ -- 0
-skip$ -- 1056
+skip$ -- 1065
 stack$ -- 0
-substring$ -- 1574
-swap$ -- 724
+substring$ -- 1576
+swap$ -- 729
 text.length$ -- 42
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 658
+type$ -- 665
 warning$ -- 3
-while$ -- 294
+while$ -- 296
 width$ -- 0
-write$ -- 1580
+write$ -- 1596
 (There were 3 error messages)
