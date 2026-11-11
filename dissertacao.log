@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.10.19)  4 NOV 2026 16:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.10.19)  11 NOV 2026 16:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -989,10 +989,9 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 [1
 
 
-] [2] [3{C:/Program Files/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.enc}])
-(Chapters/002Revision/Revision.tex [4]
+] [2] [3]) (Chapters/002Revision/Revision.tex [4]
 Cap\'{\i }tulo 2.
-<graficopublicacoes.png, id=440, 491.436pt x 289.68225pt>
+<graficopublicacoes.png, id=439, 491.436pt x 289.68225pt>
 File: graficopublicacoes.png Graphic file (type png)
 <use graficopublicacoes.png>
 Package pdftex.def Info: graficopublicacoes.png  used on input line 12.
@@ -1022,7 +1021,7 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 (Font)              scaled to size 14.4pt on input line 136.
 
 [9] [10]
-<Esquema agmd.png, id=575, 1379.1525pt x 1149.29375pt>
+<Esquema agmd.png, id=574, 1379.1525pt x 1149.29375pt>
 File: Esquema agmd.png Graphic file (type png)
 <use Esquema agmd.png>
 Package pdftex.def Info: Esquema agmd.png  used on input line 186.
@@ -1034,7 +1033,7 @@ has been already used, duplicate ignored
                                                   \__shipout_drop_firstpage_...
 l.252 
        <./Esquema agmd.png (PNG copy)>] [13] [14] [15]
-<Diagrama de kao_rev.png, id=682, 1326.9575pt x 1194.4625pt>
+<Diagrama de kao_rev.png, id=681, 1326.9575pt x 1194.4625pt>
 File: Diagrama de kao_rev.png Graphic file (type png)
 <use Diagrama de kao_rev.png>
 Package pdftex.def Info: Diagrama de kao_rev.png  used on input line 327.
@@ -1047,7 +1046,7 @@ has been already used, duplicate ignored
 l.340 O
         molhamento dos poros pode ocorrer de maneira parcial ou completa, co...
  <./Diagrama de kao_rev.png (PNG copy)>]
-<molhamento_poro_rev.png, id=705, 1505.625pt x 1052.93375pt>
+<molhamento_poro_rev.png, id=704, 1505.625pt x 1052.93375pt>
 File: molhamento_poro_rev.png Graphic file (type png)
 <use molhamento_poro_rev.png>
 Package pdftex.def Info: molhamento_poro_rev.png  used on input line 350.
@@ -1071,7 +1070,7 @@ LaTeX Info: Symbol \textmu not provided by
  [24] [25] [26]) (Chapters/003Methodology/Methodology.tex
 [27]
 Cap\'{\i }tulo 3.
-<modulomontado.jpeg, id=931, 960.58875pt x 720.44156pt>
+<modulomontado.jpeg, id=930, 960.58875pt x 720.44156pt>
 File: modulomontado.jpeg Graphic file (type jpg)
 <use modulomontado.jpeg>
 Package pdftex.def Info: modulomontado.jpeg  used on input line 13.
@@ -1085,12 +1084,12 @@ has been already used, duplicate ignored
                                                   \__shipout_drop_firstpage_...
 l.19 
       <./modulomontado.jpeg>]
-<bancadaevistaexplodida.png, id=938, 1149.29375pt x 605.26125pt>
+<bancadaevistaexplodida.png, id=937, 1149.29375pt x 605.26125pt>
 File: bancadaevistaexplodida.png Graphic file (type png)
 <use bancadaevistaexplodida.png>
 Package pdftex.def Info: bancadaevistaexplodida.png  used on input line 23.
 (pdftex.def)             Requested size: 426.7928pt x 224.7651pt.
-<diagramabancada.png, id=945, 1541.76pt x 1027.84pt>
+<diagramabancada.png, id=944, 1541.76pt x 1027.84pt>
 File: diagramabancada.png Graphic file (type png)
 <use diagramabancada.png>
 Package pdftex.def Info: diagramabancada.png  used on input line 51.
@@ -1120,7 +1119,7 @@ as been already used, duplicate ignored
                                                   \__shipout_drop_firstpage_...
 l.99 
       <./diagramabancada.png (PNG copy)>]
-<Porolux.jpeg, id=961, 462.97969pt x 694.09312pt>
+<Porolux.jpeg, id=960, 462.97969pt x 694.09312pt>
 File: Porolux.jpeg Graphic file (type jpg)
 <use Porolux.jpeg>
 Package pdftex.def Info: Porolux.jpeg  used on input line 108.
@@ -1136,7 +1135,7 @@ Overfull \hbox (10.88708pt too wide) in paragraph at lines 133--150
 [][]  [] 
  []
 
-<exemplocurvasporometer.png, id=981, 651.93562pt x 310.15875pt>
+<exemplocurvasporometer.png, id=980, 651.93562pt x 310.15875pt>
 File: exemplocurvasporometer.png Graphic file (type png)
 <use exemplocurvasporometer.png>
 Package pdftex.def Info: exemplocurvasporometer.png  used on input line 156.
@@ -1148,7 +1147,7 @@ has been already used, duplicate ignored
                                                   \__shipout_drop_firstpage_...
 l.164 
        <./exemplocurvasporometer.png>]
-<hirox.png, id=992, 455.45157pt x 190.46156pt>
+<hirox.png, id=991, 455.45157pt x 190.46156pt>
 File: hirox.png Graphic file (type png)
 <use hirox.png>
 Package pdftex.def Info: hirox.png  used on input line 169.
@@ -1160,7 +1159,7 @@ has been already used, duplicate ignored
                                                   \__shipout_drop_firstpage_...
 l.186 \subsection
                  {Compatibilidade química} <./hirox.png>]
-<campodelapa.png, id=1002, 1129.21875pt x 565.11125pt>
+<campodelapa.png, id=1001, 1129.21875pt x 565.11125pt>
 File: campodelapa.png Graphic file (type png)
 <use campodelapa.png>
 Package pdftex.def Info: campodelapa.png  used on input line 203.
@@ -1182,7 +1181,7 @@ Cap\'{\i }tulo 4.
 [38
 
 ]
-<resultadohirox.png, id=1042, 1450.41875pt x 1093.08376pt>
+<resultadohirox.png, id=1041, 1450.41875pt x 1093.08376pt>
 File: resultadohirox.png Graphic file (type png)
 <use resultadohirox.png>
 Package pdftex.def Info: resultadohirox.png  used on input line 101.
@@ -1194,7 +1193,7 @@ as been already used, duplicate ignored
                                                   \__shipout_drop_firstpage_...
 l.111 N
        estes experimentos, observou-se que as membranas M4 e M6 apresentaram...
-
+{C:/Program Files/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.enc}
 pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
@@ -1345,10 +1344,10 @@ Package rerunfilecheck Info: File `dissertacao.out' has not changed.
 (rerunfilecheck)             Checksum: 3032C7CD8329438C4426C4BBF7EE2484;9574.
  ) 
 Here is how much of TeX's memory you used:
- 17829 strings out of 467392
- 281179 string characters out of 5415723
- 742100 words of memory out of 5000000
- 46545 multiletter control sequences out of 15000+600000
+ 17826 strings out of 467392
+ 281108 string characters out of 5415723
+ 742102 words of memory out of 5000000
+ 46542 multiletter control sequences out of 15000+600000
  685216 words of font info for 101 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  74i,10n,79p,1887b,784s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1361,7 +1360,7 @@ xexs.pfb><C:/Program Files/MiKTeX/fonts/type1/public/newtx/txmiaX.pfb><C:/Progr
 am Files/MiKTeX/fonts/type1/public/newtx/txsys.pfb><C:/Program Files/MiKTeX/fon
 ts/type1/public/newtx/ztmb.pfb><C:/Program Files/MiKTeX/fonts/type1/public/newt
 x/ztmr.pfb><C:/Program Files/MiKTeX/fonts/type1/public/newtx/ztmri.pfb>
-Output written on dissertacao.pdf (67 pages, 12907597 bytes).
+Output written on dissertacao.pdf (67 pages, 12907434 bytes).
 PDF statistics:
  1399 PDF objects out of 1440 (max. 8388607)
  258 named destinations out of 1000 (max. 500000)
