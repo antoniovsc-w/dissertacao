@@ -22,43 +22,43 @@ while executing---line 1327 of file coppe-unsrt.bst
 Warning--empty publisher in Hoek2021
 You've used 98 entries,
             2630 wiz_defined-function locations,
-            1341 strings with 31635 characters,
-and the built_in function-call counts, 43988 in all, are:
-= -- 3786
-> -- 2091
-< -- 75
-+ -- 887
-- -- 686
-* -- 4456
-:= -- 6915
-add.period$ -- 508
+            1339 strings with 31451 characters,
+and the built_in function-call counts, 43851 in all, are:
+= -- 3781
+> -- 2062
+< -- 77
++ -- 877
+- -- 676
+* -- 4435
+:= -- 6880
+add.period$ -- 506
 call.type$ -- 98
 change.case$ -- 103
 chr.to.int$ -- 93
 cite$ -- 101
 duplicate$ -- 2348
-empty$ -- 4008
-format.name$ -- 810
-if$ -- 9185
+empty$ -- 4009
+format.name$ -- 800
+if$ -- 9162
 int.to.chr$ -- 6
 int.to.str$ -- 99
 missing$ -- 94
-newline$ -- 623
+newline$ -- 621
 num.names$ -- 296
-pop$ -- 649
+pop$ -- 650
 preamble$ -- 1
 purify$ -- 98
 quote$ -- 0
-skip$ -- 1065
+skip$ -- 1066
 stack$ -- 0
-substring$ -- 1576
+substring$ -- 1583
 swap$ -- 729
-text.length$ -- 42
+text.length$ -- 43
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 665
 warning$ -- 3
-while$ -- 296
+while$ -- 297
 width$ -- 0
-write$ -- 1596
+write$ -- 1592
 (There were 3 error messages)

@@ -1,23 +1,13 @@
 \chapter{REVISÃO BIBLIOGRÁFICA}
 
-Para observar o estado da arte sobre tratamento de água de produção via destilação por membranas, realizou-se o levantamento de artigos através da plataforma \emph{Scopus}, no dia 19/01/2026, através da seguinte \textit{string} de busca: "Membrane AND Distillation AND Produced Water. Também foram aplicados os seguintes filtros: período de publicação (2015 a 2025), idioma inglês, sub áreas engenharia e engenharia química, palavras chaves "Distillation" e "Produced water" e com acesso livre.
+%\begin{figure}[H]
+    %\centering
+   % \includegraphics[width=\textwidth, height=6cm, keepaspectratio]{graficopublicacoes.png}
+  %  \caption{Número de publicações ao longo dos anos durante o período pesquisado.}
+ %   \label{fig:graficopublicacoes}
+%\end{figure}
 
-Como resultado da pesquisa, foram obtidos 537 artigos, fig.~\ref{fig:graficopublicacoes}, os quais foram avaliados com base em seus respectivos títulos e resumos, onde considerou-se pertinentes aqueles que abordam os fundamentos e configurações da destilação por membrana, o tratamento de água de produção e os modos de falha do processo, de modo a reduzir para 100 artigos.
-
-Além dos artigos selecionados, também foram incorporados artigos sobre temas que não foram incluidos na \textit{string} de busca principal, de modo a complementar a revisão em aspectos gerais sobre o tratamento da água de produção, técnicas de caracterização e interação química entre materiais.
-
-
-\begin{figure}[H]
-    \centering
-    \includegraphics[width=\textwidth, height=6cm, keepaspectratio]{graficopublicacoes.png}
-    \caption{Número de publicações ao longo dos anos durante o período pesquisado.}
-    \label{fig:graficopublicacoes}
-\end{figure}
-
-\section{Água de produção: composição, gestão e tratamento}
-
-Como comentado na introdução, a água de produção é composta pela água de formação e pela água de injeção, de modo a apresentar características dependentes da localização geográfica, geologia, idade do poço e técnicas de recuperação empregadas~\cite{Rajbongshi2024ProducedWaterReview, w15234088}.  A tabela~\ref{tab:composicao_AP} apresenta faixas de concentrações dos principais contaminantes observados.  
-
+%\section{Água de produção: composição, gestão e tratamento}
 
 \begin{longtable}{p{7.5cm}>{\raggedleft\arraybackslash}p{3.3cm}>{\centering\arraybackslash}p{1.8cm}}
 \caption[Principais contaminantes presentes na água de produção]
@@ -107,25 +97,25 @@ Inibidores de corrosão & 0,3 - 10 & ~$mgL^{-1}$\\
 Inibidores de incrustação & 0,2 - 30 & ~$mgL^{-1}$\\
 \end{longtable}
 
+A água de produção é composta pela água de formação e pela água de injeção, e suas características dependem da localização geográfica, geologia, idade do poço e técnicas de recuperação empregadas~\cite{Rajbongshi2024ProducedWaterReview, w15234088}.  A tabela~\ref{tab:composicao_AP} apresenta faixas de concentrações dos principais contaminantes observados. 
+
 Quanto aos contaminantes orgânicos, destacam-se os óleos e graxas livres, dispersos e emulsificados, além de hidrocarbonetos aromáticos voláteis como BTEX (benzeno, tolueno, etilbenzeno e xilenos), hidrocarbonetos policíclicos aromáticos (PAHs), compostos fenólicos e ácidos orgânicos solúveis (como acético e fórmico)~\cite{Rajbongshi2024ProducedWaterReview, w15234088,ALLEY201174,ALGHOUTI2019222}.
 
-O principal parâmetro inorgânico é a salinidade, cujas concentrações variam desde águas marinhas até salmouras hipersalinas, as quais são amplamente dominadas por íons de sódio ($\text{Na}^+$) e cloreto ($\text{Cl}^-$). 
-
-A solução também apresenta sólidos em suspensão (TSS), metais pesados, materiais radioativos de ocorrência natural (NORMs) e resíduos de aditivos químicos industriais injetados nas etapas de perfuração, fraturamento e produção (como biocidas, inibidores de corrosão e desemulsificantes)~\cite{Rajbongshi2024ProducedWaterReview, w15234088,ALLEY201174,ALGHOUTI2019222}. 
+O principal parâmetro inorgânico é a salinidade, cujas concentrações variam desde águas com baixa salinidade até salmouras hipersalinas, as quais são amplamente dominadas por íons de sódio ($\text{Na}^+$) e cloreto ($\text{Cl}^-$). A solução também apresenta sólidos em suspensão (TSS), metais pesados, materiais radioativos de ocorrência natural (NORMs) e resíduos de aditivos químicos industriais injetados nas etapas de perfuração, fraturamento e produção~\cite{Rajbongshi2024ProducedWaterReview, w15234088,ALLEY201174,ALGHOUTI2019222}. 
 
 A presença dos contaminantes inorgânicos, principalmente em concentrações próximas a saturação, propiciam precipitação de sais minerais inorgânicos de baixa solubilidade, desencadeada por variações de temperatura, pressão e pH. Tal processo é impulsionado pela presença concomitante de cátions bivalentes ou multivalentes, como cálcio ($\text{Ca}^{2+}$), magnésio ($\text{Mg}^{2+}$), estrôncio ($\text{Sr}^{2+}$) e bário ($\text{Ba}^{2+}$), e de ânions reativos, principalmente bicarbonato ($\text{HCO}_3^-$) e sulfato ($\text{SO}_4^{2-}$)~\cite{AKSTINAT2019124011,Rajbongshi2024ProducedWaterReview,Ghafoori2022ProducedWater}.
 
 A utilização de água do mar sem tratamento, rica em sulfatos, pode promover a geração  de incrustações insolúveis e de difícil remoção, como sulfato de bário ($\text{BaSO}_4$), sulfato de estrôncio ($\text{SrSO}_4$) e sulfato de cálcio ($\text{CaSO}_4$), além de compostos de ferro ($\text{FeS}$, $\text{FeCO}_3$) e silicatos~\cite{AKSTINAT2019124011,Rajbongshi2024ProducedWaterReview}.
 
-A gestão da água de produção pode ser realizada principalmente através do descarte no mar, da reinjeção em poços específicos para descarte ou no próprio poço onde ocorre a exploração~\cite{Ghafoori2022ProducedWater,Jimenez2018ProducedWater}. 
+A gestão da água de produção pode ser realizada principalmente através do descarte no mar, da reinjeção em poços específicos para descarte ou no próprio reservatório onde ocorre a exploração, através de um poço de injeção, o qual é resposável pela manutenção da pressão no reservatório e direcionamento do óleo remanescente ao poço produtor~\cite{Ghafoori2022ProducedWater,Jimenez2018ProducedWater}. 
 
 O descarte no mar exige o atendimento as regulamentações ambientais do local de extração, como a recomendação 2001/1 da convenção Oslo Paris, que determina uma concentração de 30~$mgL^{-1}$ de óleo em água~\cite{OSPAR2001}; a agência de proteção ambiental dos Estados Unidos (USEPA) e a resolução número 393/2007 do Conselho Nacional do Meio Ambiente (CONAMA) determinam uma concentração média mensal inferior a 29~$mgL^{-1}$ para óleos e graxas e um valor diário máximo de 42~$mgL^{-1}$~\cite{EPA435,CONAMA3932007}.  
 
-Para a reinjeção, é necessário garantir TSS abaixo de 10~$mgL^{-1}$ e óleos e graxas abaixo de 42~$mgL^{-1}$, de modo a evitar entupimento dos poros do reservatório e o desgaste de equipamentos~\cite{Ghafoori2022ProducedWater,Jimenez2018ProducedWater}.
+Para a reinjeção, é necessário garantir TSS abaixo de 10~$mgL^{-1}$ e óleos e graxas abaixo de 42~$mgL^{-1}$, de modo a evitar entupimento dos poros do reservatório e o desgaste de equipamentos~\cite{Ghafoori2022ProducedWater,Jimenez2018ProducedWater}. Deste modo, independente da técnica de gestão a ser aplicada, é necessário o tratamento da água de produção.
 
-Deste modo, independente da técnica de gestão a ser aplicada, é necessário o tratamento da água de produção. Para isso, são aplicadas diferentes etapas de tratamento, as quais funcionam mediante diferentes mecanismos, onde cada um visa tipos específicos de contaminantes~\cite{Devold2013,Hoek2021}. O tratamento pode ser dividido entre primário, secundário, terciário e quaternário, em que cada etapa pode ser auxiliada através de tratamentos químicos e biológicos~\cite{Amakiri2022,FakhrulRazi2009}. 
+O tratamento é realizado através de diferentes etapas, as quais funcionam mediante diferentes mecanismos, onde cada um visa tipos específicos de contaminantes~\cite{Devold2013,Hoek2021}. O tratamento pode ser dividido entre primário, secundário, terciário e quaternário, em que cada etapa pode ser auxiliada através de tratamentos químicos e biológicos~\cite{Amakiri2022,FakhrulRazi2009}. 
 
-Os tratamentos primários e secundários apresentam como mecanismos separação gravitacional e aceleração induzida, respectivamente, de modo a promover a remoção de sedimentos, detritos, óleos e graxas livres, dispersos ou emulsionados e sólidos suspensos~\cite{Devold2013,Hoek2021}. Como principais equipamentos empregados, pode-se citar separadores trifásicos e API, interceptadores de placa corrugada, flotadores, hidrociclones e centrífugas~\cite{FakhrulRazi2009,Amakiri2022}.
+Os tratamentos primários e secundários apresentam como mecanismos separação gravitacional e aceleração induzida, respectivamente, de modo a promover a remoção de sedimentos, detritos, óleos e graxas livres, dispersos ou emulsionados e sólidos suspensos~\cite{Devold2013,Hoek2021}. Como principais equipamentos empregados, pode-se citar separadores trifásicos e API (\textit{American Petroleum Institute}) para o tratamento primário e interceptadores de placa corrugada, flotadores, hidrociclones e centrífugas para o tratamento secundário~\cite{FakhrulRazi2009,Amakiri2022}.
 
 O tratamento terciário tem como princípio a adsorção e filtração, focado na remoção de hidrocarbonetos solúveis e sólidos suspensos~\cite{Amakiri2022,Hoek2021} através da aplicação de meios filtrantes como casca de noz, areia, carvão antracito ou ativado, zeolitas ou argilas~\cite{Hoek2021,Ibrahim2023}, assim como microfiltração, ultrafiltração e trocadores iônicos~\cite{Igunnu2014,Hoek2021}.
 
@@ -133,28 +123,35 @@ O tratamento quaternário tem como objetivo a dessalinização, através da apli
 
 \section{Destilação por membranas}
 
-\subsection{Fundamentos e configurações}
+%\subsection{Fundamentos e configurações}
 
 A destilação por membranas é um processo de separação no qual uma membrana hidrofóbica e microporosa atua como barreira à passagem da fase líquida e permite o transporte de vapor através dos poros. A força motriz do processo é a diferença de pressão de vapor parcial entre os dois lados da membrana, decorrente principalmente do gradiente de temperatura entre a alimentação e o lado do permeado~\cite{Parani2021,Olatunji2018MDModeling}
 
-A pressão de vapor parcial no lado do permeado pode ser estimada através da equação de Antoine, a qual aumenta exponencialmente em função do aumento da temperatura. Entretanto, para soluções salinas, a presença de solutos não voláteis reduz a atividade da água e, consequentemente, sua pressão de vapor em relação à água pura na mesma temperatura. A pressão de vapor parcial na água de produção pode ser estimada através de correlações em função da salinidade da solução~\cite{Nayar2016,Olatunji2018MDModeling}.
+A pressão de vapor parcial no lado do permeado pode ser estimada através da equação de Antoine~\cite{wisniak2001historical}, a qual aumenta exponencialmente em função do aumento da temperatura. Entretanto, para soluções salinas, a presença de solutos não voláteis reduz a atividade da água e, consequentemente, sua pressão de vapor em relação à água pura na mesma temperatura. A pressão de vapor parcial na água de produção pode ser estimada através de correlações em função da salinidade da solução~\cite{Nayar2016,Olatunji2018MDModeling}.
 
-O fluxo através da membrana pode ser quantificado com a equação \ref{eq:fluxo_geral}, onde $J_i$ corresponde ao fluxo, $B$ o fator de proporcionalidade e $\Delta p_i$ é a diferença de pressão de vapor parcial. O subscrito i corresponde ao composto i presente no fluido\cite{mulder1996,Olatunji2018MDModeling,Chen2020}. 
-
-O parâmetro $B$ é dependente das características da membrana como espessura, diâmetro de poro, tortuosidade e porosidade. O calculo do parâmetro também é dependente do mecanismo de transferência de massa adotado nos poros da membrana, o qual pode ser difusão de Knudsen, molecular ou um conjunto de ambos~\cite{Olatunji2018MDModeling,Chen2020}. 
+O fluxo através da membrana pode ser quantificado com a equação \ref{eq:fluxo_geral}, onde $J_i$ corresponde ao fluxo, $B$ o fator de proporcionalidade e $\Delta p_i$ é a diferença de pressão de vapor parcial. O subscrito i corresponde ao composto i presente no fluido, enquanto o parâmetro $B$ é dependente das características morfológicas da membrana e do mecanismo de transferência de massa adotado nos poros da membrana, o qual pode ser difusão de Knudsen, molecular ou um conjunto de ambos~\cite{mulder1996,Olatunji2018MDModeling,Chen2020}.
 
 \begin{equation}
 J_{i} = B \cdot \Delta p_{i}
 \label{eq:fluxo_geral}
 \end{equation}
 
-O processo de destilação por membranas pode ser realizado através de quatro configurações principais, as quais são contato direto, com espaçamento de ar, a vácuo e com gás de varregura. Além das configurações principais existem variações como espaçamento de permeado e espaçamento de ar assistido por vácuo~\cite{Olatunji2018MDModeling,Parani2021}.
+O processo de destilação por membranas pode ser realizado através de quatro configurações principais, as quais são contato direto, com espaçamento de ar, a vácuo e com gás de varregura. Além das configurações principais existem variações como espaçamento de permeado e espaçamento de ar assistido por vácuo~\cite{Olatunji2018MDModeling,Parani2021}. A figura~\ref{fig:config_md} apresenta as configurações DCMD, VMD e SGMD.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[
+        width=\textwidth,
+        height=\textheight,
+        keepaspectratio
+    ]{modulos_md_rev.png}
+    \caption{Configurações de módulos de destilação por memebrana}
+    \label{fig:config_md}
+\end{figure}
 
 O desempenho do processo de destilação por membranas é determinado pela interação entre as condições operacionais, as características da alimentação, as propriedades da membrana e a configuração do módulo~\cite{Gonzalez2017,Swaminathan2018}. Esses fatores influenciam diretamente os mecanismos de transferência de calor e massa, de modo a determinar a força motriz efetiva para o transporte de vapor e, consequentemente, o fluxo de permeado produzido~\cite{Eykens2016}. 
 
-Além disso, entre os fenômenos associados ao transporte de calor e massa, destacam-se a polarização de temperatura e de concentração. A polarização de temperatura decorre da diferença entre as temperaturas das superfícies da membrana e as temperaturas médias dos fluidos, a qual reduz o gradiente térmico efetivo disponível para a evaporação e o transporte de vapor~\cite{Eykens2016,Hijaz2023,Dong2021}.
-
-Por sua vez, a polarização de concentração está associada ao acúmulo de solutos não voláteis nas proximidades da superfície da membrana, de modo a promover uma redução local da pressão de vapor da água~\cite{Eykens2016,Dong2021}.
+Entre os fenômenos associados ao transporte de calor e massa, destacam-se a polarização de temperatura e a polarização de concentração. A primeira decorre da diferença entre as temperaturas das superfícies da membrana e as temperaturas médias dos fluidos, o que reduz o gradiente térmico efetivo disponível para a evaporação e o transporte de vapor. A segunda está associada ao acúmulo de solutos não voláteis nas proximidades da superfície da membrana, o que provoca uma redução local da pressão de vapor da água~\cite{Eykens2016,Hijaz2023,Dong2021}
 
 A intensidade dos fenômenos de polarização dependem tanto das caracteristicas hidrodinâmicas quanto das características do processo, onde membranas finas com maior permeabilidade e condutividade térmica mostraram-se mais suscetíveis à polarização de temperatura e aos efeitos decorrentes do aumento da salinidade~\cite{Eykens2016,Chen2020}.
 
@@ -162,11 +159,11 @@ Em contrapartida, para membranas espessas as características morfológicas apre
 
 A configuração do módulo é outro fator determinante para a ocorrência dos fenômenos de polarização, assim como para o desempenho térmico e energético do processo, os quais variam em função da resistência a transferência de calor e massa inerente da configuração~\cite{Gonzalez2017,Swaminathan2018}.
 
-A comparação entre módulos DCMD e módulos com espaçamento com permeado (PGMD)\abbrev{PGMD}{Permeate gap membrane distillation} pode apresentar valores de \textit{gain output ratio} (GOR)\abbrev{GOR}{Gain output ratio} superiores aos obtidos em módulos AGMD quando aplicados ao tratamento de soluções com baixa salinidade. Entretanto, essa diferença de desempenho decai consideravelmente com o aumento da salinidade, de modo a tornar o AGMD mais favorável para o tratamento de soluções com soluções mais concentradas~\cite{Swaminathan2018,Ali2024ModuleDesign}.
+%A comparação entre módulos DCMD e módulos com espaçamento com permeado (PGMD)\abbrev{PGMD}{Permeate gap membrane distillation} pode apresentar valores de \textit{gain output ratio} (GOR)\abbrev{GOR}{Gain output ratio} superiores aos obtidos em módulos AGMD quando aplicados ao tratamento de soluções com baixa salinidade. Entretanto, essa diferença de desempenho decai consideravelmente com o aumento da salinidade, de modo a tornar o AGMD mais favorável para o tratamento de soluções com soluções mais concentradas~\cite{Swaminathan2018,Ali2024ModuleDesign}.
 
 \subsection{Destilação por membranas com espaçamento de ar (AGMD)}
 
-Na destilação por membrana com espaçamento de ar, fig.\ref{fig:esquema_agmd}, a membrana não fica em contato com o fluido de resfriamento, apenas com o de alimentação. Neste módulo o fluxo de vapor d'água atravessa a membrana e o espaçamento de ar, onde entra em contato com a superfície de resfriamento e ocorre a condensação. 
+Na destilação por membrana com espaçamento de ar, fig.(\ref{fig:esquema_agmd}), a membrana não fica em contato com o fluido de resfriamento, apenas com o de alimentação. Neste módulo o fluxo de vapor d'água atravessa a membrana e o espaçamento de ar, onde entra em contato com a superfície de resfriamento e ocorre a condensação. 
 
 Para realizar o balanço de energia é necessário calcular a quantidade de calor transferida entre a superfície da membrana até o filme condensado, eq.~\ref{eq: memb para film}, entre o filme de condensado e a superfície de resfriamento, eq.~\ref{eq: film para placa}, através da superfície de resfriamento, eq.~\ref{eq: atrav placa} e no fluido de resfriamento, eq.~\ref{eq: atrav resf}.
 
@@ -189,18 +186,19 @@ Outro ponto importante, é o cuidado quanto a redução excessiva do espaçament
 \end{figure}
 
 \begin{subequations}
-\begin{minipage}{0.43\textwidth}
+\noindent
+\begin{minipage}{0.46\textwidth}
     \begin{equation}
         Q_{ag} = \dfrac{k_g}{\delta}
-        \left( T_{rm} - T_{f} \right)
+        \left( T_{rm} - T_f \right)
         + J \Delta H_v
         \label{eq: memb para film}
     \end{equation}
 \end{minipage}%
 \hfill
-\begin{minipage}{0.43\textwidth}
+\begin{minipage}{0.46\textwidth}
     \begin{equation}
-        Q_{f} = h_{f} (T_{f} - T_{p1})
+        Q_f = h_f (T_f - T_{p1})
         \label{eq: film para placa}
     \end{equation}
 \end{minipage}
@@ -209,25 +207,25 @@ Outro ponto importante, é o cuidado quanto a redução excessiva do espaçament
 \vspace{3pt}
 
 \begin{subequations}
-\begin{minipage}{0.43\textwidth}
+\noindent
+\begin{minipage}{0.46\textwidth}
     \begin{equation}
-        Q_{cp} = \dfrac{k_c}{\delta_c} (T_{p1} - T_{p2})
+        Q_{cp} = \dfrac{k_c}{\delta_c}
+        (T_{p1} - T_{p2})
         \label{eq: atrav placa}
     \end{equation}
 \end{minipage}%
 \hfill
-\begin{minipage}{0.43\textwidth}
+\begin{minipage}{0.46\textwidth}
     \begin{equation}
-        Q_{r} = h_{r} (T_{p2} - T_{cf})
+        Q_r = h_r (T_{p2} - T_{cf})
         \label{eq: atrav resf}
-    \end{equation} 
+    \end{equation}
 \end{minipage}
 \end{subequations}
-
 \vspace{3pt}
 
 \begin{equation}
-    \centering
     T_{am} = T_{a} - \dfrac{(T_{a} - T_{cf}) + J \Delta H_v \left( h_m + \tfrac{\delta}{k_g} \right)}
     {h_f \left( h_m + \tfrac{\delta}{k_g} + \tfrac{1}{h_p} + \tfrac{1}{h_f} \right)}
     \label{eq: temp sup alim}
@@ -236,7 +234,6 @@ Outro ponto importante, é o cuidado quanto a redução excessiva do espaçament
 \vspace{3pt}
 
 \begin{equation}
-    \centering
      T_{f} = T_{r} + \dfrac{(T_{a} - T_{r}) + J \Delta H_v \left( h_m + \tfrac{\delta}{k_g} \right)}
      {h_p \left( h_m + \tfrac{\delta}{k_g} + \tfrac{1}{h_p} + \tfrac{1}{h_f} \right)}
     \label{eq: temp film}
@@ -526,6 +523,12 @@ Deste modo, experimentos de longa duração com água de produção real são pa
 
 A revisão bibliográfica evidencia que a destilação por membranas apresenta potencial para o tratamento de água de produção, de modo a proporcionar elevada rejeição de sais mesmo em alimentações com alta salinidade~\cite{Macedonio2014_MD_ProducedWater,Pawar2022AGMD}.
 
+Para observar o estado da arte sobre tratamento de água de produção via destilação por membranas, realizou-se o levantamento de artigos através da plataforma \emph{Scopus}, no dia 19/01/2026, através da seguinte \textit{string} de busca: "Membrane AND Distillation AND Produced Water. Também foram aplicados os seguintes filtros: período de publicação (2015 a 2025), idioma inglês, sub áreas engenharia e engenharia química, palavras chaves "Distillation" e "Produced water" e com acesso livre.
+
+Como resultado da pesquisa, foram obtidos 537 artigos, os quais foram avaliados com base em seus respectivos títulos e resumos, onde considerou-se pertinentes aqueles que abordam os fundamentos e configurações da destilação por membrana, o tratamento de água de produção e os modos de falha do processo.% de modo a reduzir para 100 artigos.
+
+Além dos artigos selecionados, também foram incorporados artigos sobre temas que não foram incluidos na \textit{string} de busca principal, de modo a complementar a revisão em aspectos gerais sobre o tratamento da água de produção, técnicas de caracterização e interação química entre materiais.
+
 Entretanto, os estudos analisados demonstram que a estabilidade do processo depende da interação entre as características da alimentação, as propriedades das membranas e as condições operacionais. Nesse contexto, a ocorrência de \textit{wetting}, \textit{fouling} e \textit{scaling} representa um dos principais desafios para a aplicação da tecnologia em operações prolongadas~\cite{Hsieh2021Pretreatments,Nawaz2021FO_MD,Pawar2022AGMD}.
 
 Embora diferentes estudos tenham demonstrado resultados satisfatórios em experimentos de curta duração~\cite{Singh2011DCMD,Macedonio2014_MD_ProducedWater}, é necessário a realização de experimentos de longa duração, uma vez que a exposição contínua aos contaminantes pode favorecer a formação progressiva de depósitos, alterações nas propriedades superficiais e molhamento dos poros, de modo que resultados obtidos em intervalos reduzidos não necessariamente representam o comportamento das membranas em operações de longa duração~\cite{Thakur2020SGMD,Hsieh2021Pretreatments,Abdelrazeq2022DCMD}.
@@ -539,3 +542,6 @@ Adicionalmente, apesar da influência das propriedades morfológicas e superfici
 A avaliação conjunta das propriedades iniciais das membranas, dos indicadores operacionais e das alterações observadas após os experimentos pode contribuir para compreender os mecanismos responsáveis pela perda de desempenho~\cite{Yao2020WettabilityMD,Abdelrazeq2022DCMD,Hsieh2021Pretreatments}.
 
 Diante dessas questões, torna-se pertinente a realização de estudos experimentais de longa duração com diferentes membranas comerciais, com o emprego de água de produção real e mimetizada, de modo a investigar a evolução do desempenho e da estabilidade operacional. A correlação entre características morfológicas e superficiais, qualidade do permeado e alterações observadas após a operação pode contribuir para identificar propriedades associadas à maior resistência ao molhamento e à formação de depósitos.
+
+
+

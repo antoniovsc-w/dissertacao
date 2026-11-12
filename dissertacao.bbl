@@ -411,6 +411,13 @@
 \newblock Dispon{\' i}vel em:
   \textless\url{https://doi.org/10.3390/membranes11120934}\textgreater .
 
+\bibitem[\MakeUppercase{Wisniak}(2001)Wisniak]{wisniak2001historical}
+\MakeUppercase{Wisniak, J.}
+\newblock \coppeenquote{Historical Development of the Vapor Pressure Equation
+  from Dalton to Antoine}, \emph{Journal of Phase Equilibria}, v.~22, n.~6,
+  \penalty0 pp.~622--630, 2001.
+\newblock \doi{10.1007/s11669-001-0028-5}.
+
 \bibitem[\MakeUppercase{Nayar}\emph{ et~al.}(2016)Nayar, Sharqawy, Banchik, e
   Lienhard~V]{Nayar2016}
 \MakeUppercase{Nayar, K.~G., Sharqawy, M.~H., Banchik, L.~D.,
@@ -492,18 +499,6 @@
 \newblock \doi{10.3390/membranes11020122}.
 \newblock Dispon{\' i}vel em:
   \textless\url{https://doi.org/10.3390/membranes11020122}\textgreater .
-
-\bibitem[\MakeUppercase{Ali}\emph{ et~al.}(2024)Ali, Agha~Shirazi, Nthunya,
-  Castro-Mu{\~n}oz, Ismail, Tavajohi, Zaragoza, e
-  Quist-Jensen]{Ali2024ModuleDesign}
-\MakeUppercase{Ali, A., Agha~Shirazi, M.~M., Nthunya, L.,
-  \MakeLowercase{et~al.}}
-\newblock \coppeenquote{Progress in Module Design for Membrane Distillation},
-  \emph{Desalination}, v.~581, \penalty0 pp.~117584, 2024.
-\newblock ISSN: 0011-9164.
-\newblock \doi{10.1016/j.desal.2024.117584}.
-\newblock Dispon{\' i}vel em:
-  \textless\url{https://doi.org/10.1016/j.desal.2024.117584}\textgreater .
 
 \bibitem[\MakeUppercase{Yeszhanov}\emph{ et~al.}(2021)Yeszhanov, Korolkov,
   Dosmagambetova, Zdorovets, e G{\"u}ven]{Yeszhanov2021}
