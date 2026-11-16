@@ -10,37 +10,36 @@
 \contentsline {section}{\numberline {1.3}Objetivos específicos}{3}{section.1.3}%
 \contentsline {chapter}{\numberline {2}REVISÃO BIBLIOGRÁFICA}{5}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Destilação por membranas}{9}{section.2.1}%
-\contentsline {subsection}{\numberline {2.1.1}Destilação por membranas com espaçamento de ar (AGMD)}{10}{subsection.2.1.1}%
-\contentsline {section}{\numberline {2.2}Membranas para destilação por membranas}{12}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1}Técnicas de caracterização}{13}{subsection.2.2.1}%
-\contentsline {section}{\numberline {2.3}Molhamento de membranas}{14}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Fouling e scaling em destilação por membranas}{17}{section.2.4}%
-\contentsline {section}{\numberline {2.5}Compatibilidade química e parâmetros de solubilidade de Hansen}{19}{section.2.5}%
-\contentsline {section}{\numberline {2.6}Tratamento de água via destilação por membranas}{20}{section.2.6}%
-\contentsline {section}{\numberline {2.7}Tratamento de água de produção via destilação por membranas}{23}{section.2.7}%
-\contentsline {section}{\numberline {2.8}Lacunas na literatura}{26}{section.2.8}%
-\contentsline {chapter}{\numberline {3}MATERIAIS E MÉTODOS}{28}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Aparato experimental}{28}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Membranas avaliadas}{30}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Caracterização das membranas}{31}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}Porometria de fluxo capilar}{31}{subsection.3.3.1}%
-\contentsline {subsection}{\numberline {3.3.2}Ângulo de contato}{33}{subsection.3.3.2}%
-\contentsline {subsection}{\numberline {3.3.3}Pressão de entrada de líquido (LEP)}{33}{subsection.3.3.3}%
-\contentsline {subsection}{\numberline {3.3.4}MEV e EDS}{33}{subsection.3.3.4}%
-\contentsline {subsection}{\numberline {3.3.5}Compatibilidade química}{34}{subsection.3.3.5}%
-\contentsline {section}{\numberline {3.4}Águas produzidas sintética e real}{34}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Indicadores de desempenho e análise de incertezas}{35}{section.3.5}%
-\contentsline {section}{\numberline {3.6}Protocolo de operação de longa duração}{36}{section.3.6}%
-\contentsline {section}{\numberline {3.7}Caracterização pós-operação - Tratamento e análise de dados}{37}{section.3.7}%
-\contentsline {chapter}{\numberline {4}RESULTADOS E ANÁLISES}{38}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Evolução do fluxo e da rejeição iônica}{38}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Molhamento progressivo}{38}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Fouling e scaling}{38}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Durabilidade química em concentração de campo}{38}{section.4.4}%
-\contentsline {section}{\numberline {4.5}Integridade estrutural das membranas}{38}{section.4.5}%
-\contentsline {section}{\numberline {4.6}Qualidade do permeado}{38}{section.4.6}%
-\contentsline {section}{\numberline {4.7}Caracterização das membranas}{38}{section.4.7}%
-\contentsline {section}{\numberline {4.8}Resultados de curto prazo}{39}{section.4.8}%
-\contentsline {section}{\numberline {4.9}Resultados de longo prazo}{41}{section.4.9}%
-\contentsline {chapter}{\numberline {5}CONCLUSÕES}{43}{chapter.5}%
-\contentsline {chapter}{\numberline {6}TRABALHOS FUTUROS}{45}{chapter.6}%
+\contentsline {subsection}{\numberline {2.1.1}Destilação por membranas com espaçamento de ar (AGMD)}{11}{subsection.2.1.1}%
+\contentsline {section}{\numberline {2.2}Membranas para destilação por membranas}{13}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Mecanismos de falha em destilação por membranas}{13}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Tratamento de água via destilação por membranas}{17}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Tratamento de água de produção via destilação por membranas}{20}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Lacunas na literatura}{23}{section.2.6}%
+\contentsline {chapter}{\numberline {3}MATERIAIS E MÉTODOS}{25}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Aparato experimental}{25}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Membranas avaliadas}{27}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Caracterização das membranas}{28}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Porometria de fluxo capilar}{28}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Ângulo de contato}{30}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Pressão de entrada de líquido (LEP)}{30}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4}MEV e EDS}{30}{subsection.3.3.4}%
+\contentsline {subsection}{\numberline {3.3.5}Compatibilidade química}{31}{subsection.3.3.5}%
+\contentsline {section}{\numberline {3.4}Águas produzidas sintética e real}{31}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Indicadores de desempenho e análise de incertezas}{32}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Protocolo de operação de longa duração}{33}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Caracterização pós-operação - Tratamento e análise de dados}{34}{section.3.7}%
+\contentsline {subsection}{\numberline {3.7.1}Técnicas de caracterização}{34}{subsection.3.7.1}%
+\contentsline {section}{\numberline {3.8}Compatibilidade química e parâmetros de solubilidade de Hansen}{35}{section.3.8}%
+\contentsline {chapter}{\numberline {4}RESULTADOS E ANÁLISES}{37}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Evolução do fluxo e da rejeição iônica}{37}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Molhamento progressivo}{37}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Fouling e scaling}{37}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Durabilidade química em concentração de campo}{37}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Integridade estrutural das membranas}{37}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Qualidade do permeado}{37}{section.4.6}%
+\contentsline {section}{\numberline {4.7}Caracterização das membranas}{37}{section.4.7}%
+\contentsline {section}{\numberline {4.8}Resultados de curto prazo}{38}{section.4.8}%
+\contentsline {section}{\numberline {4.9}Resultados de longo prazo}{40}{section.4.9}%
+\contentsline {chapter}{\numberline {5}CONCLUSÕES}{42}{chapter.5}%
+\contentsline {chapter}{\numberline {6}TRABALHOS FUTUROS}{44}{chapter.6}%

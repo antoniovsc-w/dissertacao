@@ -352,6 +352,60 @@ A vazão para os circuitos foi escolhida de modo a manter condições hidrodinâ
 - DESCREVER A ORGANIZAÇÃO DOS DADOS E A ANÁLISE 
 
 
+\subsection{Técnicas de caracterização}
 
+Uma vez que a exposição da membrana a água de produção pode modificar permanentemente suas caracteristicas superficiais e morfológicas, a caracterização da membrana, antes e após o uso, é uma etapa crucial para indentificar se a membrana escolhida possui as propriedades necessárias para o processo~\cite{Laqbaqbi2017}.
 
+Entre as técnicas empregadas na caracterização, destacam-se a porosimetria de fluxo capilar, a determinação da pressão de entrada de líquido (LEP), a medição do ângulo de contato e as técnicas de microscopia~\cite{Jena2010Porometry,Alqaheem2020}. Essas análises fornecem informações sobre a distribuição de tamanho dos poros, a resistência à penetração de líquido nos poros, a molhabilidade e a morfologia superficial das membranas~\cite{Yao2020WettabilityMD,Laqbaqbi2017}.
 
+A porosimetria de fluxo capilar avalia características da membrana como a porosidade aberta, o diâmentro e a distribuição de poro. O ensaio consiste em submergir a membrana em um líquido de molhamento, o qual possui baixa tensão superficial, de modo a preencher os poros~\cite{TanisKanbur2021,Jena2010Porometry}.
+
+Posteriormente ao molhamento, a superfície hidrofóbica da membrana é submetida a pressão crescente de um gás. O maior diâmetro de poro é então registrado a partir do momento em que observa-se bolhas na superfície posterior da membrana (\textit(bubble point)), ou quando ocorre uma queda de pressão~\cite{TanisKanbur2021,Jena2010Porometry}. A pressão é aumentada até que o líquido de molhamento seja removido de todos os poros~\cite{TanisKanbur2021,Jena2010Porometry}.
+
+Entretanto os resultados devem ser avaliados com cautela, uma vez que para o calculo do diâmetro de poro é considerado um fator de forma que correlaciona o formato do poro com um cilindro~\cite{TanisKanbur2021,Jena2010Porometry}.
+
+A molhabilidade superficial pode ser avaliada por meio da medição do ângulo de contato entre uma gota de líquido e a superfície da membrana. A análise com o goniômetro é realizada através do método da gota séssil, no qual uma gota d'água é depositada sobre a superfície da membrana e registrada por um sistema de aquisição de imagens de alta resolução~\cite{Park2017LEP}.
+
+Os dados obtidos com a porosimetria de fluxo capilar e medição de ângulo de contato permitem estimar a pressão de entrada de líquido. Este parâmetro é fundamental para avaliar a resistência da membrana à penetração da fase líquida, calculado através da equação \ref{eq:LEP_rev}, 
+
+\begin{equation}
+    LEP = -\frac{2 \cdot K \cdot \gamma_L \cdot \cos\theta}{r_{\max}},
+    \label{eq:LEP_rev}
+\end{equation}
+
+onde $\gamma_L$ é a tensão superficial do líquido, $\theta$ é o ângulo de contato entre o líquido e a superfície da membrana, $r_{\max}$ é o maior raio de poro da membrana e $K$ o fator de forma atribuído ao poro~\cite{Park2017LEP,Eykens2016}.
+
+As técnicas de microscopia, como a microscopia eletrônica de varredura (MEV) e a microscopia de força atômica (AFM), permitem investigar características morfológicas e topográficas das membranas. 
+
+A MEV possibilita observar a estrutura superficial e transversal, enquanto a AFM fornece informações sobre a topografia e a rugosidade da superfície. Essas análises podem complementar os resultados obtidos por porosimetria e contribuir para a identificação de alterações estruturais e da presença de depósitos após a exposição à solução de alimentação~\cite{Alqaheem2020}.
+
+Adicionalmente, a caracterização química dos depósitos pode ser realizada por meio de técnicas como a espectroscopia por dispersão de energia (EDS). Essa técnica fornece informações sobre a composição química dos materiais presentes na superfície, de modo a auxiliar na investigação dos fenômenos de deposição e incrustação~\cite{Alqaheem2020}.
+
+\section{Compatibilidade química e parâmetros de solubilidade de Hansen}
+
+A compatibilidade química entre as membranas empregadas no processo MD e os compostos orgânicos presentes na água de produção representa um fator relevante para a estabilidade do processo durante operações prolongadas. Materiais como PTFE, PP, PE e fluoreto de polivinilideno PVDF são amplamente empregados em MD devido às suas propriedades hidrofóbicas e à capacidade de manter a interface líquido - vapor na entrada dos poros~\cite{Tomczak2022}. 
+
+Entretanto, a resistência química desses materiais não implica necessariamente ausência de interações com os compostos orgânicos presentes na água de produção~\cite{Kass2017Hansen}. A compatibilidade entre polímeros e solventes pode ser relacionada através da afinidade termodinâmica entre as substâncias, que influencia a incorporação de moléculas do solvente à matriz polimérica~\cite{Yushkin2018Hansen,Hansen2000}.
+
+Desse modo, a avaliação da interação entre os contaminantes presentes na água de produção e os materiais constituintes das membranas é relevante, uma vez que a estabilidade química do polímero e a manutenção de suas propriedades físicas são aspectos distintos~\cite{Hansen2000}.
+
+A interação entre solventes orgânicos como os BTEX e materiais poliméricos pode promover fenômenos de sorção, difusão e inchamento (swelling), cuja intensidade depende da afinidade entre as substâncias e das características estruturais do polímero~\cite{Hansen2000,Yushkin2018Hansen,Kass2017Hansen}.
+
+A sorção corresponde à incorporação de moléculas do solvente à matriz polimérica, de modo a provocar o inchamento, alterações na morfologia da membrana e na resistência a transferência de massa e consequentemente o desempenho e estabilidade operacional~\cite{Hansen2000,Yushkin2018Hansen,Kass2017Hansen}.
+
+Para polimeros de microporosidade intrínseca (PIMs) como poli-benzodioxano, observa-se inchamento de 147 a 192~\% na presença de benzeno, tolueno e xilenos, o que demonstra a influência da natureza do solvente sobre a sorção e a permeabilidade do material~\cite{Yushkin2018Hansen}. 
+ 
+Um modo de quantificar a interação entre os materiais poliméricos das membranas e os BTEX é através da distância de Hansen, $R_a$, o qual considera que a interação entre o polímero e o solvente é dependente das forças intermoleculares de ambos, de modo que quanto maior a afinidade entre as substâncias, menor é a distância de Hansen e maior é a tendência à ocorrência de inchamento, sorção ou solubilização~\cite{Hansen2000}.
+
+Para o cálculo da distância de Hansen através da equação \ref{eq:distancia_hansen}, utilizam-se os parâmetros de Hansen, os quais representam as forças dispersivas, $\delta_D$, as interações polares, $\delta_P$ e as ligações de hidrogênio, $\delta_H$. Os valores dos três parâmetros são definidos experimentalmente e os subscritos $p$ e $s$ referem-se a polímero e solvente, respectivamente~\cite{Hansen2000}.
+
+\begin{equation}
+    R_a = \sqrt{
+        4(\delta_{D,p} - \delta_{D,s})^2
+        + (\delta_{P,p} - \delta_{P,s})^2
+        + (\delta_{H,p} - \delta_{H,s})^2
+    }
+    \label{eq:distancia_hansen}
+\end{equation}
+
+Deste modo, é importante que ao selecionar membranas para o tratamento de água de produção através de destilação por membranas, verifique-se a interação entre os materias que compõe a membrana e os contaminantes, afim de evitar a ocorrência dos fenômenos de sorção e inchamento.
